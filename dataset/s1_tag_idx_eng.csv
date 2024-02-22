@@ -1,0 +1,1201 @@
+﻿idx,imdb_id,tags_idx
+0,tt0023427,violence;murder
+1,tt0029583,fantasy;murder;cute;good versus evil;romantic;entertaining
+2,tt0031381,romantic;boring;historical;murder;melodrama
+3,tt0032910,cute;fantasy;entertaining
+4,tt0033563,psychedelic;cute
+5,tt0034492,cute
+6,tt0035896,violence;murder
+7,tt0038499,murder;violence;melodrama;tragedy;revenge;sadist
+8,tt0040746,murder;cult;atmospheric;philosophical;suspenseful;storytelling
+9,tt0041716,romantic
+10,tt0042332,romantic;fantasy
+11,tt0043067,insanity;action;murder
+12,tt0043274,fantasy;whimsical;cute;alternate reality;psychedelic;entertaining
+13,tt0043379,violence;action;historical fiction
+14,tt0044926,romantic
+15,tt0045125,revenge;action;murder
+16,tt0045152,comedy;boring;flashback;satire;romantic;historical
+17,tt0045810,romantic;satire
+18,tt0045888,revenge;murder
+19,tt0045963,romantic
+20,tt0046183,good versus evil;psychedelic;fantasy;action;entertaining
+21,tt0046303,revenge;murder;violence;melodrama
+22,tt0046672,sci-fi
+23,tt0046912,suspenseful;murder;claustrophobic
+24,tt0047396,mystery;suspenseful;horror;murder;claustrophobic
+25,tt0047472,romantic
+26,tt0047673,romantic
+27,tt0047834,allegory;psychedelic;satire;murder
+28,tt0047849,cult;murder
+29,tt0048545,cult;violence;romantic
+30,tt0048728,murder;atmospheric
+31,tt0048801,romantic
+32,tt0049223,comedy;psychological;murder;cult;psychedelic;suspenseful;sci-fi
+33,tt0049233,comedy;murder;romantic
+34,tt0049261,romantic;depressing;realism;melodrama
+35,tt0049513,revenge;philosophical
+36,tt0049674,murder
+37,tt0049966,melodrama;revenge;psychedelic;romantic;flashback
+38,tt0050419,philosophical
+39,tt0051459,sentimental
+40,tt0051554,gothic;paranormal;cult;violence;good versus evil;suspenseful
+41,tt0051658,romantic
+42,tt0052357,mystery;murder;cult;atmospheric;flashback;psychedelic;romantic;plot twist
+43,tt0052618,suspenseful;murder;suicidal;violence;romantic;revenge;historical
+44,tt0052905,gothic;murder;atmospheric
+45,tt0052918,melodrama
+46,tt0052948,murder
+47,tt0053125,comedy;mystery;murder;clever;humor;suspenseful
+48,tt0053172,romantic;comedy
+49,tt0053221,good versus evil;cult;suspenseful;psychedelic;humor
+50,tt0054047,revenge;cult;murder;violence
+51,tt0054195,romantic
+52,tt0054331,tragedy;romantic;historical;murder;violence
+53,tt0054357,action
+54,tt0054494,absurd;psychedelic
+55,tt0054698,cult;psychedelic;humor;satire;melodrama;romantic;sentimental
+56,tt0054847,violence
+57,tt0055257,revenge;cult
+58,tt0055304,insanity;cult;gothic;murder;flashback
+59,tt0055471,romantic;melodrama
+60,tt0055614,tragedy;revenge;murder;romantic;entertaining
+61,tt0055928,good versus evil;cult;murder
+62,tt0056172,murder;cult;violence;atmospheric;flashback;insanity;historical
+63,tt0056264,action
+64,tt0056923,romantic;humor;murder
+65,tt0057076,cult;murder
+66,tt0057197,cult;murder
+67,tt0057590,romantic;satire
+68,tt0058150,suspenseful;murder;cult;action;humor;revenge
+69,tt0058329,melodrama;romantic;psychological;murder;flashback
+70,tt0058331,cute;humor;psychedelic;entertaining;sentimental
+71,tt0058385,romantic;entertaining;clever
+72,tt0058571,romantic
+73,tt0058672,suspenseful;intrigue
+74,tt0058777,cult;historical
+75,tt0059017,revenge
+76,tt0059113,avant garde;murder;atmospheric;romantic;revenge;historical
+77,tt0059125,revenge
+78,tt0059260,cult
+79,tt0059800,cult;humor;murder;suspenseful
+80,tt0060345,cult;fantasy;psychedelic;entertaining;humor
+81,tt0060390,psychedelic;satire;murder
+82,tt0060397,cult;suspenseful;psychedelic;claustrophobic
+83,tt0060522,comedy
+84,tt0061418,comedy;depressing;murder;cult;violence;humor;romantic;revenge;storytelling
+85,tt0061452,murder;cult;violence;absurd;psychedelic;satire;comic;revenge
+86,tt0061512,dramatic;atmospheric;humor;realism;sadist
+87,tt0061584,cult;fantasy;flashback
+88,tt0061735,melodrama
+89,tt0061791,comedy;satire
+90,tt0061810,brainwashing
+91,tt0061811,murder
+92,tt0061852,cute;entertaining
+93,tt0062138,pornographic;suspenseful;neo noir;murder;cult;violence;flashback;revenge
+94,tt0062168,intrigue;insanity;cult;suspenseful
+95,tt0062512,cult;psychedelic;murder;violence
+96,tt0062622,avant garde;mystery;murder;boring;realism;paranormal;cult;atmospheric;flashback;psychedelic;philosophical;sci-fi
+97,tt0062711,pornographic;avant garde;cruelty;fantasy;adult comedy;cult;good versus evil;psychedelic;romantic;entertaining
+98,tt0062737,romantic;action;comic
+99,tt0062765,neo noir;realism;murder;cult;violence;suspenseful
+100,tt0062776,psychedelic;satire
+101,tt0062803,psychedelic;entertaining;sci-fi
+102,tt0063285,gothic;bleak;violence;cult;atmospheric;claustrophobic;romantic;sadist
+103,tt0063385,romantic;murder;melodrama
+104,tt0063442,murder;allegory;dramatic;cult;violence;satire;suspenseful
+105,tt0063518,murder;cult;action;romantic;tragedy;revenge
+106,tt0063522,murder;horror;atmospheric;good versus evil;psychedelic;suspenseful
+107,tt0064115,murder;cult;violence;humor;tragedy;historical
+108,tt0064276,comedy;avant garde;dark;murder;realism;cult;atmospheric;psychedelic;humor;satire
+109,tt0064603,cult
+110,tt0064665,tragedy;psychedelic;humor;realism;flashback
+111,tt0064757,murder;cult;violence;tragedy;brainwashing;romantic
+112,tt0064782,cult;comedy
+113,tt0065054,tragedy
+114,tt0065063,comedy;satire;entertaining
+115,tt0065088,depressing;flashback
+116,tt0065112,suspenseful;intrigue;murder
+117,tt0065126,revenge;murder
+118,tt0065134,cult;avant garde;murder;violence
+119,tt0065207,plot twist;violence;romantic;flashback
+120,tt0065377,cult;suspenseful;melodrama
+121,tt0065462,murder;allegory;anti war;violence;cult;flashback;good versus evil;action;satire;suspenseful
+122,tt0065724,cult;romantic
+123,tt0065738,insanity;gothic;murder
+124,tt0066206,violence;boring;historical
+125,tt0066214,mystery;murder;cult;violence;atmospheric;psychedelic
+126,tt0066344,flashback
+127,tt0066434,avant garde;suspenseful;murder;neo noir;psychological;cult;psychedelic;romantic;sci-fi
+128,tt0066808,cult;comedy;satire
+129,tt0066995,cult;revenge;murder
+130,tt0066999,dark;suspenseful;cruelty;murder;neo noir;realism;cult;violence;good versus evil;revenge;sadist
+131,tt0067023,mystery;cult;comedy;suspenseful
+132,tt0067065,alternate history;murder;flashback
+133,tt0067093,avant garde;flashback
+134,tt0067185,comedy;dark;cute;cult;psychedelic;humor
+135,tt0067309,murder;mystery;neo noir;storytelling;sadist
+136,tt0067588,neo noir;murder;cult;flashback;insanity;romantic;revenge
+137,tt0067741,grindhouse film;murder;cult;violence;atmospheric;suspenseful;blaxploitation
+138,tt0067756,comedy;murder;cult;atmospheric;flashback;psychedelic;claustrophobic;inspiring
+139,tt0067800,suspenseful;cruelty;murder;cult;violence;flashback;revenge;sadist
+140,tt0067959,insanity;mystery;storytelling;flashback
+141,tt0067992,boring;fantasy;whimsical;cute;cult;psychedelic;entertaining
+142,tt0068240,murder
+143,tt0068327,romantic;depressing;historical;queer
+144,tt0068473,mystery;psychological;realism;murder;cult;violence;suspenseful
+145,tt0068555,pornographic;psychedelic;humor;satire
+146,tt0068611,murder;cult;revenge;horror;flashback;suspenseful;sadist
+147,tt0068699,dark;suspenseful;mystery;murder;bleak;western;violence;cult;flashback;psychedelic;revenge
+148,tt0068762,bleak;realism;revenge;murder;atmospheric
+149,tt0069097,psychedelic;satire;romantic
+150,tt0069280,boring;murder;flashback;insanity;absurd;psychedelic;revenge;storytelling
+151,tt0069281,mystery;psychological;murder;cult;revenge;suspenseful
+152,tt0069293,mystery;boring;psychological;cult;atmospheric;flashback;psychedelic;romantic
+153,tt0069704,cult;romantic;prank
+154,tt0069762,bleak;atmospheric;cult;murder;violence
+155,tt0069768,violence
+156,tt0069865,realism;cult;suspenseful;neo noir;murder
+157,tt0069897,dark;cruelty;murder;neo noir;cult;sadist;violence;action;romantic;revenge;blaxploitation
+158,tt0069945,comedy;cult;absurd;psychedelic;satire;philosophical
+159,tt0069995,gothic;paranormal;cult;atmospheric;flashback;psychedelic;suspenseful
+160,tt0070016,romantic;cute;sentimental
+161,tt0070034,suspenseful;murder;cult;violence;flashback;good versus evil;revenge
+162,tt0070239,psychedelic;boring
+163,tt0070328,paranormal;blaxploitation;cult;murder;violence
+164,tt0070355,cult;murder;violence
+165,tt0070379,cult;comedy;neo noir;murder;violence
+166,tt0070511,violence;cult;boring;romantic
+167,tt0070608,good versus evil;action
+168,tt0070666,dark;neo noir;violence;atmospheric;flashback;romantic
+169,tt0070698,avant garde;murder;paranormal;cult;good versus evil;insanity;satire;claustrophobic
+170,tt0070723,bleak;cult;murder;atmospheric
+171,tt0071110,suspenseful
+172,tt0071129,cult;flashback;psychedelic;humor;satire;prank
+173,tt0071230,comedy;cult;flashback;good versus evil;absurd;satire;comic;entertaining
+174,tt0071292,murder;sadist
+175,tt0071315,comedy;dark;depressing;murder;neo noir;mystery;bleak;cult;violence;plot twist;atmospheric;humor;suspenseful
+176,tt0071402,revenge;cult;neo noir;murder;violence
+177,tt0071455,comedy;suspenseful;murder;cult;melodrama;revenge
+178,tt0071569,good versus evil;cult;action
+179,tt0071853,comedy;murder;cult;violence;psychedelic;absurd;satire;humor;entertaining
+180,tt0071877,dramatic;mystery;murder
+181,tt0071994,dark;comedy;cruelty;gothic;murder;cult;violence;tragedy;revenge
+182,tt0072288,violence;comedy
+183,tt0072684,boring;cruelty;atmospheric;melodrama
+184,tt0072750,insanity
+185,tt0072890,comedy;atmospheric
+186,tt0073018,neo noir
+187,tt0073195,horror;cult;suspenseful;violence;prank
+188,tt0073440,tragedy;humor;satire;atmospheric
+189,tt0073486,psychological;depressing;dramatic;cult;violence;insanity;satire;claustrophobic;sadist;sentimental
+190,tt0073540,mystery;historical;boring;flashback
+191,tt0073812,cult;humor;psychedelic;murder;boring
+192,tt0074119,inspiring;suspenseful;mystery;historical;dramatic
+193,tt0074156,comedy;suspenseful;neo noir;murder;violence;cult;good versus evil;claustrophobic;tragedy;revenge;sadist
+194,tt0074256,depressing;comic;flashback
+195,tt0074285,comedy;fantasy;cruelty;suspenseful;gothic;murder;paranormal;dark;cult;violence;horror;atmospheric;insanity;romantic;tragedy;revenge;sadist;prank
+196,tt0074455,grindhouse film;murder;cult;horror;violence;insanity
+197,tt0074512,paranormal;suspenseful;murder
+198,tt0074559,comedy;murder;cult;violence;sci-fi;prank
+199,tt0074860,suspenseful;murder;violence;horror;flashback;revenge
+200,tt0074937,mystery;murder
+201,tt0074958,comedy;avant garde;murder;dramatic;suicidal;atmospheric;insanity;humor;satire;brainwashing
+202,tt0074991,violence;neo noir;flashback
+203,tt0075147,tragedy;violence;action;murder;historical fiction
+204,tt0075148,dramatic;cult;violence;melodrama;inspiring;romantic;entertaining
+205,tt0075222,comedy
+206,tt0075223,cult;comedy;murder;violence
+207,tt0075261,murder
+208,tt0075314,dark;psychological;neo noir;murder;boring;cult;violence;atmospheric;insanity;romantic;revenge
+209,tt0075648,suspenseful;murder
+210,tt0075860,mystery;dramatic;humor
+211,tt0076009,cult
+212,tt0076141,paranormal;murder
+213,tt0076451,romantic
+214,tt0076538,action;entertaining;boring
+215,tt0076578,boring;entertaining
+216,tt0076636,suspenseful;comedy;murder
+217,tt0076716,good versus evil;revenge;cult
+218,tt0076786,avant garde;cruelty;gothic;murder;paranormal;cult;violence;horror;atmospheric;flashback;good versus evil;psychedelic;romantic;suspenseful;sadist
+219,tt0076929,fantasy;violence;cult;good versus evil;psychedelic;absurd;satire;romantic
+220,tt0077235,cult;philosophical
+221,tt0077394,good versus evil;violence;gothic;murder
+222,tt0077402,comedy;suspenseful;grindhouse film;murder;cult;horror;violence;good versus evil;absurd;action;satire;claustrophobic;revenge;entertaining;sadist
+223,tt0077405,tragedy;boring;murder;atmospheric
+224,tt0077413,mystery;murder
+225,tt0077523,comedy;violence;prank
+226,tt0077572,psychedelic
+227,tt0077578,murder
+228,tt0077631,cult
+229,tt0077651,gothic;murder;cult;horror;violence;good versus evil
+230,tt0077663,murder
+231,tt0077742,depressing
+232,tt0077745,horror;violence;humor;murder;flashback
+233,tt0077928,cruelty;murder;bleak;violence;cult;philosophical;romantic;claustrophobic;revenge;sadist
+234,tt0077975,comedy;cult;satire;revenge;entertaining;prank
+235,tt0078087,tragedy;cult;comedy;violence
+236,tt0078158,paranormal;brainwashing
+237,tt0078346,good versus evil;suspenseful;fantasy;entertaining;humor
+238,tt0078480,allegory;violence;cult;atmospheric;psychedelic;romantic
+239,tt0078721,romantic
+240,tt0078723,absurd;cult;psychedelic;satire
+241,tt0078748,dark;boring;gothic;murder;mystery;cult;violence;horror;atmospheric;action;claustrophobic;suspenseful;sci-fi
+242,tt0078754,tragedy;comedy;flashback
+243,tt0078788,dark;boring;psychological;allegory;cult;violence;anti war;dramatic;insanity;psychedelic;action;suspenseful
+244,tt0078902,inspiring;prank
+245,tt0078935,cruelty;murder;violence;cult;horror;insanity;tragedy;suspenseful;sadist
+246,tt0079116,suspenseful;violence
+247,tt0079261,anti war;cult;romantic;flashback
+248,tt0079285,violence;murder
+249,tt0079417,dramatic
+250,tt0079489,romantic
+251,tt0079501,suspenseful;murder;cult;violence;good versus evil;action;tragedy;revenge
+252,tt0079522,comedy;humor;satire;romantic
+253,tt0079540,prank
+254,tt0079574,good versus evil;cult;suspenseful;murder
+255,tt0079714,good versus evil;cult;horror;murder
+256,tt0079766,cult
+257,tt0079817,violence;revenge;cult;romantic;flashback
+258,tt0079946,good versus evil;cult
+259,tt0080025,murder;violence;cult;romantic;alternate history;sci-fi
+260,tt0080031,cult;neo noir;violence
+261,tt0080319,revenge;satire
+262,tt0080339,comedy;cult;flashback;psychedelic;absurd;satire;humor;romantic;entertaining
+263,tt0080354,tragedy;cult;violence
+264,tt0080360,allegory;violence;cult;alternate reality;psychedelic;romantic;suspenseful
+265,tt0080365,intrigue;neo noir;murder;sadist
+266,tt0080377,violence
+267,tt0080391,cult;entertaining
+268,tt0080421,cult
+269,tt0080472,cult;suicidal;violence;comic
+270,tt0080474,violence;murder
+271,tt0080487,comedy;cult;violence;absurd;humor;entertaining
+272,tt0080661,pornographic;mystery;neo noir;murder;cult;violence;suspenseful;sadist
+273,tt0080684,dark;fantasy;mystery;cult;violence;good versus evil;action;tragedy
+274,tt0080745,good versus evil;cult;psychedelic
+275,tt0080761,suspenseful;grindhouse film;cruelty;gothic;murder;boring;cult;horror;violence;insanity;revenge;sadist;prank
+276,tt0080904,cult;murder;violence
+277,tt0080923,dark;gothic;murder;violence;cult;horror;atmospheric;suspenseful;sadist
+278,tt0080979,bleak
+279,tt0081114,realism;murder;violence;cult;horror;sadist
+280,tt0081207,revenge
+281,tt0081283,melodrama;romantic;depressing;flashback
+282,tt0081375,revenge;satire;prank
+283,tt0081383,grindhouse film;cruelty;murder;cult;horror;violence;revenge;sadist
+284,tt0081455,murder;paranormal;cult;violence;flashback;psychedelic;tragedy;suspenseful
+285,tt0081480,comedy
+286,tt0081505,dark;psychological;mystery;murder;paranormal;cult;horror;haunting;atmospheric;good versus evil;insanity;psychedelic;suspenseful
+287,tt0081534,cult;cute;alternate history;romantic
+288,tt0081573,good versus evil;revenge;action;violence
+289,tt0081633,comedy;fantasy;cult;good versus evil;psychedelic;absurd;satire;action;historical;entertaining;sci-fi
+290,tt0081696,violence
+291,tt0081748,flashback
+292,tt0081764,cult;murder
+293,tt0082009,cult
+294,tt0082031,comedy;entertaining
+295,tt0082085,cult;mystery;neo noir;murder
+296,tt0082089,suspenseful;neo noir;murder;atmospheric
+297,tt0082158,inspiring;historical;flashback
+298,tt0082186,cult;revenge;psychedelic
+299,tt0082198,fantasy;boring;murder;violence;cult;good versus evil;action;revenge;alternate history
+300,tt0082220,revenge;neo noir;murder
+301,tt0082288,cult;fantasy;violence
+302,tt0082340,dark;neo noir;murder;cult;violence;humor;action;entertaining
+303,tt0082348,psychedelic;cult;historical;violence;historical fiction
+304,tt0082398,revenge;murder;violence
+305,tt0082418,grindhouse film;gothic;murder;cult;horror;violence;flashback;insanity;humor;suspenseful
+306,tt0082431,tragedy;cult;horror;violence;plot twist
+307,tt0082432,anti war;murder;atmospheric
+308,tt0082449,horror;gothic;murder;flashback
+309,tt0082495,murder;cult;horror;violence;good versus evil;insanity;suspenseful
+310,tt0082498,revenge;cult;murder;violence;flashback
+311,tt0082509,pornographic;comedy;murder;cult;alternate reality;violence;good versus evil;psychedelic;satire
+312,tt0082517,comedy;satire;alternate history
+313,tt0082677,psychedelic;intrigue;murder
+314,tt0082727,realism
+315,tt0082766,cult;melodrama
+316,tt0082782,cult;murder;violence;flashback
+317,tt0082801,cult
+318,tt0082846,romantic
+319,tt0082869,cult;atmospheric;violence
+320,tt0082933,avant garde;murder;allegory;cult;violence;insanity;psychedelic;philosophical;romantic
+321,tt0082970,tragedy;insanity;historical;murder
+322,tt0082971,comedy;mystery;murder;paranormal;cult;violence;atmospheric;good versus evil;humor;action;romantic;entertaining
+323,tt0083131,comedy;satire
+324,tt0083284,intrigue
+325,tt0083511,comedy;suspenseful;neo noir;murder;violence;cult;action;revenge
+326,tt0083530,entertaining;flashback
+327,tt0083542,comedy;suspenseful;grindhouse film;murder;cult;horror;violence;insanity;revenge;sadist
+328,tt0083550,gothic
+329,tt0083564,cult;cruelty;depressing
+330,tt0083624,grindhouse film;murder;cult;violence;horror;flashback;psychedelic
+331,tt0083658,dark;boring;neo noir;gothic;murder;fantasy;mystery;dramatic;cult;atmospheric;action;philosophical;romantic;blaxploitation;sci-fi
+332,tt0083722,fantasy;mystery;murder;dramatic;violence;insanity;romantic;queer
+333,tt0083767,comedy;dark;cult;horror;violence;psychedelic;revenge
+334,tt0083806,paranormal;psychedelic;horror;murder
+335,tt0083866,comedy;boring;fantasy;dramatic;cult;sentimental
+336,tt0083929,cult;prank;romantic;melodrama
+337,tt0083943,suspenseful;murder;violence
+338,tt0083944,suspenseful;cruelty;murder;anti war;cult;violence;dramatic;flashback;action;tragedy;revenge;sadist
+339,tt0083946,cult;suspenseful;psychedelic
+340,tt0083987,violence;historical;murder
+341,tt0084021,romantic
+342,tt0084112,suspenseful;neo noir;cruelty;murder;violence;revenge;sadist
+343,tt0084370,action
+344,tt0084408,violence;murder
+345,tt0084438,murder
+346,tt0084503,dark;avant garde;depressing;psychological;dramatic;cult;violence;flashback;insanity;psychedelic;romantic;historical;prank
+347,tt0084516,mystery;paranormal;cult;horror;haunting;good versus evil;suspenseful
+348,tt0084522,revenge;cult;prank
+349,tt0084602,comedy;bleak;violence;cult;flashback;romantic;revenge
+350,tt0084707,tragedy;murder;sadist;flashback
+351,tt0084777,gothic;murder;violence;horror;flashback;brainwashing;storytelling
+352,tt0084786,cult;flashback
+353,tt0084805,cult;entertaining;romantic;queer
+354,tt0084854,cult;grindhouse film;murder
+355,tt0084899,tragedy;allegory;cult;murder;sentimental
+356,tt0085204,storytelling
+357,tt0085255,cult;action;murder
+358,tt0085271,cult;psychological;flashback
+359,tt0085276,cult;neo noir;murder
+360,tt0085333,gothic;paranormal;cult;revenge;horror;violence;good versus evil;suspenseful
+361,tt0085382,insanity;cult;murder
+362,tt0085475,cult
+363,tt0085513,murder
+364,tt0085615,action;murder
+365,tt0085636,paranormal;cult;horror;gothic;murder
+366,tt0085672,cult;grindhouse film;violence
+367,tt0085701,neo noir;gothic;murder;paranormal;cult;atmospheric
+368,tt0085724,violence;romantic
+369,tt0085750,prank
+370,tt0085809,cult;avant garde;psychedelic
+371,tt0085811,cult;action;romantic;fantasy
+372,tt0085937,violence;murder;comic
+373,tt0085970,satire
+374,tt0085980,cult
+375,tt0085995,comedy
+376,tt0086034,revenge;cult;murder
+377,tt0086129,revenge;cult;satire;humor;prank
+378,tt0086143,cult;stupid;prank
+379,tt0086154,insanity;revenge;cult;murder;flashback
+380,tt0086190,fantasy;dramatic;cult;violence;good versus evil;action;tragedy
+381,tt0086200,pornographic;cult;adult comedy;prank
+382,tt0086250,cruelty;murder;dramatic;cult;violence;atmospheric;action;romantic;revenge;sadist
+383,tt0086320,grindhouse film;murder;cult;horror;violence;flashback;insanity
+384,tt0086361,cult
+385,tt0086383,neo noir;murder;cult;revenge;violence;flashback;humor;romantic
+386,tt0086425,romantic;suspenseful;sentimental;melodrama
+387,tt0086450,satire
+388,tt0086465,comedy;adult comedy;cult;humor;satire;revenge
+389,tt0086508,comedy;murder;anti war;cult;violence;insanity;tragedy
+390,tt0086525,violence;cult
+391,tt0086541,dark;suspenseful;gothic;murder;mystery;cult;alternate reality;violence;flashback;insanity;psychedelic;satire;philosophical;brainwashing;revenge;sci-fi
+392,tt0086567,anti war
+393,tt0086859,neo noir;murder
+394,tt0086879,murder;dramatic;flashback;humor;tragedy;historical;sentimental
+395,tt0086960,comedy;murder;violence;cult;humor;action;revenge;entertaining
+396,tt0086969,dramatic;psychological;flashback
+397,tt0086973,pornographic;romantic;adult comedy
+398,tt0087032,cult
+399,tt0087050,murder;paranormal;cult;violence;good versus evil;romantic
+400,tt0087065,psychedelic;murder
+401,tt0087078,murder;cult;fantasy;alternate history;violence
+402,tt0087182,fantasy;cult;intrigue;violence;good versus evil;action;sci-fi
+403,tt0087277,cult
+404,tt0087332,comedy;fantasy;mystery;paranormal;cult;haunting;humor;action
+405,tt0087363,cult;horror;comedy
+406,tt0087469,mystery;gothic;cruelty;murder;cult;violence;action;brainwashing;romantic;sadist
+407,tt0087507,revenge;flashback
+408,tt0087747,flashback
+409,tt0087799,comedy;cult;horror;violence;action;humor
+410,tt0087843,cruelty;murder;cult;violence;atmospheric;flashback;good versus evil;sadist
+411,tt0087884,psychedelic;depressing;home movie
+412,tt0087909,mystery;cruelty;suspenseful;murder;paranormal;cult;horror;violence;haunting;flashback;insanity;psychedelic;revenge;sadist
+413,tt0087921,melodrama;flashback
+414,tt0087928,comedy;cult;violence;absurd;comic;romantic;entertaining
+415,tt0087985,cult;cruelty;murder;violence
+416,tt0087995,dark;comedy;cult;violence;absurd;psychedelic;sci-fi
+417,tt0088000,revenge;cult;prank
+418,tt0088011,mystery;cult;action;romantic
+419,tt0088103,good versus evil
+420,tt0088128,cult;humor;depressing;romantic
+421,tt0088161,romantic;entertaining;flashback
+422,tt0088170,cult;revenge;murder
+423,tt0088172,comedy;suspenseful;boring;cult;violence;clever;psychedelic;revenge;home movie
+424,tt0088206,good versus evil;cult;psychedelic;violence;romantic
+425,tt0088258,comedy;boring;cult;absurd;humor;satire;psychedelic
+426,tt0088272,suspenseful;neo noir;murder;violence;cult;revenge
+427,tt0088680,comedy;dark;murder;cult;absurd;psychedelic;queer
+428,tt0088708,comedy;murder;cult;violence;flashback;action;revenge
+429,tt0088763,entertaining;comedy;mystery;fantasy;whimsical;cult;alternate reality;clever;psychedelic;humor;romantic;alternate history;sci-fi
+430,tt0088794,absurd;cult;comedy;psychedelic;romantic
+431,tt0088846,comedy;dark;neo noir;murder;fantasy;thought-provoking;cult;alternate reality;atmospheric;insanity;psychedelic;absurd;satire;humor;sci-fi
+432,tt0088850,entertaining
+433,tt0088889,cult;entertaining;sadist
+434,tt0088930,comedy;mystery;murder;cult;violence;flashback;psychedelic;humor
+435,tt0088944,suspenseful;realism;murder;cult;violence;good versus evil;action;revenge
+436,tt0088993,comedy;suspenseful;grindhouse film;murder;cult;horror;violence;insanity;satire;claustrophobic;revenge;sadist
+437,tt0089003,revenge;cult;neo noir;murder;violence
+438,tt0089015,queer
+439,tt0089092,revenge
+440,tt0089114,cult
+441,tt0089118,suspenseful;murder;violence
+442,tt0089122,revenge;violence
+443,tt0089155,cult;humor;comedy
+444,tt0089175,cult;violence
+445,tt0089360,neo noir;murder;intrigue;plot twist;romantic;suspenseful
+446,tt0089393,cult;comedy
+447,tt0089421,good versus evil;action
+448,tt0089424,avant garde
+449,tt0089457,fantasy;murder;dramatic;violence;tragedy;romantic
+450,tt0089469,dark;fantasy;gothic;cult;good versus evil;action;brainwashing;romantic
+451,tt0089489,cult;humor;psychedelic;violence;flashback
+452,tt0089504,cult;satire
+453,tt0089530,violence;action
+454,tt0089604,revenge;cult;murder;violence
+455,tt0089643,romantic
+456,tt0089755,dramatic;romantic;storytelling
+457,tt0089767,revenge;psychedelic;murder;violence
+458,tt0089791,cult;mystery;psychedelic;entertaining;humor
+459,tt0089822,comedy;bleak;cult;violence;comic;revenge
+460,tt0089826,cult;humor
+461,tt0089841,romantic;comedy;murder
+462,tt0089880,murder;violence;cult;humor;action;revenge
+463,tt0089881,murder;violence;atmospheric;insanity;tragedy;revenge;sentimental
+464,tt0089886,revenge;cult;prank
+465,tt0089893,cult;action;alternate history;violence;fantasy
+466,tt0089901,comedy;murder;cult;violence;humor;philosophical;revenge;sadist
+467,tt0089908,cult;fantasy
+468,tt0089913,cult;violence
+469,tt0089927,comedy;cult;violence;flashback;action;tragedy;revenge
+470,tt0089941,allegory;suspenseful;violence
+471,tt0090022,cult;murder;violence
+472,tt0090056,humor
+473,tt0090060,cult;romantic
+474,tt0090098,comedy;adult comedy
+475,tt0090142,cult;comedy;romantic
+476,tt0090180,revenge;neo noir;murder;violence
+477,tt0090184,cult;romantic
+478,tt0090305,pornographic;cult;comedy
+479,tt0090329,mystery;neo noir;murder;realism;dramatic;violence;romantic;suspenseful
+480,tt0090357,murder;cult;violence;good versus evil;action;romantic;sci-fi
+481,tt0090555,humor;entertaining
+482,tt0090567,neo noir;murder
+483,tt0090605,dark;cult;violence;horror;atmospheric;action;tragedy;suspenseful
+484,tt0090660,murder
+485,tt0090670,violence;neo noir;murder
+486,tt0090683,good versus evil;violence
+487,tt0090728,paranormal;cult;psychedelic;humor;romantic;suspenseful
+488,tt0090738,mystery;neo noir;murder
+489,tt0090756,dark;avant garde;neo noir;murder;mystery;cult;violence;atmospheric;good versus evil;psychedelic;satire
+490,tt0090837,violence;murder
+491,tt0090849,cult;violence;psychedelic;absurd;satire;humor
+492,tt0090852,cult;comedy;satire
+493,tt0090856,comedy;humor
+494,tt0090859,comedy;mystery;neo noir;murder;violence;cult;humor;action
+495,tt0090887,cult
+496,tt0090888,paranormal
+497,tt0091042,cult;comedy;entertaining
+498,tt0091053,violence
+499,tt0091083,insanity;cult;alternate reality;sadist
+500,tt0091178,satire
+501,tt0091187,cult;humor;comedy;violence;revenge
+502,tt0091203,comedy;fantasy;gothic;murder;cult;violence;historical fiction;good versus evil;flashback;romantic;historical
+503,tt0091217,inspiring
+504,tt0091225,cult;alternate reality;action;entertaining
+505,tt0091278,cult
+506,tt0091288,tragedy;sentimental
+507,tt0091344,romantic
+508,tt0091369,fantasy;cult;good versus evil;psychedelic;humor;sci-fi
+509,tt0091374,intrigue
+510,tt0091396,comedy;murder;romantic
+511,tt0091419,comedy;dark;murder;cult;romantic;sadist
+512,tt0091474,dark;gothic;murder;neo noir;cult;violence;atmospheric;good versus evil;insanity;suspenseful;sadist;home movie
+513,tt0091499,cult;violence
+514,tt0091538,romantic;neo noir
+515,tt0091613,tragedy;depressing;murder
+516,tt0091630,comedy;dark;murder;suicidal;horror;cult;violence;flashback;tragedy;revenge;prank
+517,tt0091653,melodrama
+518,tt0091680,psychedelic
+519,tt0091738,dramatic;romantic;alternate history
+520,tt0091763,psychological;murder;anti war;cult;violence;dramatic;action;revenge;historical
+521,tt0091767,prank
+522,tt0091777,comedy;prank
+523,tt0091778,paranormal;cult;haunting;flashback
+524,tt0091790,cult;comedy;romantic
+525,tt0091799,insanity;violence;murder;flashback
+526,tt0091828,violence;revenge;humor;murder;cult
+527,tt0091829,violence
+528,tt0091860,murder;cult;violence;flashback;melodrama;romantic
+529,tt0091877,revenge;comedy;satire;murder
+530,tt0091949,entertaining
+531,tt0091954,cult;murder
+532,tt0091983,cult;comedy;murder;violence
+533,tt0091991,satire
+534,tt0092005,dramatic;cult;flashback;insanity;suspenseful;storytelling
+535,tt0092007,cult;comedy;boring
+536,tt0092048,psychedelic;humor;satire
+537,tt0092086,comedy;cult;psychedelic;humor;satire;comic
+538,tt0092099,fantasy;cult;action;humor;inspiring;romantic
+539,tt0092494,cute
+540,tt0092513,cult
+541,tt0092546,cult;comedy
+542,tt0092563,dark;mystery;neo noir;murder;paranormal;cult;violence;flashback
+543,tt0092585,violence;cult;humor;comedy;suspenseful
+544,tt0092593,violence;historical;romantic
+545,tt0092608,storytelling;flashback
+546,tt0092610,cult;comedy;violence
+547,tt0092618,violence
+548,tt0092644,comedy;murder;cult;violence;humor;entertaining
+549,tt0092675,comedy;murder;cult;violence;flashback;humor;revenge
+550,tt0092699,romantic;satire
+551,tt0092718,romantic;cult
+552,tt0092746,cult
+553,tt0092796,comedy;revenge;cult;murder;violence
+554,tt0092857,cult;revenge;murder;violence
+555,tt0092890,cult;cute;romantic
+556,tt0092906,good versus evil;cult;comedy;psychedelic;violence
+557,tt0092965,psychedelic;depressing;murder
+558,tt0092991,comedy;avant garde;dark;murder;cult;horror;violence;haunting;atmospheric;good versus evil;psychedelic;humor;tragedy;suspenseful;sadist
+559,tt0093010,violence;revenge;suspenseful;murder;cult
+560,tt0093011,violence;murder
+561,tt0093036,claustrophobic;sadist
+562,tt0093058,dark;murder;dramatic;violence;anti war;action;brainwashing
+563,tt0093073,anti war
+564,tt0093105,anti war;violence;comedy
+565,tt0093137,insanity;violence;anti war
+566,tt0093148,comedy
+567,tt0093164,revenge
+568,tt0093171,cult;humor
+569,tt0093177,boring;gothic;murder;stupid;cult;violence;horror;flashback;good versus evil;sadist
+570,tt0093200,satire
+571,tt0093220,absurd;alternate reality
+572,tt0093223,cult;neo noir;plot twist
+573,tt0093260,murder
+574,tt0093278,cult;avant garde;satire;humor
+575,tt0093407,romantic;flashback
+576,tt0093409,comedy;neo noir;dramatic;cult;suicidal;violence;humor;action;entertaining
+577,tt0093476,alternate reality;satire
+578,tt0093489,murder
+579,tt0093493,cult;romantic
+580,tt0093507,good versus evil;cult;psychedelic;murder;violence
+581,tt0093509,historical;murder;atmospheric
+582,tt0093565,romantic;humor;entertaining;boring
+583,tt0093605,comedy;dark;gothic;murder;neo noir;cult;revenge;violence;atmospheric;good versus evil;insanity;romantic;claustrophobic;suspenseful;sadist
+584,tt0093638,revenge;murder
+585,tt0093640,mystery;neo noir;murder;violence;intrigue;plot twist;suspenseful
+586,tt0093692,cult
+587,tt0093693,revenge;romantic
+588,tt0093748,comedy;adult comedy;flashback
+589,tt0093756,entertaining;violence;prank;comedy;comic
+590,tt0093773,comedy;gothic;murder;cult;violence;humor;action;suspenseful
+591,tt0093777,comedy;murder;paranormal;cult;good versus evil;psychedelic;philosophical;claustrophobic;romantic;suspenseful
+592,tt0093818,boring;depressing;murder
+593,tt0093822,comedy;allegory;cult;good versus evil;psychedelic;humor;satire;plot twist
+594,tt0093857,cult
+595,tt0093870,comedy;murder;cult;violence;action;satire;romantic;revenge;sci-fi
+596,tt0093886,romantic;psychedelic;entertaining
+597,tt0093993,fantasy
+598,tt0094006,romantic
+599,tt0094008,neo noir;murder
+600,tt0094012,comedy;cult;good versus evil;humor;satire;entertaining
+601,tt0094027,inspiring
+602,tt0094074,good versus evil;violence
+603,tt0094138,cult;violence
+604,tt0094142,comedy;murder
+605,tt0094155,revenge
+606,tt0094291,revenge;cult;comedy;violence
+607,tt0094336,comedy;boring;bleak;cult;psychedelic;autobiographical;romantic
+608,tt0094602,comedy;neo noir;murder;cult;revenge;violence;good versus evil;suspenseful;sadist
+609,tt0094612,murder;cult;violence;humor;action;blaxploitation
+610,tt0094625,murder;stupid;paranormal;anti war;cult;violence;atmospheric;flashback;psychedelic;action;romantic;comic;revenge;alternate history;sci-fi
+611,tt0094673,violence
+612,tt0094721,comedy;fantasy;gothic;paranormal;whimsical;cult;alternate reality;horror;haunting;psychedelic;entertaining
+613,tt0094737,comedy;romantic
+614,tt0094792,cult;murder
+615,tt0094799,flashback
+616,tt0094812,philosophical
+617,tt0094862,dark;mystery;gothic;murder;stupid;cult;horror;revenge
+618,tt0094894,violence;murder
+619,tt0094898,cult;fantasy;satire;comedy
+620,tt0094933,neo noir;murder
+621,tt0094947,tragedy;revenge;cruelty;romantic
+622,tt0094964,neo noir;murder;cult;psychedelic;tragedy;sadist
+623,tt0095016,comedy;mystery;murder;cult;revenge;violence;humor;action;claustrophobic;suspenseful
+624,tt0095174,suspenseful;neo noir;murder;violence
+625,tt0095179,comedy;murder;paranormal;violence;cult;flashback;sadist
+626,tt0095188,comedy
+627,tt0095215,violence
+628,tt0095271,good versus evil;cult;horror;murder;violence
+629,tt0095294,gothic;murder;cult;violence;horror;good versus evil;insanity
+630,tt0095444,cult;murder
+631,tt0095484,murder;cult;horror;violence;psychedelic;revenge;sadist
+632,tt0095583,neo noir;grindhouse film;murder;cult;violence;revenge
+633,tt0095631,comedy;neo noir;entertaining
+634,tt0095647,dramatic;cult;suspenseful;murder
+635,tt0095652,revenge;murder
+636,tt0095655,neo noir;cult;psychedelic
+637,tt0095687,comedy;adult comedy
+638,tt0095863,good versus evil;cult
+639,tt0095882,comedy;prank
+640,tt0095889,paranormal;haunting;good versus evil;insanity;psychedelic;revenge
+641,tt0095925,revenge;cult;murder;flashback
+642,tt0095953,entertaining;dramatic;cute;psychological;comedy
+643,tt0095956,revenge;cult;action;murder;violence
+644,tt0095963,revenge;cult;action;comedy;violence
+645,tt0096061,cult;comedy;satire;entertaining;romantic
+646,tt0096142,cult;murder
+647,tt0096244,romantic;neo noir
+648,tt0096256,murder;allegory;cult;violence;clever;good versus evil;psychedelic;humor;satire;action;brainwashing;suspenseful;sci-fi
+649,tt0096320,comedy;entertaining
+650,tt0096378,paranormal;cult;murder
+651,tt0096446,fantasy;cult;good versus evil;psychedelic;romantic;revenge;sadist
+652,tt0096463,romantic;comedy
+653,tt0096486,absurd;historical fiction
+654,tt0096487,comedy;murder;violence;cult;humor;revenge;historical;entertaining
+655,tt0096639,murder;melodrama
+656,tt0096787,good versus evil;revenge;cult;murder
+657,tt0096866,good versus evil;psychedelic
+658,tt0096874,entertaining;comedy;mystery;fantasy;cult;alternate reality;humor;alternate history
+659,tt0096895,comedy;dark;gothic;murder;suspenseful;realism;bleak;mystery;cult;violence;atmospheric;flashback;good versus evil;insanity;action;satire;tragedy;revenge
+660,tt0096928,comedy;cult;historical fiction;alternate history;historical;entertaining
+661,tt0096933,boring;neo noir;murder;violence;cult;romantic;suspenseful
+662,tt0096969,dramatic;boring
+663,tt0097027,revenge;cruelty;murder;violence;flashback
+664,tt0097044,romantic;fantasy;flashback
+665,tt0097116,revenge;romantic
+666,tt0097123,realism;murder;flashback;satire;philosophical;romantic
+667,tt0097138,cult;action;murder;violence;flashback
+668,tt0097162,mystery;murder;cult;violence;atmospheric;flashback;insanity;suspenseful;home movie
+669,tt0097165,dramatic;sentimental;inspiring;philosophical;melodrama
+670,tt0097216,atmospheric;comedy;murder;violence
+671,tt0097236,psychedelic
+672,tt0097239,dramatic;boring
+673,tt0097240,romantic;cult;philosophical;violence;flashback
+674,tt0097289,cult;satire;romantic
+675,tt0097351,dramatic;fantasy;inspiring
+676,tt0097366,humor;satire;murder
+677,tt0097388,murder;violence;horror;cult;revenge;entertaining
+678,tt0097428,comedy;fantasy;paranormal;allegory;cult;humor;action
+679,tt0097438,tragedy;cult;revenge;murder
+680,tt0097441,inspiring;violence;historical
+681,tt0097481,violence;cult;humor;comedy;murder
+682,tt0097493,comedy;dark;murder;bleak;cult;psychedelic;satire
+683,tt0097499,realism;violence;flashback;action;tragedy;historical
+684,tt0097523,cult;comedy;psychedelic;entertaining;fantasy
+685,tt0097550,violence
+686,tt0097576,paranormal;comedy;action;mystery
+687,tt0097626,revenge;neo noir;murder;violence
+688,tt0097637,violence;comedy
+689,tt0097714,realism
+690,tt0097728,cult;humor;psychedelic;satire
+691,tt0097731,boring
+692,tt0097733,comedy;neo noir;murder;cult;violence;humor;action;revenge;home movie
+693,tt0097737,cult;suspenseful;violence;prank
+694,tt0097742,mystery;murder;cult;revenge;violence;tragedy;suspenseful;sadist
+695,tt0097778,comedy;fantasy;romantic
+696,tt0097815,comedy;humor;psychedelic;entertaining
+697,tt0097858,comedy;dark;boring;cult;violence;flashback;insanity;psychedelic;satire;revenge
+698,tt0097889,cult;comedy;violence
+699,tt0097940,murder;cult;atmospheric;psychedelic;humor;storytelling
+700,tt0097967,revenge;murder;violence
+701,tt0098042,comedy;murder
+702,tt0098067,comedy
+703,tt0098084,psychological;gothic;murder;cult;violence;horror;flashback;suspenseful
+704,tt0098105,comedy;prank
+705,tt0098206,suspenseful;murder;violence;cult;good versus evil;humor;romantic;revenge
+706,tt0098258,cult;entertaining;romantic
+707,tt0098273,mystery;neo noir;murder;haunting
+708,tt0098282,comedy;murder;adult comedy
+709,tt0098309,revenge;comedy
+710,tt0098382,cult;flashback
+711,tt0098384,cult;humor;cute;sentimental
+712,tt0098439,cult;comedy;action;violence
+713,tt0098536,comedy;murder
+714,tt0098546,absurd;cult;psychedelic;satire
+715,tt0098554,humor
+716,tt0098575,tragedy;revenge;murder;romantic
+717,tt0098625,comedy
+718,tt0098627,entertaining;cult;comedy;murder;stupid
+719,tt0098635,cute;entertaining;romantic
+720,tt0098645,comedy
+721,tt0099005,comedy
+722,tt0099012,romantic;flashback
+723,tt0099044,comedy;suspenseful;neo noir;murder;violence;action;revenge
+724,tt0099052,horror;cult;suspenseful;action;comedy
+725,tt0099077,inspiring;violence;dramatic;sentimental
+726,tt0099088,comedy;fantasy;alternate reality;humor;alternate history;entertaining;sci-fi
+727,tt0099141,violence;comedy;action
+728,tt0099160,violence;neo noir;murder
+729,tt0099180,comedy;cruelty;murder;cult;violence;good versus evil;insanity
+730,tt0099253,comedy;gothic;violence
+731,tt0099329,cult;satire
+732,tt0099348,boring;murder;dramatic;violence;flashback;romantic;historical;storytelling;prank
+733,tt0099365,comedy;avant garde;gothic;neo noir;bleak;cult;violence;horror;romantic;revenge;entertaining
+734,tt0099371,revenge;comedy
+735,tt0099422,neo noir;murder;violence;alternate reality;good versus evil;romantic
+736,tt0099423,comedy;murder;cult;violence;humor;action;tragedy;suspenseful;entertaining;sadist
+737,tt0099487,comedy;fantasy;gothic;dark;cult;magical realism;flashback;psychedelic;satire;romantic;revenge;entertaining;storytelling
+738,tt0099512,cult
+739,tt0099582,cruelty;alternate reality;haunting;flashback;psychedelic;revenge
+740,tt0099653,fantasy;mystery;murder;paranormal;dramatic;humor;romantic;revenge;sentimental
+741,tt0099685,dark;comedy;neo noir;murder;realism;dramatic;violence;cult;claustrophobic;revenge
+742,tt0099700,cult;horror;satire
+743,tt0099726,gothic;murder;action;romantic;tragedy;revenge
+744,tt0099740,comedy;murder;cult;violence;psychedelic;revenge;sci-fi
+745,tt0099776,romantic;avant garde;murder
+746,tt0099785,cult;comedy;violence;humor
+747,tt0099800,cult;romantic
+748,tt0099864,dark;comedy;gothic;murder;paranormal;horror;flashback;good versus evil;revenge;sadist
+749,tt0099871,psychological;gothic;violence;cult;horror;alternate reality;haunting;flashback;insanity;psychedelic;tragedy
+750,tt0099878,romantic
+751,tt0099892,cult;psychedelic;entertaining;satire;romantic
+752,tt0099902,tragedy;murder;sadist
+753,tt0099938,comedy;fantasy;murder;cult;revenge;violence;cute;humor;romantic
+754,tt0100029,comedy;neo noir;murder;violence;cult;humor;melodrama;tragedy;revenge
+755,tt0100050,dramatic
+756,tt0100054,cult;cruelty;murder
+757,tt0100114,comedy;neo noir;murder;cult;violence;humor;revenge
+758,tt0100129,cult
+759,tt0100133,comedy;historical;realism;flashback
+760,tt0100140,dramatic;comedy;romantic
+761,tt0100143,tragedy;cult;neo noir;murder;violence
+762,tt0100150,comedy;boring;neo noir;murder;dramatic;cult;violence;atmospheric;psychedelic;romantic;suspenseful;entertaining
+763,tt0100157,psychological;neo noir;murder;mystery;dramatic;violence;revenge;horror;insanity;claustrophobic;suspenseful;sadist
+764,tt0100168,violence;melodrama
+765,tt0100201,psychedelic;alternate history
+766,tt0100211,horror
+767,tt0100258,suspenseful;cult;horror;violence
+768,tt0100260,comedy;suspenseful;gothic;murder;paranormal;cult;violence;flashback;good versus evil;insanity;psychedelic;humor;romantic;revenge
+769,tt0100280,murder
+770,tt0100318,revenge;suspenseful;neo noir
+771,tt0100403,comedy;neo noir;gothic;murder;cult;violence;good versus evil;action;suspenseful
+772,tt0100404,neo noir;murder;violence;flashback;romantic;revenge
+773,tt0100436,cult;philosophical
+774,tt0100475,whimsical;absurd;cult;satire
+775,tt0100502,gothic;murder;violence;good versus evil;satire;revenge;sci-fi
+776,tt0100507,dramatic;revenge;cult;action;flashback
+777,tt0100639,cult;murder;violence
+778,tt0100663,violence;cult;murder;plot twist
+779,tt0100680,romantic
+780,tt0100802,comedy;murder;stupid;paranormal;cult;violence;alternate reality;good versus evil;psychedelic;action;brainwashing;suspenseful;sci-fi
+781,tt0100813,violence;action
+782,tt0101393,cult;melodrama
+783,tt0101414,fantasy;whimsical;cute;good versus evil;psychedelic;humor;romantic;sci-fi
+784,tt0101452,cult;alternate history;historical fiction
+785,tt0101540,suspenseful;gothic;murder;neo noir;mystery;violence;cult;horror;flashback;good versus evil;revenge
+786,tt0101635,romantic;melodrama
+787,tt0101669,comedy;mystery;neo noir;murder;violence;flashback;humor;romantic;suspenseful
+788,tt0101698,alternate reality
+789,tt0101700,comedy;dark;murder;cult;alternate reality;atmospheric;psychedelic;absurd;satire;claustrophobic;entertaining
+790,tt0101745,comedy;boring
+791,tt0101757,cult
+792,tt0101764,revenge;cult;murder;violence
+793,tt0101775,cult;humor
+794,tt0101821,good versus evil;horror;stupid
+795,tt0101862,comedy
+796,tt0101898,romantic;sadist
+797,tt0101917,comedy;gothic;murder;cult;horror;violence;flashback;good versus evil;insanity;psychedelic;sadist
+798,tt0102005,cult;comedy
+799,tt0102034,comedy;murder;cult;violence;flashback;good versus evil;action;revenge;sci-fi
+800,tt0102057,fantasy;whimsical;cult;violence;good versus evil;action;revenge;entertaining;storytelling
+801,tt0102059,absurd;cult;comedy;humor
+802,tt0102070,comedy;murder;cult;absurd;humor;psychedelic
+803,tt0102103,violence
+804,tt0102138,boring;historical;murder;flashback
+805,tt0102164,murder
+806,tt0102175,murder
+807,tt0102202,revenge;murder;violence
+808,tt0102216,comedy
+809,tt0102316,depressing
+810,tt0102469,neo noir;murder;flashback
+811,tt0102492,dramatic;sentimental
+812,tt0102511,comedy;murder;insanity;psychedelic;humor;sci-fi
+813,tt0102536,comedy;humor;psychedelic;storytelling
+814,tt0102558,comedy;cult
+815,tt0102592,neo noir;realism;murder;violence;atmospheric;suspenseful
+816,tt0102598,romantic
+817,tt0102685,entertaining;cult;neo noir;murder;violence
+818,tt0102728,revenge;gothic;violence
+819,tt0102744,good versus evil;revenge;murder;violence
+820,tt0102782,boring
+821,tt0102797,cult;action;murder;violence
+822,tt0102798,comedy;murder;cult;atmospheric;historical fiction;good versus evil;action;romantic;historical;entertaining
+823,tt0102802,good versus evil;boring
+824,tt0102945,revenge;neo noir
+825,tt0102951,revenge;comedy;satire;melodrama
+826,tt0102975,cult;mystery;murder
+827,tt0103003,good versus evil;cult;psychedelic;comic
+828,tt0103060,good versus evil;cult;humor;psychedelic;violence
+829,tt0103064,mystery;gothic;murder;cult;alternate reality;violence;flashback;good versus evil;humor;action;romantic;suspenseful;alternate history;sci-fi
+830,tt0103074,murder;dramatic;cult;violence;action;tragedy
+831,tt0103112,violence
+832,tt0103241,psychedelic;psychological;humor
+833,tt0103594,dramatic;boring;historical;murder
+834,tt0103596,dark
+835,tt0103639,good versus evil;comedy;action;entertaining;fantasy
+836,tt0103644,dark;boring;neo noir;gothic;murder;allegory;cult;violence;suspenseful
+837,tt0103671,revenge;murder;violence;flashback
+838,tt0103772,suspenseful;neo noir;murder;mystery;violence;romantic;sadist
+839,tt0103776,dark;fantasy;gothic;mystery;cult;violence;good versus evil;insanity;action;satire;comic;tragedy;revenge
+840,tt0103786,comedy
+841,tt0103843,violence;murder;romantic
+842,tt0103850,cult;satire
+843,tt0103874,avant garde;gothic;cult;violence;horror;good versus evil;insanity;romantic;revenge
+844,tt0103893,comedy;revenge;cult;satire;murder
+845,tt0103924,cult;comedy
+846,tt0103939,dramatic;cult;flashback
+847,tt0103956,violence;comedy;gothic;dark;storytelling
+848,tt0104009,cult;alternate reality;psychedelic
+849,tt0104070,comedy;dark;murder;cult;satire;revenge
+850,tt0104139,revenge;murder;violence;flashback
+851,tt0104231,romantic
+852,tt0104265,murder
+853,tt0104291,cult;romantic
+854,tt0104346,good versus evil;inspiring
+855,tt0104348,cult;boring;realism
+856,tt0104409,good versus evil;cult;horror;violence;flashback
+857,tt0104427,neo noir;depressing;murder;flashback
+858,tt0104431,comedy;boring;stupid;cult;psychedelic;revenge;entertaining
+859,tt0104438,comedy
+860,tt0104454,romantic;boring;historical;melodrama
+861,tt0104466,satire;flashback
+862,tt0104507,romantic;historical;murder;atmospheric;sentimental
+863,tt0104550,romantic
+864,tt0104573,comedy;neo noir;murder;cult;violence;flashback;revenge;blaxploitation
+865,tt0104647,revenge;murder;romantic
+866,tt0104695,romantic;satire
+867,tt0104714,comedy;neo noir;murder;cult;violence;action;revenge;entertaining
+868,tt0104740,cult
+869,tt0104756,inspiring;romantic;storytelling
+870,tt0104779,comedy;cruelty;murder;sadist;flashback;revenge;storytelling
+871,tt0104797,murder;cult;violence;flashback;historical;blaxploitation
+872,tt0104850,comedy;cult;suspenseful;neo noir;murder
+873,tt0104897,murder
+874,tt0104952,entertaining;cult;comedy;murder;mystery
+875,tt0104990,cult;melodrama
+876,tt0105046,tragedy;dramatic;depressing
+877,tt0105104,murder;cult;violence;flashback;good versus evil;humor;action;suspenseful
+878,tt0105112,suspenseful;mystery;murder;violence;cult;good versus evil;revenge
+879,tt0105130,romantic
+880,tt0105156,murder;melodrama
+881,tt0105211,flashback
+882,tt0105217,mystery;psychological;murder;dramatic;cult;flashback
+883,tt0105226,comedy;neo noir;murder
+884,tt0105236,comedy;dark;neo noir;murder;boring;suspenseful;mystery;dramatic;violence;cult;sadist;flashback;psychedelic;humor;claustrophobic;tragedy;plot twist;storytelling
+885,tt0105275,tragedy;violence;murder
+886,tt0105323,dramatic;atmospheric;prank
+887,tt0105391,flashback
+888,tt0105402,revenge;violence
+889,tt0105414,mystery;insanity;violence;suspenseful;murder
+890,tt0105417,murder
+891,tt0105428,horror;cult;dark;murder;violence
+892,tt0105435,comedy;suspenseful;murder;stupid;cult;intrigue;flashback;psychedelic;revenge;entertaining
+893,tt0105488,psychedelic;satire;romantic
+894,tt0105629,good versus evil;anti war;cult;psychedelic;satire
+895,tt0105643,cult;fantasy;entertaining;romantic;prank
+896,tt0105665,dark;avant garde;mystery;murder;cult;violence;horror;atmospheric;psychedelic
+897,tt0105690,comedy;violence;cult;humor;action;suspenseful
+898,tt0105695,suspenseful;realism;murder;bleak;revenge;sadist
+899,tt0105698,murder;cult;violence;flashback;good versus evil;insanity;action
+900,tt0105699,insanity;suspenseful;neo noir;murder
+901,tt0105793,cult;comedy;humor
+902,tt0105812,cult;comedy;entertaining;humor
+903,tt0105813,comedy;neo noir;murder;violence;intrigue;romantic;suspenseful
+904,tt0106220,comedy;gothic;stupid;cult;horror;psychedelic;romantic
+905,tt0106266,satire
+906,tt0106273,tragedy;historical;queer
+907,tt0106308,comedy;avant garde;dark;boring;fantasy;cult;violence;horror;good versus evil;absurd;psychedelic;humor;action;sci-fi
+908,tt0106364,comedy;gothic;murder;neo noir;cult;violence;flashback;good versus evil;insanity;psychedelic;romantic;tragedy;revenge;sadist
+909,tt0106375,romantic;comedy
+910,tt0106387,comedy;whimsical;dramatic;psychedelic;romantic;entertaining
+911,tt0106452,cult;suspenseful;psychedelic;satire
+912,tt0106519,neo noir;murder;violence;revenge;flashback;romantic
+913,tt0106521,cult;violence
+914,tt0106582,mystery;suspenseful;cult;violence;good versus evil;action;tragedy;revenge
+915,tt0106598,cult;stupid
+916,tt0106611,inspiring;cult;comedy;entertaining;feel-good
+917,tt0106673,romantic;fantasy;satire
+918,tt0106677,pornographic;cult;revenge;psychedelic
+919,tt0106697,entertaining;comedy;murder;violence;good versus evil;humor;satire;action;revenge;alternate history;sadist;sci-fi
+920,tt0106701,prank
+921,tt0106770,dramatic;cult;violence;romantic
+922,tt0106856,comedy;murder;cult;violence;tragedy;home movie
+923,tt0106873,revenge;neo noir;murder;romantic
+924,tt0106881,psychological;boring;flashback
+925,tt0106926,murder
+926,tt0106950,insanity;cult;violence
+927,tt0107004,violence;historical
+928,tt0107048,entertaining;comedy;boring;fantasy;cult;alternate reality;magical realism;cute;clever;feel-good;psychedelic;humor;satire;romantic;alternate history
+929,tt0107050,comedy;entertaining
+930,tt0107076,comedy;murder;violence;cult;action;revenge;sadist
+931,tt0107120,cult;horror;revenge;good versus evil;romantic;entertaining
+932,tt0107131,feel-good
+933,tt0107144,comedy;cult;flashback;absurd;humor;comic;revenge
+934,tt0107148,fantasy;psychological
+935,tt0107206,suspenseful;neo noir;murder;mystery;violence;revenge;flashback;good versus evil;humor;action;romantic
+936,tt0107207,tragedy;dramatic;violence;historical;realism
+937,tt0107211,cult
+938,tt0107247,flashback
+939,tt0107286,violence;neo noir;murder
+940,tt0107290,mystery;dramatic;cult;violence;horror;action;humor;suspenseful;entertaining
+941,tt0107315,entertaining;comedy;intrigue;murder;flashback
+942,tt0107387,horror;cult;suspenseful;comedy;violence
+943,tt0107473,romantic;neo noir
+944,tt0107497,revenge;intrigue;neo noir;murder
+945,tt0107507,comedy;mystery;murder;flashback
+946,tt0107554,comedy;suspenseful;neo noir;murder;bleak;cult;revenge;violence;flashback;romantic;blaxploitation
+947,tt0107614,comedy;bleak;dramatic;cult;suspenseful;entertaining
+948,tt0107616,comedy;cute;intrigue;feel-good;psychedelic;romantic;revenge;prank
+949,tt0107626,dark;comedy;violence;cult;absurd;revenge
+950,tt0107665,murder;paranormal;cult;violence;flashback;good versus evil;prank
+951,tt0107750,cult;violence
+952,tt0107756,psychedelic;historical
+953,tt0107818,dramatic;cult;queer;romantic;home movie
+954,tt0107843,cult;suspenseful;neo noir;murder
+955,tt0107969,mystery;neo noir;murder;suspenseful;violence;intrigue;revenge
+956,tt0107977,comedy;cult;absurd;action;humor;comic;entertaining
+957,tt0107978,violence;neo noir;sci-fi
+958,tt0107983,comedy;avant garde;cruelty;suspenseful;murder;neo noir;cult;violence;good versus evil;satire;tragedy;revenge;sadist
+959,tt0108002,inspiring
+960,tt0108101,philosophical
+961,tt0108122,comedy;humor;murder
+962,tt0108147,prank
+963,tt0108149,cult;humor;satire
+964,tt0108160,dramatic;romantic;boring;comedy
+965,tt0108162,suspenseful;mystery;murder
+966,tt0108171,suspenseful;violence
+967,tt0108174,comedy;murder;cult;insanity;psychedelic;romantic;entertaining
+968,tt0108211,anti war;cruelty
+969,tt0108238,murder
+970,tt0108308,cult;psychedelic;violence
+971,tt0108330,violence
+972,tt0108358,realism;cult;suspenseful;murder;violence
+973,tt0108399,comedy;murder;cult;violence;action;romantic
+974,tt0108526,psychedelic
+975,tt0108550,tragedy;whimsical;psychedelic;boring;depressing
+976,tt0109021,tragedy;romantic
+977,tt0109035,violence;murder
+978,tt0109040,comedy;murder;bleak;cult;humor;action;revenge
+979,tt0109068,cult;comedy
+980,tt0109162,romantic;historical fiction
+981,tt0109190,good versus evil;flashback
+982,tt0109254,comedy;murder;cult;violence;comic;revenge;entertaining
+983,tt0109297,mystery;neo noir;murder
+984,tt0109303,suspenseful;violence;cult;flashback;good versus evil;action;revenge
+985,tt0109370,satire
+986,tt0109439,violence
+987,tt0109456,insanity;violence;psychological;neo noir;murder
+988,tt0109484,home movie
+989,tt0109579,revenge;suspenseful;psychological
+990,tt0109676,violence
+991,tt0109758,pornographic;romantic;comedy;sadist
+992,tt0109781,absurd;psychedelic;dark;magical realism;philosophical
+993,tt0109830,comedy;psychological;stupid;whimsical;dramatic;cult;cute;clever;flashback;historical fiction;psychedelic;humor;action;feel-good;melodrama;inspiring;romantic;historical;entertaining;sentimental
+994,tt0109831,cult;comedy;romantic
+995,tt0109836,revenge;gothic;murder;violence;sci-fi
+996,tt0109842,tragedy;revenge;neo noir;murder;violence
+997,tt0109965,violence
+998,tt0110005,fantasy;psychological;murder;boring;cult;violence;revenge;flashback;insanity;psychedelic;melodrama;romantic;queer
+999,tt0110027,good versus evil;cult;action;violence
+1000,tt0110097,satire
+1001,tt0110099,romantic;philosophical
+1002,tt0110116,murder;dramatic;flashback;tragedy;romantic;historical
+1003,tt0110148,comedy;fantasy;gothic;murder;dramatic;cult;violence;horror;atmospheric;good versus evil;revenge;historical
+1004,tt0110167,romantic;comedy;feel-good
+1005,tt0110186,violence;flashback
+1006,tt0110216,entertaining
+1007,tt0110265,cult;murder;violence
+1008,tt0110322,murder;dramatic;romantic;melodrama;tragedy;revenge;sentimental
+1009,tt0110329,good versus evil;cult;violence
+1010,tt0110367,dramatic;romantic
+1011,tt0110395,violence;murder
+1012,tt0110443,cult;comedy;humor;prank
+1013,tt0110478,cult;mystery;satire;comedy;flashback
+1014,tt0110598,cult;comedy;psychedelic;humor
+1015,tt0110604,cult;comedy;murder;violence;flashback
+1016,tt0110613,home movie
+1017,tt0110622,comedy;boring;cult;flashback;absurd;humor;revenge;entertaining
+1018,tt0110632,comedy;cruelty;murder;neo noir;cult;violence;flashback;insanity;psychedelic;satire;romantic;revenge;sadist
+1019,tt0110638,psychological
+1020,tt0110706,cult
+1021,tt0110729,dramatic;violence
+1022,tt0110759,satire
+1023,tt0110882,revenge;murder;violence
+1024,tt0110912,comedy;murder;stupid;cult;action;revenge;suspenseful;neo noir;western;flashback;clever;psychedelic;satire;thought-provoking;atmospheric;philosophical;entertaining;storytelling;dark;mystery;realism;dramatic;violence;humor;plot twist
+1025,tt0110939,cult;mystery;murder
+1026,tt0110950,cult;romantic
+1027,tt0110971,autobiographical
+1028,tt0111048,comedy;cult;violence;psychedelic;absurd;satire;tragedy;romantic
+1029,tt0111127,comedy;psychological;murder;violence;cult;satire;revenge
+1030,tt0111149,comedy;dark;cruelty;murder;violence;atmospheric;flashback;insanity;psychedelic;romantic;home movie
+1031,tt0111257,comedy;boring;mystery;murder;cult;revenge;violence;good versus evil;humor;action;claustrophobic;romantic;suspenseful
+1032,tt0111280,cult
+1033,tt0111282,violence;cult;suspenseful;action;atmospheric
+1034,tt0111323,comedy;suspenseful;murder;suicidal;violence;humor;revenge
+1035,tt0111359,good versus evil;violence
+1036,tt0111419,fantasy
+1037,tt0111438,alternate reality;cult;humor;violence
+1038,tt0111477,bleak
+1039,tt0111503,comedy;mystery;neo noir;violence;psychedelic;action;entertaining
+1040,tt0111732,feel-good
+1041,tt0111742,comedy;gothic;murder;cult;satire;revenge
+1042,tt0111756,cult;historical;murder;violence;flashback
+1043,tt0112281,cult;humor;comedy
+1044,tt0112302,good versus evil;cult;suspenseful;murder;violence
+1045,tt0112362,romantic
+1046,tt0112365,romantic
+1047,tt0112384,mystery;boring;dramatic;claustrophobic;suspenseful;historical
+1048,tt0112401,suspenseful;neo noir;murder;violence;romantic;revenge;sadist
+1049,tt0112431,cute;fantasy;entertaining;boring
+1050,tt0112443,mystery;revenge;action;murder
+1051,tt0112453,cult;psychedelic
+1052,tt0112462,comedy;murder;violence;atmospheric;flashback;good versus evil;insanity;action;revenge
+1053,tt0112471,thought-provoking;romantic;boring;psychedelic;philosophical
+1054,tt0112495,violence;historical
+1055,tt0112508,cult;comedy;stupid;entertaining;prank
+1056,tt0112536,violence
+1057,tt0112537,romantic
+1058,tt0112573,murder;dramatic;violence;action;romantic;inspiring;revenge;historical
+1059,tt0112641,comedy;neo noir;murder;cult;violence;revenge;sadist
+1060,tt0112642,paranormal;haunting;absurd;psychedelic;entertaining;sentimental
+1061,tt0112681,mystery;murder
+1062,tt0112688,violence;murder
+1063,tt0112697,cult;comedy;satire;entertaining;romantic
+1064,tt0112722,mystery;neo noir;murder;violence;horror;claustrophobic;suspenseful
+1065,tt0112740,cult;suspenseful;comedy
+1066,tt0112792,inspiring
+1067,tt0112851,comedy;mystery;neo noir;cult;revenge;violence;flashback;good versus evil;humor;action;romantic
+1068,tt0112857,neo noir;murder;violence;atmospheric;plot twist;suspenseful
+1069,tt0112896,cult;gothic;romantic
+1070,tt0112950,cult
+1071,tt0113041,romantic;comedy;fantasy;sentimental
+1072,tt0113071,romantic;murder;flashback
+1073,tt0113089,cruelty;flashback
+1074,tt0113097,boring;flashback
+1075,tt0113101,cult;comedy;psychedelic;satire
+1076,tt0113114,romantic
+1077,tt0113117,comedy;romantic
+1078,tt0113118,entertaining;revenge;cult;comedy;flashback
+1079,tt0113161,comedy;neo noir;murder;cult;violence;satire;revenge;entertaining
+1080,tt0113189,dark;murder;violence;cult;good versus evil;action;revenge;entertaining;sadist
+1081,tt0113228,revenge;comedy;prank
+1082,tt0113243,pornographic;boring;cult;action;sci-fi;prank
+1083,tt0113253,insanity;cult;horror;murder;violence
+1084,tt0113277,suspenseful;neo noir;murder;realism;bleak;violence;cult;atmospheric;action;philosophical;revenge
+1085,tt0113303,murder;paranormal;cult;horror;violence;insanity;sadist
+1086,tt0113305,violence
+1087,tt0113321,boring;home movie
+1088,tt0113347,romantic;flashback
+1089,tt0113409,comedy;fantasy;gothic;murder;paranormal;cult;violence;flashback;good versus evil;insanity;psychedelic;suspenseful
+1090,tt0113438,flashback
+1091,tt0113443,queer
+1092,tt0113481,psychedelic;violence;sci-fi
+1093,tt0113492,comedy;murder;cult;revenge;good versus evil;humor;romantic;sci-fi
+1094,tt0113497,psychedelic;fantasy
+1095,tt0113501,revenge;neo noir;murder
+1096,tt0113540,tragedy;cult;violence
+1097,tt0113552,revenge;neo noir;murder;violence
+1098,tt0113617,comedy;flashback
+1099,tt0113627,dark;depressing;dramatic;atmospheric;flashback;haunting;tragedy;romantic
+1100,tt0113636,good versus evil;cult;murder
+1101,tt0113677,cult;satire;romantic;flashback
+1102,tt0113690,insanity;violence;cult;murder
+1103,tt0113729,insanity;romantic
+1104,tt0113749,comedy;cult;absurd;humor;satire;romantic;comic;revenge;prank
+1105,tt0113820,good versus evil;psychedelic;action;violence
+1106,tt0113843,violence;murder
+1107,tt0113845,comedy;humor;murder;violence;romantic
+1108,tt0113862,inspiring;romantic;stupid;feel-good
+1109,tt0113870,insanity;murder;flashback
+1110,tt0113896,murder
+1111,tt0113967,cult;dark;murder;violence
+1112,tt0113986,comedy;romantic;humor;entertaining
+1113,tt0113987,dramatic;flashback
+1114,tt0114011,paranormal;flashback
+1115,tt0114057,tragedy;revenge;intrigue;murder;romantic
+1116,tt0114069,suspenseful;romantic
+1117,tt0114148,tragedy;romantic
+1118,tt0114168,revenge;cult;romantic;flashback
+1119,tt0114272,historical
+1120,tt0114279,tragedy;murder
+1121,tt0114287,murder;cult;violence;atmospheric;action;romantic;suspenseful
+1122,tt0114319,dramatic;romantic;fantasy
+1123,tt0114323,allegory;psychedelic
+1124,tt0114367,horror;cult;suspenseful;murder
+1125,tt0114388,romantic;boring;cute;historical
+1126,tt0114436,cult;revenge;satire;boring
+1127,tt0114550,anti war;violence
+1128,tt0114558,pornographic;dark;neo noir;murder;stupid;cult;violence;flashback;psychedelic;revenge;sci-fi
+1129,tt0114576,suspenseful;action;violence
+1130,tt0114594,comedy;cruelty;murder;bleak;satire;revenge;sadist
+1131,tt0114609,violence;murder;blaxploitation
+1132,tt0114614,cult;humor;violence;stupid
+1133,tt0114660,revenge;comedy;neo noir;violence
+1134,tt0114671,flashback
+1135,tt0114694,cult;comedy;entertaining;humor
+1136,tt0114702,violence;romantic;cruelty;sadist;flashback
+1137,tt0114709,comedy;fantasy;cult;cute;violence;clever;humor;entertaining
+1138,tt0114720,cult
+1139,tt0114746,comedy;psychological;dark;murder;depressing;stupid;mystery;dramatic;cult;alternate reality;violence;atmospheric;flashback;insanity;psychedelic;alternate history;prank
+1140,tt0114781,revenge;comedy;action;murder;violence
+1141,tt0114787,comedy;murder;psychedelic;satire;romantic;revenge
+1142,tt0114825,comedy;gothic;murder;paranormal;cult;violence;flashback;good versus evil;insanity;absurd;humor;psychedelic;romantic;revenge
+1143,tt0114852,paranormal;violence;murder
+1144,tt0114857,murder;violence;flashback;good versus evil;insanity;sadist;sci-fi
+1145,tt0114885,revenge
+1146,tt0114898,cult;stupid;sci-fi
+1147,tt0114906,comedy;cruelty;depressing;cult;psychedelic;satire
+1148,tt0114924,cute;boring;entertaining;romantic;feel-good
+1149,tt0114938,cult;revenge;storytelling;flashback
+1150,tt0115433,psychedelic;comedy;cute;entertaining
+1151,tt0115438,comedy;suspenseful;neo noir;murder;suicidal;violence;revenge
+1152,tt0115624,avant garde;murder;cult;flashback;revenge;sci-fi
+1153,tt0115639,violence;cult;humor;atmospheric;romantic
+1154,tt0115640,queer;feel-good
+1155,tt0115641,cult;comedy;entertaining;stupid
+1156,tt0115644,romantic;fantasy
+1157,tt0115710,romantic;neo noir;murder
+1158,tt0115714,violence
+1159,tt0115734,cult;humor;psychedelic;romantic
+1160,tt0115744,romantic
+1161,tt0115751,psychological;boring;bleak;melodrama;tragedy;romantic;sadist
+1162,tt0115759,dark;comedy;murder;violence;humor;action;romantic
+1163,tt0115783,cult;humor;comedy;violence
+1164,tt0115857,suspenseful;violence
+1165,tt0115886,comedy;avant garde;murder;violence;flashback;insanity;satire
+1166,tt0115906,dark;satire
+1167,tt0115907,neo noir;murder
+1168,tt0115956,violence;murder
+1169,tt0115964,mystery;violence;cult;insanity;psychedelic;sadist
+1170,tt0116126,comedy;cult;flashback;humor;satire;revenge
+1171,tt0116130,prank
+1172,tt0116147,cult;suspenseful;violence
+1173,tt0116213,violence;action;neo noir;murder
+1174,tt0116225,mystery;murder;cult;violence;flashback;humor
+1175,tt0116253,mystery;suspenseful;murder;violence;flashback;revenge
+1176,tt0116259,neo noir
+1177,tt0116260,violence;revenge;murder;sadist
+1178,tt0116282,comedy;dark;neo noir;murder;boring;bleak;cult;violence;absurd;psychedelic;satire;entertaining
+1179,tt0116287,violence;neo noir;murder
+1180,tt0116289,comedy
+1181,tt0116311,violence
+1182,tt0116329,tragedy;inspiring
+1183,tt0116361,comedy;fantasy;neo noir;murder;cult;violence;flashback;psychedelic;satire;romantic;revenge
+1184,tt0116367,comedy;murder;cult;violence;horror;psychedelic;humor;action;plot twist;entertaining
+1185,tt0116477,murder;dramatic;insanity;romantic;tragedy;revenge
+1186,tt0116483,cult;comedy;humor
+1187,tt0116488,comedy;violence;satire;romantic;storytelling;home movie
+1188,tt0116493,flashback
+1189,tt0116508,revenge;murder;plot twist
+1190,tt0116514,gothic;violence;horror;flashback;good versus evil;sadist
+1191,tt0116531,absurd;comedy
+1192,tt0116571,romantic;home movie
+1193,tt0116594,queer
+1194,tt0116607,violence;murder;flashback
+1195,tt0116629,mystery;stupid;cult;humor;action;tragedy;suspenseful
+1196,tt0116683,cult;fantasy;psychedelic;sadist
+1197,tt0116695,comedy;humor;romantic
+1198,tt0116705,comic
+1199,tt0116722,tragedy
