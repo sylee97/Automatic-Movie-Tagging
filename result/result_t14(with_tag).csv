@@ -189,17 +189,17 @@
 260,tt0105428,Drama,Horror,FALSE,,,,,,,
 151,tt0105699,Horror,Crime,FALSE,,,,,,,
 106,tt0105793,Comedy,Comedy,TRUE,,,,,,,
-107,tt0105812,Comedy,Comedy,TRUE,White Men Can't Jump,,,,,"['romantic', 'cult', 'psychedelic', 'comedy']","['cult', 'comedy', 'humor', 'entertaining']"
+107,tt0105812,Comedy,Comedy,TRUE,White Men Can't Jump,Comedy,Sport,,,"['romantic', 'cult', 'psychedelic', 'comedy']","['cult', 'comedy', 'humor', 'entertaining']"
 213,tt0106273,Comedy,Drama,FALSE,Crossroads,Drama,Music,Mystery,,,
 44,tt0106364,Comedy,Action,FALSE,,,,,,,
-108,tt0106598,Comedy,Comedy,TRUE,Coneheads,,,,,"['murder', 'cult']","['cult', 'stupid']"
+108,tt0106598,Comedy,Comedy,TRUE,Coneheads,Comedy,Sci-Fi,,,"['murder', 'cult']","['cult', 'stupid']"
 109,tt0106611,Comedy,Comedy,TRUE,,,,,,,
 110,tt0106673,Drama,Comedy,FALSE,Barfly,Comedy,Drama,Romance,,,
 111,tt0106701,Comedy,Comedy,TRUE,Full Metal Jacket,Drama,War,,,,
 261,tt0106881,Drama,Horror,FALSE,,,,,,,
 278,tt0106926,Action,Romance,FALSE,Stand and Deliver,Biography,Drama,,,,
 112,tt0107048,Romance,Comedy,FALSE,,,,,,,
-152,tt0107076,Comedy,Crime,FALSE,Hard Target,,,,,"['murder', 'cult']","['murder', 'violence', 'cult', 'revenge', 'comedy', 'action', 'sadist']"
+152,tt0107076,Comedy,Crime,FALSE,Hard Target,Action,Crime,Thriller,,"['murder', 'cult']","['murder', 'violence', 'cult', 'revenge', 'comedy', 'action', 'sadist']"
 113,tt0107120,Crime,Comedy,FALSE,,,,,,,
 45,tt0107144,Action,Action,TRUE,,,,,,,
 46,tt0107206,Drama,Action,FALSE,Little Man Tate,Drama,,,,,
@@ -212,7 +212,7 @@
 154,tt0107983,Action,Crime,FALSE,,,,,,,
 216,tt0108162,Comedy,Drama,FALSE,,,,,,,
 47,tt0108171,Horror,Action,FALSE,,,,,,,
-116,tt0108174,Comedy,Comedy,TRUE,So I Married an Axe Murderer,,,,,"['murder', 'cult', 'comedy']","['murder', 'romantic', 'cult', 'psychedelic', 'comedy', 'entertaining', 'insanity']"
+116,tt0108174,Comedy,Comedy,TRUE,So I Married an Axe Murderer,Comedy,Romance,,,"['murder', 'cult', 'comedy']","['murder', 'romantic', 'cult', 'psychedelic', 'comedy', 'entertaining', 'insanity']"
 155,tt0108238,Comedy,Crime,FALSE,,,,,,,
 48,tt0108308,Comedy,Action,FALSE,,,,,,,
 217,tt0108330,Drama,Drama,TRUE,This Boy's Life,Biography,Drama,,,,
@@ -220,7 +220,7 @@
 156,tt0108399,Comedy,Crime,FALSE,,,,,,,
 117,tt0108526,Comedy,Comedy,TRUE,,,,,,,
 219,tt0108550,Drama,Drama,TRUE,What's Eating Gilbert Grape,Drama,,,,,
-118,tt0109068,Comedy,Comedy,TRUE,Airheads,,,,,"['murder', 'comedy']","['cult', 'comedy']"
+118,tt0109068,Comedy,Comedy,TRUE,Airheads,Comedy,Crime,Music,,"['murder', 'comedy']","['cult', 'comedy']"
 157,tt0109297,Crime,Crime,TRUE,,,,,,,
 49,tt0109303,Horror,Action,FALSE,,,,,,,
 119,tt0109439,Comedy,Comedy,TRUE,,,,,,,
@@ -230,8 +230,8 @@
 159,tt0110005,Crime,Crime,TRUE,,,,,,,
 50,tt0110027,Horror,Action,FALSE,,,,,,,
 220,tt0110097,Drama,Drama,TRUE,I'll Do Anything,Comedy,Drama,,,,
-279,tt0110167,Action,Romance,FALSE,It Could Happen to You,,,,,['comedy'],"['romantic', 'comedy', 'feel-good']"
-160,tt0110265,Crime,Crime,TRUE,Killing Zoe,,,,,['murder'],"['murder', 'violence', 'cult']"
+279,tt0110167,Action,Romance,FALSE,It Could Happen to You,Comedy,Drama,Romance,,['comedy'],"['romantic', 'comedy', 'feel-good']"
+160,tt0110265,Crime,Crime,TRUE,Killing Zoe,Crime,Thriller,,,['murder'],"['murder', 'violence', 'cult']"
 264,tt0110329,Drama,Horror,FALSE,,,,,,,
 121,tt0110598,Comedy,Comedy,TRUE,Sisters,Horror,Mystery,Thriller,,,
 221,tt0110613,Crime,Drama,FALSE,,,,,,,
@@ -253,7 +253,7 @@
 56,tt0112536,Romance,Action,FALSE,,,,,,,
 163,tt0112641,Action,Crime,FALSE,,,,,,,
 164,tt0112681,Horror,Crime,FALSE,,,,,,,
-165,tt0112688,Action,Crime,FALSE,Assassins,,,,,"['murder', 'violence', 'cult', 'suspenseful', 'sadist']","['murder', 'violence']"
+165,tt0112688,Action,Crime,FALSE,Assassins,Crime,Drama,Mystery,,"['murder', 'violence', 'cult', 'suspenseful', 'sadist']","['murder', 'violence']"
 57,tt0112851,Horror,Action,FALSE,Pacific Heights,Horror,,,,,
 166,tt0112857,Romance,Crime,FALSE,,,,,,,
 224,tt0113114,Action,Drama,FALSE,,,,,,,
@@ -261,7 +261,7 @@
 167,tt0113243,Action,Crime,FALSE,,,,,,,
 225,tt0113443,Action,Drama,FALSE,,,,,,,
 58,tt0113617,Drama,Action,FALSE,,,,,,,
-127,tt0113677,Comedy,Comedy,TRUE,Living in Oblivion,,,,,['romantic'],"['flashback', 'romantic', 'cult', 'satire']"
+127,tt0113677,Comedy,Comedy,TRUE,Living in Oblivion,Comedy,Drama,,,['romantic'],"['flashback', 'romantic', 'cult', 'satire']"
 282,tt0113729,Horror,Romance,FALSE,,,,,,,
 226,tt0114011,Action,Drama,FALSE,,,,,,,
 59,tt0114069,Action,Action,TRUE,,,,,,,
@@ -270,12 +270,12 @@
 229,tt0114323,Drama,Drama,TRUE,Safe,Drama,,,,,
 230,tt0114550,Crime,Drama,FALSE,,,,,,,
 128,tt0114709,Comedy,Comedy,TRUE,,,,,,,
-60,tt0114720,Action,Action,TRUE,Tremors II: Aftershocks,,,,,"['murder', 'cult']",['cult']
+60,tt0114720,Action,Action,TRUE,Tremors II: Aftershocks,Action,Comedy,Horror,,"['murder', 'cult']",['cult']
 265,tt0114781,Drama,Horror,FALSE,Moonstruck,Comedy,Drama,Romance,,"['murder', 'romantic', 'revenge', 'psychedelic']","['murder', 'violence', 'revenge', 'comedy', 'action']"
 61,tt0114898,Horror,Action,FALSE,Vibes,Adventure,Comedy,Romance,,"['cult', 'comedy']","['cult', 'sci-fi', 'stupid']"
 168,tt0115438,Comedy,Crime,FALSE,,,,,,,
 129,tt0115734,Comedy,Comedy,TRUE,Return to the Blue Lagoon,Adventure,Drama,Romance,,,
-130,tt0116126,Comedy,Comedy,TRUE,Don't Be a Menace to South Central While Drinking Your Juice in the Hood,,,,,"['violence', 'cult', 'comedy', 'satire']","['flashback', 'cult', 'revenge', 'comedy', 'humor', 'satire']"
+130,tt0116126,Comedy,Comedy,TRUE,Don't Be a Menace to South Central While Drinking Your Juice in the Hood,Comedy,Crime,,,"['violence', 'cult', 'comedy', 'satire']","['flashback', 'cult', 'revenge', 'comedy', 'humor', 'satire']"
 62,tt0116253,Action,Action,TRUE,Bitter Moon,Drama,Romance,Thriller,,,
 131,tt0116493,Comedy,Comedy,TRUE,,,,,,,
 231,tt0116508,Horror,Drama,FALSE,,,,,,,
