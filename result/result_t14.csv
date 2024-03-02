@@ -1,0 +1,96 @@
+,imdb_id,gt_labels,predicted_labels
+0,tt0105699,"['murder', 'suspenseful', 'neo noir', 'insanity']","['murder', 'violence', 'romantic', 'cult', 'comedy', 'neo noir']"
+1,tt0105793,"['cult', 'comedy', 'humor']","['murder', 'violence', 'cult', 'psychedelic', 'comedy']"
+2,tt0105812,"['cult', 'comedy', 'humor', 'entertaining']","['romantic', 'cult', 'psychedelic', 'comedy']"
+3,tt0106273,"['tragedy', 'historical', 'queer']",['flashback']
+4,tt0106364,"['murder', 'violence', 'flashback', 'romantic', 'cult', 'revenge', 'psychedelic', 'comedy', 'good versus evil', 'neo noir', 'sadist', 'insanity', 'tragedy', 'gothic']","['romantic', 'cult', 'comedy']"
+5,tt0106598,"['cult', 'stupid']","['murder', 'cult']"
+6,tt0106611,"['cult', 'comedy', 'entertaining', 'inspiring', 'feel-good']","['romantic', 'cult', 'psychedelic', 'comedy']"
+7,tt0106673,"['romantic', 'satire', 'fantasy']","['romantic', 'cult', 'comedy']"
+8,tt0106701,['prank'],"['cult', 'revenge', 'psychedelic', 'comedy']"
+9,tt0106881,"['flashback', 'boring', 'psychological']","['murder', 'violence', 'cult', 'revenge']"
+10,tt0106926,['murder'],"['murder', 'violence', 'cult', 'comedy', 'sadist']"
+11,tt0107048,"['romantic', 'cult', 'psychedelic', 'comedy', 'humor', 'satire', 'entertaining', 'fantasy', 'boring', 'alternate reality', 'cute', 'alternate history', 'clever', 'feel-good', 'magical realism']","['murder', 'violence', 'cult', 'comedy']"
+12,tt0107076,"['murder', 'violence', 'cult', 'revenge', 'comedy', 'action', 'sadist']","['murder', 'cult']"
+13,tt0107120,"['romantic', 'cult', 'revenge', 'good versus evil', 'entertaining', 'horror']",['cult']
+14,tt0107144,"['flashback', 'cult', 'revenge', 'comedy', 'humor', 'absurd', 'comic']",['romantic']
+15,tt0107206,"['murder', 'violence', 'flashback', 'romantic', 'revenge', 'suspenseful', 'good versus evil', 'humor', 'neo noir', 'action', 'mystery']","['murder', 'comedy']"
+16,tt0107207,"['violence', 'tragedy', 'dramatic', 'historical', 'realism']","['murder', 'violence', 'cult', 'psychedelic', 'comedy']"
+17,tt0107247,['flashback'],['no pred']
+18,tt0107387,"['violence', 'cult', 'comedy', 'suspenseful', 'horror']","['murder', 'romantic', 'cult', 'comedy']"
+19,tt0107473,"['romantic', 'neo noir']","['cult', 'comedy']"
+20,tt0107497,"['murder', 'revenge', 'neo noir', 'intrigue']","['murder', 'flashback', 'romantic', 'cult', 'comedy']"
+21,tt0107756,"['psychedelic', 'historical']","['murder', 'violence', 'cult', 'sadist']"
+22,tt0107983,"['murder', 'violence', 'cult', 'revenge', 'comedy', 'suspenseful', 'good versus evil', 'satire', 'neo noir', 'sadist', 'tragedy', 'cruelty', 'avant garde']","['cult', 'comedy']"
+23,tt0108162,"['murder', 'suspenseful', 'mystery']",['romantic']
+24,tt0108171,"['violence', 'suspenseful']","['cult', 'comedy']"
+25,tt0108174,"['murder', 'romantic', 'cult', 'psychedelic', 'comedy', 'entertaining', 'insanity']","['murder', 'cult', 'comedy']"
+26,tt0108238,['murder'],"['murder', 'violence', 'cult', 'comedy', 'good versus evil']"
+27,tt0108308,"['violence', 'cult', 'psychedelic']",['romantic']
+28,tt0108330,['violence'],['no pred']
+29,tt0108358,"['murder', 'violence', 'cult', 'suspenseful', 'realism']","['romantic', 'cult']"
+30,tt0108399,"['murder', 'violence', 'romantic', 'cult', 'comedy', 'action']",['no pred']
+31,tt0108526,['psychedelic'],['no pred']
+32,tt0108550,"['psychedelic', 'tragedy', 'boring', 'depressing', 'whimsical']","['romantic', 'comedy']"
+33,tt0109068,"['cult', 'comedy']","['murder', 'comedy']"
+34,tt0109297,"['murder', 'neo noir', 'mystery']","['murder', 'violence', 'cult', 'revenge', 'satire']"
+35,tt0109303,"['violence', 'flashback', 'cult', 'revenge', 'suspenseful', 'good versus evil', 'action']",['romantic']
+36,tt0109439,['violence'],['satire']
+37,tt0109579,"['revenge', 'suspenseful', 'psychological']",['romantic']
+38,tt0109758,"['romantic', 'comedy', 'sadist', 'pornographic']","['cult', 'comedy']"
+39,tt0109842,"['murder', 'violence', 'revenge', 'neo noir', 'tragedy']","['murder', 'violence', 'flashback', 'cult', 'revenge', 'comedy', 'gothic']"
+40,tt0110005,"['murder', 'violence', 'flashback', 'romantic', 'cult', 'revenge', 'psychedelic', 'insanity', 'fantasy', 'boring', 'melodrama', 'psychological', 'queer']","['romantic', 'cult', 'comedy']"
+41,tt0110027,"['violence', 'cult', 'good versus evil', 'action']",['romantic']
+42,tt0110097,['satire'],['romantic']
+43,tt0110167,"['romantic', 'comedy', 'feel-good']",['comedy']
+44,tt0110265,"['murder', 'violence', 'cult']",['murder']
+45,tt0110329,"['violence', 'cult', 'good versus evil']","['romantic', 'dramatic']"
+46,tt0110598,"['cult', 'psychedelic', 'comedy', 'humor']","['murder', 'flashback', 'cult']"
+47,tt0110613,['home movie'],"['murder', 'flashback', 'psychedelic', 'comedy']"
+48,tt0110706,['cult'],"['flashback', 'romantic', 'sadist']"
+49,tt0110759,['satire'],"['murder', 'cult', 'comedy']"
+50,tt0110882,"['murder', 'violence', 'revenge']","['romantic', 'comedy']"
+51,tt0110939,"['murder', 'cult', 'mystery']","['murder', 'violence', 'flashback', 'cult', 'revenge', 'psychedelic', 'comedy', 'suspenseful', 'satire', 'entertaining', 'neo noir', 'mystery', 'dark', 'atmospheric', 'stupid']"
+52,tt0110950,"['romantic', 'cult']","['murder', 'violence', 'flashback', 'cult', 'comedy', 'suspenseful', 'neo noir', 'mystery', 'dark']"
+53,tt0111149,"['murder', 'violence', 'flashback', 'romantic', 'psychedelic', 'comedy', 'insanity', 'cruelty', 'dark', 'atmospheric', 'home movie']","['murder', 'violence', 'cult', 'revenge', 'comedy', 'satire']"
+54,tt0111323,"['murder', 'violence', 'revenge', 'comedy', 'suspenseful', 'humor', 'suicidal']",['cult']
+55,tt0111503,"['violence', 'psychedelic', 'comedy', 'entertaining', 'neo noir', 'action', 'mystery']",['cult']
+56,tt0111742,"['murder', 'cult', 'revenge', 'comedy', 'satire', 'gothic']","['cult', 'fantasy']"
+57,tt0111756,"['murder', 'violence', 'flashback', 'cult', 'historical']",['romantic']
+58,tt0112281,"['cult', 'comedy', 'humor']","['murder', 'violence', 'cult', 'suspenseful', 'good versus evil']"
+59,tt0112384,"['suspenseful', 'boring', 'mystery', 'dramatic', 'historical', 'claustrophobic']",['romantic']
+60,tt0112401,"['murder', 'violence', 'romantic', 'revenge', 'suspenseful', 'neo noir', 'sadist']","['murder', 'violence', 'flashback', 'cult']"
+61,tt0112462,"['murder', 'violence', 'flashback', 'revenge', 'comedy', 'good versus evil', 'action', 'insanity', 'atmospheric']","['romantic', 'psychedelic']"
+62,tt0112508,"['cult', 'comedy', 'entertaining', 'prank', 'stupid']","['romantic', 'comedy']"
+63,tt0112536,['violence'],['romantic']
+64,tt0112641,"['murder', 'violence', 'cult', 'revenge', 'comedy', 'neo noir', 'sadist']","['cult', 'psychedelic', 'entertaining', 'paranormal']"
+65,tt0112681,"['murder', 'mystery']","['romantic', 'cult']"
+66,tt0112688,"['murder', 'violence']","['murder', 'violence', 'cult', 'suspenseful', 'sadist']"
+67,tt0112851,"['violence', 'flashback', 'romantic', 'cult', 'revenge', 'comedy', 'good versus evil', 'humor', 'neo noir', 'action', 'mystery']","['murder', 'flashback', 'cult', 'suspenseful']"
+68,tt0112857,"['murder', 'violence', 'suspenseful', 'neo noir', 'atmospheric', 'plot twist']","['murder', 'cult', 'comedy', 'suspenseful', 'gothic']"
+69,tt0113114,['romantic'],['flashback']
+70,tt0113228,"['revenge', 'comedy', 'prank']","['cult', 'comedy']"
+71,tt0113243,"['cult', 'action', 'boring', 'sci-fi', 'prank', 'pornographic']","['murder', 'violence', 'cult', 'comedy', 'good versus evil', 'insanity', 'horror']"
+72,tt0113443,['queer'],['cult']
+73,tt0113617,"['flashback', 'comedy']","['flashback', 'romantic', 'sadist']"
+74,tt0113677,"['flashback', 'romantic', 'cult', 'satire']",['romantic']
+75,tt0113729,"['romantic', 'insanity']","['murder', 'violence', 'cult', 'insanity']"
+76,tt0114011,"['flashback', 'paranormal']",['romantic']
+77,tt0114069,"['romantic', 'suspenseful']",['murder']
+78,tt0114168,"['flashback', 'romantic', 'cult', 'revenge']",['cult']
+79,tt0114279,"['murder', 'tragedy']","['murder', 'violence', 'cult', 'comedy']"
+80,tt0114323,"['psychedelic', 'allegory']","['flashback', 'cult']"
+81,tt0114550,"['violence', 'anti war']","['murder', 'cult', 'revenge']"
+82,tt0114709,"['violence', 'cult', 'comedy', 'humor', 'entertaining', 'fantasy', 'cute', 'clever']","['romantic', 'cult']"
+83,tt0114720,['cult'],"['murder', 'cult']"
+84,tt0114781,"['murder', 'violence', 'revenge', 'comedy', 'action']","['murder', 'romantic', 'revenge', 'psychedelic']"
+85,tt0114898,"['cult', 'sci-fi', 'stupid']","['cult', 'comedy']"
+86,tt0115438,"['murder', 'violence', 'revenge', 'comedy', 'suspenseful', 'neo noir', 'suicidal']","['murder', 'flashback', 'cult', 'revenge']"
+87,tt0115734,"['romantic', 'cult', 'psychedelic', 'humor']","['murder', 'violence', 'cult', 'comedy', 'satire']"
+88,tt0116126,"['flashback', 'cult', 'revenge', 'comedy', 'humor', 'satire']","['violence', 'cult', 'comedy', 'satire']"
+89,tt0116253,"['murder', 'violence', 'flashback', 'revenge', 'suspenseful', 'mystery']",['cult']
+90,tt0116493,['flashback'],"['murder', 'cult', 'revenge']"
+91,tt0116508,"['murder', 'revenge', 'plot twist']","['murder', 'flashback', 'gothic']"
+92,tt0116683,"['cult', 'psychedelic', 'sadist', 'fantasy']",['no pred']
+93,tt0116705,['comic'],"['murder', 'cult']"
+94,tt0116722,['tragedy'],['romantic']
