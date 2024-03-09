@@ -1,0 +1,973 @@
+Unnamed: 0,imdb_id,startYear,originalTitle,runtimeMinutes,one_genre,genres1,genres2,genres3,tags,mood_tags,youtube_id,split
+0,tt0023427,1932,Scarface,93,Crime,Action,Crime,Drama,"violence, murder",violence,XRmWftEjit0,train
+2,tt0031381,1939,Gone with the Wind,238,Romance,Drama,Romance,War,"romantic, boring, historical, murder, melodrama","romantic, boring",0dTsfsr6-X8,train
+3,tt0032910,1940,Pinocchio,88,Action,Adventure > Action,Animation,Comedy,"cute, fantasy, entertaining","cute, fantasy",WOjibXs2opw,train
+5,tt0034492,1942,Bambi,69,Drama,Adventure,Animation,Drama,cute,cute,wlnfh2DEIgY,train
+6,tt0035896,1943,For Whom the Bell Tolls,170,Action,Adventure > Action,Drama,History,"violence, murder",violence,uxFEGZwzElc,train
+8,tt0040746,1948,Rope,80,Crime,Crime,Drama,Mystery,"murder, cult, atmospheric, philosophical, suspenseful, storytelling","atmospheric, suspenseful",ADoJWPAvHuM,train
+9,tt0041716,1949,On the Town,98,Romance,Comedy,Musical,Romance,romantic,romantic,x7CIgWZTdgw,train
+12,tt0043274,1951,Alice in Wonderland,75,Comedy,Adventure,Animation,Comedy,"fantasy, whimsical, cute, alternate reality, psychedelic, entertaining","fantasy, cute",UetmdGJdblc,train
+13,tt0043379,1951,Captain Horatio Hornblower R.N.,117,Action,Action,Adventure,Drama,"violence, action, historical fiction","violence, action",s2l0p-fg4lU,train
+14,tt0044926,1952,Moulin Rouge,119,Drama,Biography,Drama,Music,romantic,romantic,CKyh4zKkths,train
+15,tt0045125,1952,Scaramouche,115,Action,Action,Adventure,Comedy,"revenge, action, murder",action,yzYEYyOsQtA,train
+16,tt0045152,1952,Singin' in the Rain,103,Comedy,Comedy,Musical,Romance,"comedy, boring, flashback, satire, romantic, historical","comedy, boring, romantic",jEKQwy13j_8,train
+17,tt0045810,1953,Gentlemen Prefer Blondes,91,Comedy,Comedy,Musical,Romance,"romantic, satire",romantic,ur9GKLl8v4U,train
+18,tt0045888,1953,House of Wax,88,Horror,Horror,,,"revenge, murder",,M5RkKx-9tEM,train
+19,tt0045963,1953,Kiss Me Kate,109,Comedy,Comedy,Musical,Romance,romantic,romantic,ZiTQMypUgs8,train
+20,tt0046183,1953,Peter Pan,77,Action,Adventure > Action,Animation,Family,"good versus evil, psychedelic, fantasy, action, entertaining","fantasy, action",4GVdbBpVVoc,train
+21,tt0046303,1953,Shane,118,Drama,Drama,Western,,"revenge, murder, violence, melodrama",violence,SWdPmapuOd4,train
+22,tt0046672,1954,"20,000 Leagues Under the Sea",127,Drama,Adventure,Drama,Family,sci-fi,,eC39LB1PTNg,train
+23,tt0046912,1954,Dial M for Murder,105,Crime,Crime,Thriller,,"suspenseful, murder, claustrophobic",suspenseful,rHVYaFCXVFM,train
+25,tt0047472,1954,Seven Brides for Seven Brothers,102,Drama,Comedy,Drama,Musical,romantic,romantic,CfFFFfRwsR0,train
+26,tt0047673,1954,White Christmas,120,Comedy,Comedy,Musical,Romance,romantic,romantic,3n3-UtakD3I,train
+27,tt0047834,1954,Animal Farm,72,Drama,Animation,Drama,,"allegory, psychedelic, satire, murder",,YGCo5Tva39s,train
+28,tt0047849,1955,Bad Day at Black Rock,81,Crime,Crime,Drama,Mystery,"cult, murder",,vWpvrb6i9bI,train
+29,tt0048545,1955,Rebel Without a Cause,111,Drama,Drama,,,"cult, violence, romantic","violence, romantic",AnQ5CPEMjPI,train
+30,tt0048728,1955,To Catch a Thief,106,Romance,Mystery,Romance,Thriller,"murder, atmospheric",atmospheric,5PAUVYq-nAM,train
+32,tt0049223,1956,Forbidden Planet,98,Action,Adventure > Action,Sci-Fi,,"comedy, psychological, murder, cult, psychedelic, suspenseful, sci-fi","comedy, suspenseful",wGHUye0TiKs,train
+34,tt0049261,1956,Giant,201,Drama,Drama,Western,,"romantic, depressing, realism, melodrama","romantic, depressing",kMG_ipol-MI,train
+37,tt0049966,1956,Written on the Wind,99,Drama,Drama,,,"melodrama, revenge, psychedelic, romantic, flashback",romantic,862Yc-cwQEY,train
+38,tt0050419,1957,Funny Face,103,Comedy,Comedy,Musical,Romance,philosophical,,X6VLdVrVQGQ,train
+39,tt0051459,1958,Cat on a Hot Tin Roof,108,Drama,Drama,,,sentimental,sentimental,TWsG_Qj1wUo,train
+40,tt0051554,1958,Dracula,82,Drama,Drama,Horror,,"gothic, paranormal, cult, violence, good versus evil, suspenseful","violence, suspenseful",8Y0UvD8albI,train
+41,tt0051658,1958,Gigi,115,Romance,Comedy,Musical,Romance,romantic,romantic,jEofRODHZ1w,train
+42,tt0052357,1958,Vertigo,128,Romance,Mystery,Romance,Thriller,"mystery, murder, cult, atmospheric, flashback, psychedelic, romantic, plot twist","mystery, atmospheric, romantic",c2u96ONO5K0,train
+44,tt0052905,1959,The Hound of the Baskervilles,87,Horror,Horror,Mystery,,"gothic, murder, atmospheric",atmospheric,qQRQ8MXqS10,train
+45,tt0052918,1959,Imitation of Life,125,Drama,Drama,,,melodrama,,HaanE7v6uJI,train
+46,tt0052948,1959,Journey to the Center of the Earth,129,Action,Adventure > Action,Family,Fantasy,murder,,ld5RyBXiROY,train
+48,tt0053172,1959,Pillow Talk,102,Romance,Comedy,Romance,,"romantic, comedy","romantic, comedy",jVaCxZgZbOY,train
+50,tt0054047,1960,The Magnificent Seven,128,Action,Action,Adventure,Western,"revenge, cult, murder, violence",violence,oam0x6wNK94,train
+51,tt0054195,1960,Pollyanna,134,Comedy,Comedy,Drama,Family,romantic,romantic,XVtLP5tfpCA,train
+52,tt0054331,1960,Spartacus,197,Drama,Adventure,Biography,Drama,"tragedy, romantic, historical, murder, violence","romantic, violence",I98o9rJtGSo,train
+54,tt0054494,1960,Zazie dans le m?tro,93,Comedy,Comedy,Fantasy,,"absurd, psychedelic",,lpt0xB7qSj4,train
+55,tt0054698,1961,Breakfast at Tiffany's,115,Romance,Comedy,Drama,Romance,"cult, psychedelic, humor, satire, melodrama, romantic, sentimental","humor, romantic, sentimental",urQVzgEO_w8,train
+56,tt0054847,1961,El Cid,182,Drama,Biography,Drama,History,violence,violence,1ZzCrkIf5Sc,train
+57,tt0055257,1961,One-Eyed Jacks,141,Drama,Drama,Western,,"revenge, cult",,m5zLqS9Abo0,train
+58,tt0055304,1961,The Pit and the Pendulum,80,Drama,Drama,Horror,Mystery,"insanity, cult, gothic, murder, flashback",,QChBy15UiTs,train
+59,tt0055471,1961,Splendor in the Grass,124,Drama,Drama,Romance,,"romantic, melodrama",romantic,dWDkdsZQq_c,train
+60,tt0055614,1961,West Side Story,153,Crime,Crime,Drama,Musical,"tragedy, revenge, murder, romantic, entertaining",romantic,IakulTGwc0U,train
+61,tt0055928,1962,Dr. No,110,Horror,Action,Adventure,Thriller>Horror,"good versus evil, cult, murder",,pw61uyA0F8A,train
+62,tt0056172,1962,Lawrence of Arabia,218,Drama,Adventure,Biography,Drama,"murder, cult, violence, atmospheric, flashback, insanity, historical","violence, atmospheric",zmr1iSG3RTA,train
+63,tt0056264,1962,Mutiny on the Bounty,178,Action,Adventure > Action,Drama,History,action,action,MEmZ_A0UTrA,train
+64,tt0056923,1963,Charade,113,Romance,Comedy,Mystery,Romance,"romantic, humor, murder","romantic, humor",QmgPw34Xm3A,train
+65,tt0057076,1963,From Russia with Love,115,Action,Action,Adventure,Thriller,"cult, murder",,VqAOf66o1Wg,train
+66,tt0057197,1963,Jason and the Argonauts,104,Action,Action,Adventure,Family,"cult, murder",,C-ZQGRM7GW0,train
+68,tt0058150,1964,Goldfinger,110,Action,Action,Adventure,Thriller,"suspenseful, murder, cult, action, humor, revenge","suspenseful, action, humor",B8H83OOs8ow,train
+69,tt0058329,1964,Marnie,130,Crime,Crime,Drama,Mystery,"melodrama, romantic, psychological, murder, flashback",romantic,QV_2-v_dsAU,train
+71,tt0058385,1964,My Fair Lady,170,Drama,Drama,Family,Musical,"romantic, entertaining, clever",romantic,j2OBKPuftKk,train
+72,tt0058571,1964,Send Me No Flowers,100,Comedy,Comedy,Drama,Romance,romantic,romantic,wJuDJNhSMGs,train
+73,tt0058672,1964,Topkapi,120,Comedy,Adventure,Comedy,Crime,"suspenseful, intrigue",suspenseful,k8thNodJpLc,train
+74,tt0058777,1964,Zulu,138,Drama,Drama,History,War,"cult, historical",,7FX-a-KuNv8,train
+75,tt0059017,1965,Cat Ballou,97,Comedy,Comedy,Romance,Western,revenge,,koAA9MvqSpI,train
+76,tt0059113,1965,Doctor Zhivago,197,Romance,Drama,Romance,War,"avant garde, murder, atmospheric, romantic, revenge, historical","atmospheric, romantic",M1iQ5hQTR5s,train
+77,tt0059125,1965,Dr. Terror's House of Horrors,98,Horror,Horror,,,revenge,,cqXG4ooQP6A,train
+79,tt0059800,1965,Thunderball,130,Horror,Action,Adventure,Thriller > Horror,"cult, humor, murder, suspenseful","humor, suspenseful",sINW75t3g_U,train
+80,tt0060345,1966,How the Grinch Stole Christmas!,26,Comedy,Animation,Comedy,Family,"cult, fantasy, psychedelic, entertaining, humor","fantasy, humor",XYRnwWmteac,train
+105,tt0063518,1968,Romeo and Juliet,138,Drama,Drama,Romance,,"murder, cult, action, romantic, tragedy, revenge","action, romantic",nl_eFSeCb-4,train
+106,tt0063522,1968,Rosemary's Baby,137,Drama,Drama,Horror,,"murder, horror, atmospheric, good versus evil, psychedelic, suspenseful","horror, atmospheric, suspenseful",NoXLXMbOgiU,train
+108,tt0064276,1969,Easy Rider,95,Drama,Adventure,Drama,,"comedy, avant garde, dark, murder, realism, cult, atmospheric, psychedelic, humor, satire","comedy, dark, atmospheric, humor",GwST6mpT7Ds,train
+109,tt0064603,1968,The Love Bug,108,Comedy,Comedy,Family,Sport,cult,,KHoSXE9nIHg,train
+110,tt0064665,1969,Midnight Cowboy,113,Drama,Drama,,,"tragedy, psychedelic, humor, realism, flashback",humor,a2yBydiEJrI,train
+112,tt0064782,1969,Paint Your Wagon,164,Comedy,Comedy,Drama,Musical,"cult, comedy",comedy,B0idoJnBAvk,train
+113,tt0065054,1969,Sweet Charity,149,Drama,Comedy,Drama,Music,tragedy,,9bUIvGVbD0E,train
+114,tt0065063,1969,Take the Money and Run,85,Comedy,Comedy,Crime,,"comedy, satire, entertaining",comedy,Hrithr42oUM,train
+115,tt0065088,1969,"They Shoot Horses, Don't They?",129,Drama,Drama,,,"depressing, flashback",depressing,ke-sWMXspNA,train
+116,tt0065112,1969,Topaz,143,Drama,Drama,Thriller,,"suspenseful, intrigue, murder",suspenseful,ZZ_Y2NbC-Dk,train
+118,tt0065134,1970,Two Mules for Sister Sara,116,Romance,Adventure,Romance,War,"cult, avant garde, murder, violence",violence,6fYdd6EFVrY,train
+119,tt0065207,1968,Where Eagles Dare,158,Action,Action,Adventure,War,"plot twist, violence, romantic, flashback","violence, romantic",b-_P-DoBe6E,train
+120,tt0065377,1970,Airport,137,Action,Action,Drama,Thriller,"cult, suspenseful, melodrama",suspenseful,PACKbKt8MOw,train
+121,tt0065462,1970,Beneath the Planet of the Apes,95,Action,Action,Adventure,Sci-Fi,"murder, allegory, anti war, violence, cult, flashback, good versus evil, action, satire, suspenseful","violence, action, suspenseful",uMuEnNxX1E8,train
+122,tt0065724,1970,Five Easy Pieces,98,Drama,Drama,,,"cult, romantic",romantic,PIYMRqq7cJA,train
+123,tt0065738,1969,Frankenstein Must Be Destroyed,101,Horror,Drama,Horror,Sci-Fi,"insanity, gothic, murder",,z6xfI_W9cyQ,train
+124,tt0066206,1970,Patton,172,Drama,Biography,Drama,War,"violence, boring, historical","violence, boring",g-0dTpzNzwo,train
+125,tt0066214,1970,Performance,105,Crime,Crime,Drama,,"mystery, murder, cult, violence, atmospheric, psychedelic","mystery, violence, atmospheric",wFxfn3LakeM,train
+127,tt0066434,1971,THX 1138,86,Drama,Drama,Sci-Fi,Thriller,"avant garde, suspenseful, murder, neo noir, psychological, cult, psychedelic, romantic, sci-fi","suspenseful, romantic",eHgqfVQWv7s,train
+128,tt0066808,1971,Bananas,82,Comedy,Comedy,,,"cult, comedy, satire",comedy,Xyqm-wWnX0A,train
+129,tt0066995,1971,Diamonds Are Forever,120,Action,Action,Adventure,Thriller,"cult, revenge, murder",,9yOamj4mlnE,train
+130,tt0066999,1971,Dirty Harry,102,Crime,Action,Crime,Thriller,"dark, suspenseful, cruelty, murder, neo noir, realism, cult, violence, good versus evil, revenge, sadist","dark, suspenseful, violence, sadist",K6Vi1VurN9s,train
+131,tt0067023,1971,Duel,90,Action,Action,Thriller,,"mystery, cult, comedy, suspenseful","mystery, comedy, suspenseful",Gdk1Igqu05Y,train
+132,tt0067065,1971,Escape from the Planet of the Apes,98,Action,Action,Sci-Fi,,"alternate history, murder, flashback",,t4OQqg-oL2M,train
+133,tt0067093,1971,Fiddler on the Roof,181,Drama,Drama,Family,Musical,"avant garde, flashback",,PjfTNnznJXw,train
+134,tt0067185,1971,Harold and Maude,91,Comedy,Comedy,Drama,Romance,"comedy, dark, cute, cult, psychedelic, humor","comedy, dark, cute, humor",u-cOukYeGVM,train
+135,tt0067309,1971,Klute,114,Crime,Crime,Mystery,Thriller,"murder, mystery, neo noir, storytelling, sadist","mystery, sadist",ZbQS66Kpgog,train
+137,tt0067741,1971,Shaft,100,Action,Action,Crime,Thriller,"grindhouse film, murder, cult, violence, atmospheric, suspenseful, blaxploitation","violence, atmospheric, suspenseful",NiCB2isZcRM,train
+138,tt0067756,1972,Silent Running,89,Drama,Drama,Sci-Fi,,"comedy, murder, cult, atmospheric, flashback, psychedelic, claustrophobic, inspiring","comedy, atmospheric, inspiring",TckJBvl_uT0,train
+139,tt0067800,1971,Straw Dogs,113,Crime,Crime,Drama,Thriller,"suspenseful, cruelty, murder, cult, violence, flashback, revenge, sadist","suspenseful, violence, sadist",yXkqGVfm1mo,train
+140,tt0067959,1971,Walkabout,100,Drama,Adventure,Drama,,"insanity, mystery, storytelling, flashback",mystery,Fdqwbs8uKwQ,train
+142,tt0068240,1972,Avanti!,144,Comedy,Comedy,Romance,,murder,,kHML8pMfPGA,train
+143,tt0068327,1972,Cabaret,124,Drama,Drama,Music,Musical,"romantic, depressing, historical, queer","romantic, depressing",YE3xrfjAJfs,train
+144,tt0068473,1972,Deliverance,109,Horror,Adventure,Drama,Thriller > Horror,"mystery, psychological, realism, murder, cult, violence, suspenseful","mystery, violence, suspenseful",-3Jr7af1FrQ,train
+145,tt0068555,1972,Everything You Always Wanted to Know About Sex * But Were Afraid to Ask,88,Comedy,Comedy,,,"pornographic, psychedelic, humor, satire",humor,uinn26P2c6M,train
+146,tt0068611,1972,Frenzy,116,Horror,Thriller > Horror,,,"murder, cult, revenge, horror, flashback, suspenseful, sadist","horror, suspenseful, sadist",0gWjZpkkkIs,train
+147,tt0068699,1973,High Plains Drifter,105,Drama,Drama,Mystery,Western,"dark, suspenseful, mystery, murder, bleak, western, violence, cult, flashback, psychedelic, revenge","dark, suspenseful, mystery, violence",gi0If8tH_Ls,train
+148,tt0068762,1972,Jeremiah Johnson,108,Action,Adventure > Action,Drama,Western,"bleak, realism, revenge, murder, atmospheric",atmospheric,QFLwH-ZZ1MY,train
+149,tt0069097,1972,"Play It Again, Sam",85,Comedy,Comedy,Romance,,"psychedelic, satire, romantic",romantic,Dl_DBzrNFzc,train
+150,tt0069280,1972,Slaughterhouse-Five,104,Drama,Comedy,Drama,Sci-Fi,"boring, murder, flashback, insanity, absurd, psychedelic, revenge, storytelling",boring,DvlZtlBfCi0,train
+153,tt0069704,1973,American Graffiti,110,Comedy,Comedy,Drama,,"cult, romantic, prank",romantic,OZ9Gp6Qc8LQ,train
+154,tt0069762,1973,Badlands,94,Crime,Action,Crime,Drama,"bleak, atmospheric, cult, murder, violence","atmospheric, violence",qKykxE7CBbc,train
+156,tt0069865,1973,Charley Varrick,111,Crime,Crime,Drama,Thriller,"realism, cult, suspenseful, neo noir, murder",suspenseful,TxaqjQWQVAk,train
+159,tt0069995,1973,Don't Look Now,110,Drama,Drama,Horror,Mystery,"gothic, paranormal, cult, atmospheric, flashback, psychedelic, suspenseful","atmospheric, suspenseful",XAYVHXlfu8c,train
+160,tt0070016,1973,Charlotte's Web,94,Drama,Adventure,Animation,Drama,"romantic, cute, sentimental","romantic, cute, sentimental",QH2vwaiEHRY,train
+161,tt0070034,1973,Enter the Dragon,102,Crime,Action,Crime,Drama,"suspenseful, murder, cult, violence, flashback, good versus evil, revenge","suspenseful, violence",80wXmIcyZwk,train
+162,tt0070239,1973,Jesus Christ Superstar,106,Drama,Drama,History,Musical,"psychedelic, boring",boring,CEUDcqYGK74,train
+163,tt0070328,1973,Live and Let Die,121,Action,Action,Adventure,Thriller,"paranormal, blaxploitation, cult, murder, violence",violence,0xng9anP5fU,train
+164,tt0070355,1973,Magnum Force,124,Crime,Action,Crime,Mystery,"cult, murder, violence",violence,qVk8NhLhZMk,train
+165,tt0070379,1973,Mean Streets,112,Crime,Crime,Drama,Thriller,"cult, comedy, neo noir, murder, violence","comedy, violence",rCwjzn0CncA,train
+166,tt0070511,1973,Papillon,151,Drama,Biography,Crime,Drama,"violence, cult, boring, romantic","violence, boring, romantic",EW8Uk-34Sn4,train
+167,tt0070608,1973,Robin Hood,83,Action,Adventure > Action,Animation,Comedy,"good versus evil, action",action,2ZhaygpiQlk,train
+168,tt0070666,1973,Serpico,130,Crime,Biography,Crime,Drama,"dark, neo noir, violence, atmospheric, flashback, romantic","dark, violence, atmospheric, romantic",3lahDbYMz5o,train
+169,tt0070698,1972,Sisters,93,Horror,Horror,Mystery,Thriller,"avant garde, murder, paranormal, cult, good versus evil, insanity, satire, claustrophobic",,XvsixXqC-gM,train
+171,tt0071110,1974,Airport 1975,107,Action,Action,Drama,Thriller,suspenseful,suspenseful,h-l3wzkCwiU,train
+172,tt0071129,1973,Amarcord,123,Drama,Comedy,Drama,,"cult, flashback, psychedelic, humor, satire, prank",humor,W5PsIpaRIFs,train
+173,tt0071230,1974,Blazing Saddles,93,Comedy,Comedy,Western,,"comedy, cult, flashback, good versus evil, absurd, satire, comic, entertaining","comedy, comic",VKayG1TrfuE,train
+175,tt0071315,1974,Chinatown,130,Drama,Drama,Mystery,Thriller,"comedy, dark, depressing, murder, neo noir, mystery, bleak, cult, violence, plot twist, atmospheric, humor, suspenseful","comedy, dark, depressing, mystery, violence, atmospheric, humor, suspenseful",Zh4BCgDLmmI,train
+176,tt0071402,1974,Death Wish,93,Drama,Action,Crime,Drama,"revenge, cult, neo noir, murder, violence",violence,9Xm3GINdMV4,train
+177,tt0071455,1974,Earthquake,122,Action,Action,Drama,Thriller,"comedy, suspenseful, murder, cult, melodrama, revenge","comedy, suspenseful",yV88FanNJlU,train
+178,tt0071569,1973,The Golden Voyage of Sinbad,105,Action,Action,Adventure,Fantasy,"good versus evil, cult, action",action,3qrRSQ7ZJE8,train
+179,tt0071853,1975,Monty Python and the Holy Grail,91,Comedy,Adventure,Comedy,Fantasy,"comedy, murder, cult, violence, psychedelic, absurd, satire, humor, entertaining","comedy, violence, humor",RDM75-oXGmQ,train
+181,tt0071994,1974,Phantom of the Paradise,91,Comedy,Comedy,Drama,Fantasy,"dark, comedy, cruelty, gothic, murder, cult, violence, tragedy, revenge","dark, comedy, violence",2n5qVJEg3qA,train
+182,tt0072288,1974,Thunderbolt and Lightfoot,115,Comedy,Comedy,Crime,Drama,"violence, comedy","violence, comedy",m7KVPZcDoLo,train
+183,tt0072684,1975,Barry Lyndon,185,Drama,Adventure,Drama,War,"boring, cruelty, atmospheric, melodrama","boring, atmospheric",nr3afTny9PQ,train
+185,tt0072890,1975,Dog Day Afternoon,125,Crime,Biography,Crime,Drama,"comedy, atmospheric","comedy, atmospheric",CZHS7zexXlU,train
+186,tt0073018,1975,French Connection 2,119,Action,Action,Crime,Drama,neo noir,,BK10bJ3rSjQ,train
+187,tt0073195,1975,Jaws,124,Horror,Adventure,Horror,,"horror, cult, suspenseful, violence, prank","horror, suspenseful, violence",0zkYRD51I34,train
+188,tt0073440,1975,Nashville,160,Drama,Comedy,Drama,Music,"tragedy, humor, satire, atmospheric","humor, atmospheric",QZGpaVZdGlo,train
+189,tt0073486,1975,One Flew Over the Cuckoo's Nest,133,Drama,Drama,,,"psychological, depressing, dramatic, cult, violence, insanity, satire, claustrophobic, sadist, sentimental","depressing, dramatic, violence, sadist, sentimental",FrDQ5hz7H7w,train
+190,tt0073540,1975,Picnic at Hanging Rock,115,Drama,Drama,Mystery,,"mystery, historical, boring, flashback","mystery, boring",x05QuAhpq6o,train
+191,tt0073812,1975,Tommy,111,Drama,Drama,Musical,,"cult, humor, psychedelic, murder, boring","humor, boring",G4K_9WyQCgA,train
+192,tt0074119,1976,All the President's Men,138,Drama,Drama,History,Thriller,"inspiring, suspenseful, mystery, historical, dramatic","inspiring, suspenseful, mystery, dramatic",LvyglNQguFk,train
+194,tt0074256,1976,Bugsy Malone,93,Crime,Comedy,Crime,Family,"depressing, comic, flashback","depressing, comic",NOrgDbldcA4,train
+195,tt0074285,1976,Carrie,98,Horror,Horror,Mystery,,"comedy, fantasy, cruelty, suspenseful, gothic, murder, paranormal, dark, cult, violence, horror, atmospheric, insanity, romantic, tragedy, revenge, sadist, prank","comedy, fantasy, suspenseful, dark, violence, horror, atmospheric, romantic, sadist",VSF6WVx_Tdo,train
+196,tt0074455,1976,Eaten Alive,91,Horror,Horror,Thriller,,"grindhouse film, murder, cult, horror, violence, insanity","horror, violence",9cQGA5VRj50,train
+197,tt0074512,1976,Family Plot,120,Drama,Comedy,Crime,Drama,"paranormal, suspenseful, murder",suspenseful,YVazwgLDFvI,train
+199,tt0074860,1976,Marathon Man,125,Crime,Crime,Drama,Thriller,"suspenseful, murder, violence, horror, flashback, revenge","suspenseful, violence, horror",8WmlhEO2cU4,train
+200,tt0074937,1976,Murder by Death,95,Comedy,Comedy,Crime,Mystery,"mystery, murder",mystery,mXn8CsQU1-U,train
+201,tt0074958,1976,Network,121,Drama,Drama,,,"comedy, avant garde, murder, dramatic, suicidal, atmospheric, insanity, humor, satire, brainwashing","comedy, dramatic, atmospheric, humor",bX49yRksgPk,train
+202,tt0074991,1976,Obsession,98,Drama,Drama,Mystery,Thriller,"violence, neo noir, flashback",violence,QCAt6E4wBEk,train
+205,tt0075222,1976,Silent Movie,87,Comedy,Comedy,,,comedy,comedy,qfrQrLeD7Gw,train
+206,tt0075223,1976,Silver Streak,114,Action,Action,Comedy,Crime,"cult, comedy, murder, violence","comedy, violence",4cyhBroQsNA,train
+207,tt0075261,1976,Squirm,92,Horror,Horror,,,murder,,KyTpkR2cwLo,train
+208,tt0075314,1976,Taxi Driver,114,Crime,Crime,Drama,,"dark, psychological, neo noir, murder, boring, cult, violence, atmospheric, insanity, romantic, revenge","dark, boring, violence, atmospheric, romantic",d07aBOLvmuI,train
+209,tt0075648,1977,Airport '77,114,Action,Action,Drama,Thriller,"suspenseful, murder",suspenseful,gZUkfmBCsrE,train
+210,tt0075860,1977,Close Encounters of the Third Kind,138,Drama,Drama,Sci-Fi,,"mystery, dramatic, humor","mystery, dramatic, humor",VPg4RgEapwo,train
+211,tt0076009,1977,Exorcist II: The Heretic,117,Horror,Horror,,,cult,,ZEnaYHPDxyg,train
+212,tt0076141,1977,High Anxiety,94,Comedy,Comedy,Mystery,Thriller,"paranormal, murder",,k-YgTlyt8Ek,train
+213,tt0076451,1977,"New York, New York",155,Drama,Drama,Music,Musical,romantic,romantic,1ofQXnpgPFg,train
+214,tt0076538,1977,Pete's Dragon,128,Action,Adventure > Action,Animation,Comedy,"action, entertaining, boring","action, boring",vUW0a_I3kxU,train
+216,tt0076636,1977,Rollercoaster,119,Action,Action,Crime,Drama,"suspenseful, comedy, murder","suspenseful, comedy",mVSEQHbyL34,train
+217,tt0076716,1977,Sinbad and the Eye of the Tiger,113,Action,Action,Adventure,Family,"good versus evil, revenge, cult",,gNOHaOd5BDQ,train
+220,tt0077235,1978,Big Wednesday,120,Drama,Drama,Sport,,"cult, philosophical",,BEdOnf1JhF8,train
+221,tt0077394,1978,Damien: Omen II,107,Horror,Horror,,,"good versus evil, violence, gothic, murder",violence,Az86iKhWAjk,train
+222,tt0077402,1978,Dawn of the Dead,127,Horror,Horror,Thriller,,"comedy, suspenseful, grindhouse film, murder, cult, horror, violence, good versus evil, absurd, action, satire, claustrophobic, revenge, entertaining, sadist","comedy, suspenseful, horror, violence, action, sadist",R6W8-Frq5f4,train
+223,tt0077405,1978,Days of Heaven,94,Romance,Drama,Romance,,"tragedy, boring, murder, atmospheric","boring, atmospheric",XVbg9xc7tGc,train
+224,tt0077413,1978,Death on the Nile,140,Crime,Crime,Drama,Mystery,"mystery, murder",mystery,zrbO9JjmWMc,train
+225,tt0077523,1978,Every Which Way but Loose,114,Comedy,Action,Comedy,,"comedy, violence, prank","comedy, violence",aB0PFiL9QV0,train
+226,tt0077572,1978,Force 10 from Navarone,118,Drama,Action,Drama,War,psychedelic,,W8IeyxgPpxY,train
+227,tt0077578,1978,Foul Play,116,Comedy,Comedy,Mystery,Thriller,murder,,CQ3Vz8CV9bo,train
+230,tt0077663,1978,Heaven Can Wait,101,Comedy,Comedy,Fantasy,Romance,murder,,EAQ828xEADw,train
+231,tt0077742,1978,Interiors,92,Drama,Drama,,,depressing,depressing,lhphrzgPpaE,train
+232,tt0077745,1978,Invasion of the Body Snatchers,115,Horror,Horror,Sci-Fi,,"horror, violence, humor, murder, flashback","horror, violence, humor",dCOtncsaU80,train
+234,tt0077975,1978,National Lampoon's Animal House,109,Comedy,Comedy,,,"comedy, cult, satire, revenge, entertaining, prank",comedy,KWjtI6n5xWM,train
+235,tt0078087,1978,Piranha,94,Horror,Comedy,Horror,Sci-Fi,"tragedy, cult, comedy, violence","comedy, violence",XoCKGvVlNYM,train
+236,tt0078158,1978,Return from Witch Mountain,95,Action,Adventure > Action,Family,Fantasy,"paranormal, brainwashing",,WJ4Tx4Vq_K8,train
+238,tt0078480,1978,Watership Down,91,Drama,Adventure,Animation,Drama,"allegory, violence, cult, atmospheric, psychedelic, romantic","violence, atmospheric, romantic",9S26LA8Bk14,train
+239,tt0078721,1979,10,122,Romance,Comedy,Romance,,romantic,romantic,1_Csa25tMw4,train
+240,tt0078723,1979,1941,118,Comedy,Action,Comedy,War,"absurd, cult, psychedelic, satire",,6_KOLqpo7z8,train
+241,tt0078748,1979,Alien,117,Horror,Horror,Sci-Fi,,"dark, boring, gothic, murder, mystery, cult, violence, horror, atmospheric, action, claustrophobic, suspenseful, sci-fi","dark, boring, mystery, violence, horror, atmospheric, action, suspenseful",D3oC17nILkw,train
+242,tt0078754,1979,All That Jazz,123,Drama,Drama,Music,Musical,"tragedy, comedy, flashback",comedy,C74Pae3PpMo,train
+243,tt0078788,1979,Apocalypse Now,147,Drama,Drama,Mystery,War,"dark, boring, psychological, allegory, cult, violence, anti war, dramatic, insanity, psychedelic, action, suspenseful","dark, boring, violence, dramatic, action, suspenseful",_6B1Z_AEgCI,train
+244,tt0078902,1979,Breaking Away,101,Comedy,Comedy,Drama,Sport,"inspiring, prank",inspiring,J1jzs6dk4bs,train
+246,tt0079116,1979,Escape from Alcatraz,112,Action,Action,Biography,Crime,"suspenseful, violence","suspenseful, violence",j8c7vTZYVEw,train
+247,tt0079261,1979,Hair,121,Drama,Comedy,Drama,Musical,"anti war, cult, romantic, flashback",romantic,JoQm4rEJNGs,train
+248,tt0079285,1980,Saturn 3,88,Horror,Adventure,Horror,Sci-Fi,"violence, murder",violence,NENxIu02bvg,train
+249,tt0079417,1979,Kramer vs. Kramer,105,Drama,Drama,,,dramatic,dramatic,jNLcfJ06y34,train
+250,tt0079489,1979,Love at First Bite,96,Comedy,Comedy,Horror,,romantic,romantic,qCBCwCZJAmI,train
+251,tt0079501,1979,Mad Max,88,Action,Action,Adventure,Sci-Fi,"suspenseful, murder, cult, violence, good versus evil, action, tragedy, revenge","suspenseful, violence, action",76jy3zJ9_PE,train
+252,tt0079522,1979,Manhattan,96,Comedy,Comedy,Drama,Romance,"comedy, humor, satire, romantic","comedy, humor, romantic",BNiIMhC8oII,train
+253,tt0079540,1979,Meatballs,94,Comedy,Comedy,,,prank,,bwwk9__2qIM,train
+254,tt0079574,1979,Moonraker,126,Action,Action,Adventure,Sci-Fi,"good versus evil, cult, suspenseful, murder",suspenseful,KFOOjYU16KE,train
+257,tt0079817,1979,Rocky II,119,Drama,Drama,Sport,,"violence, revenge, cult, romantic, flashback","violence, romantic",g-ZCtu5TUxk,train
+259,tt0080025,1979,Time After Time,112,Drama,Adventure,Drama,Sci-Fi,"murder, violence, cult, romantic, alternate history, sci-fi","violence, romantic",huziaaaEd1s,train
+260,tt0080031,1980,Tom Horn,98,Drama,Biography,Crime,Drama,"cult, neo noir, violence",violence,JEup61jsTq8,train
+261,tt0080319,1980,Nine to Five,109,Comedy,Comedy,,,"revenge, satire",,V2PAzj7_zNA,train
+262,tt0080339,1980,Airplane!,88,Comedy,Comedy,,,"comedy, cult, flashback, psychedelic, absurd, satire, humor, romantic, entertaining","comedy, humor, romantic",HMnVs287AJ4,train
+264,tt0080360,1980,Altered States,102,Horror,Horror,Sci-Fi,Thriller,"allegory, violence, cult, alternate reality, psychedelic, romantic, suspenseful","violence, romantic, suspenseful",67lYG7a4YOA,train
+265,tt0080365,1980,American Gigolo,117,Crime,Crime,Drama,Mystery,"intrigue, neo noir, murder, sadist",sadist,A26Vndy7WaM,train
+266,tt0080377,1980,Any Which Way You Can,116,Action,Action,Comedy,,violence,violence,ZHto8p6qIDg,train
+267,tt0080391,1978,Attack of the Killer Tomatoes!,83,Comedy,Adventure,Comedy,Horror,"cult, entertaining",,nWu6uOBSCVc,train
+268,tt0080421,1980,Battle Beyond the Stars,104,Action,Action,Adventure,Sci-Fi,cult,,2t7z_44nGio,train
+269,tt0080472,1980,Bronco Billy,116,Action,Action,Adventure,Comedy,"cult, suicidal, violence, comic","violence, comic",oqyBr-07Eh0,train
+270,tt0080474,1980,Brubaker,131,Crime,Crime,Drama,,"violence, murder",violence,#NAME?,train
+271,tt0080487,1980,Caddyshack,98,Comedy,Comedy,Sport,,"comedy, cult, violence, absurd, humor, entertaining","comedy, violence, humor",BZZJA1uc-VU,train
+272,tt0080661,1980,Dressed to Kill,104,Crime,Crime,Drama,Mystery,"pornographic, mystery, neo noir, murder, cult, violence, suspenseful, sadist","mystery, violence, suspenseful, sadist",BzNsMkq44Us,train
+273,tt0080684,1980,The Empire Strikes Back,124,Action,Action,Adventure,Fantasy,"dark, fantasy, mystery, cult, violence, good versus evil, action, tragedy","dark, fantasy, mystery, violence, action",xr3hPFJAHO4,train
+274,tt0080745,1980,Flash Gordon,111,Action,Action,Adventure,Sci-Fi,"good versus evil, cult, psychedelic",,SG_3tABvcp4,train
+275,tt0080761,1980,Friday the 13th,95,Horror,Horror,Mystery,Thriller,"suspenseful, grindhouse film, cruelty, gothic, murder, boring, cult, horror, violence, insanity, revenge, sadist, prank","suspenseful, boring, horror, violence, sadist",XsGEh04dtaQ,train
+277,tt0080923,1980,Inferno,106,Horror,Horror,,,"dark, gothic, murder, violence, cult, horror, atmospheric, suspenseful, sadist","dark, violence, horror, atmospheric, suspenseful, sadist",WvYcy961kD4,train
+278,tt0080979,1980,Kagemusha,180,Drama,Drama,History,War,bleak,,XzR87VBlaoo,train
+279,tt0081114,1980,Maniac,87,Crime,Crime,Drama,Horror,"realism, murder, violence, cult, horror, sadist","violence, horror, sadist",wIPSUXvEoX8,train
+280,tt0081207,1980,My Bodyguard,96,Drama,Comedy,Drama,Family,revenge,,22_0SIwqWWY,train
+281,tt0081283,1980,Ordinary People,124,Drama,Drama,,,"melodrama, romantic, depressing, flashback","romantic, depressing",BdjlLq1tqmU,train
+282,tt0081375,1980,Private Benjamin,109,Comedy,Comedy,War,,"revenge, satire, prank",,co-VZiZNHfU,train
+283,tt0081383,1980,Prom Night,92,Horror,Horror,Mystery,Thriller,"grindhouse film, cruelty, murder, cult, horror, violence, revenge, sadist","horror, violence, sadist",I-lCiYKozvc,train
+284,tt0081455,1981,Scanners,103,Horror,Horror,Sci-Fi,Thriller,"murder, paranormal, cult, violence, flashback, psychedelic, tragedy, suspenseful","violence, suspenseful",gI2RNyaPTmA,train
+286,tt0081505,1980,The Shining,146,Drama,Drama,Horror,,"dark, psychological, mystery, murder, paranormal, cult, horror, haunting, atmospheric, good versus evil, insanity, psychedelic, suspenseful","dark, mystery, horror, atmospheric, suspenseful",5Cb3ik6zP2I,train
+287,tt0081534,1980,Somewhere in Time,103,Drama,Drama,Fantasy,Romance,"cult, cute, alternate history, romantic","cute, romantic",9uicvPZSKIM,train
+288,tt0081573,1980,Superman II,127,Action,Action,Adventure,Sci-Fi,"good versus evil, revenge, action, violence","action, violence",jxD8RlGnP64,train
+290,tt0081696,1980,Urban Cowboy,132,Drama,Drama,Romance,Western,violence,violence,h3tEUBsJGPs,train
+291,tt0081748,1980,Where the Buffalo Roam,99,Comedy,Biography,Comedy,,flashback,,_ZT6fziaIIw,train
+293,tt0082009,1981,American Pop,96,Drama,Animation,Drama,History,cult,,VBwz9Pijr1E,train
+294,tt0082031,1981,Arthur,97,Comedy,Comedy,Romance,,"comedy, entertaining",comedy,D5gABBndg-w,train
+295,tt0082085,1981,Blow Out,108,Crime,Crime,Drama,Mystery,"cult, mystery, neo noir, murder",mystery,rDve1A5EAvk,train
+296,tt0082089,1981,Body Heat,113,Crime,Crime,Drama,Romance,"suspenseful, neo noir, murder, atmospheric","suspenseful, atmospheric",zPOjV9Gdk7U,train
+297,tt0082158,1981,Chariots of Fire,125,Drama,Biography,Drama,Sport,"inspiring, historical, flashback",inspiring,uPe27x0_W2M,train
+300,tt0082220,1981,Cutter's Way,109,Crime,Crime,Drama,Mystery,"revenge, neo noir, murder",,bBhprZR8IRQ,train
+301,tt0082288,1981,Dragonslayer,108,Action,Action,Adventure,Fantasy,"cult, fantasy, violence","fantasy, violence",1Pl18A-Me_0,train
+302,tt0082340,1981,Escape from New York,99,Action,Action,Adventure,Sci-Fi,"dark, neo noir, murder, cult, violence, humor, action, entertaining","dark, violence, humor, action",iS-AWBhGBjQ,train
+303,tt0082348,1981,Excalibur,140,Drama,Adventure,Drama,Fantasy,"psychedelic, cult, historical, violence, historical fiction",violence,fZc0ED-GULk,train
+304,tt0082398,1981,For Your Eyes Only,127,Action,Action,Adventure,Thriller,"revenge, murder, violence",violence,9Ykn9zPnQME,train
+305,tt0082418,1981,Friday the 13th Part 2,87,Horror,Horror,Mystery,Thriller,"grindhouse film, gothic, murder, cult, horror, violence, flashback, insanity, humor, suspenseful","horror, violence, humor, suspenseful",Qqmj12n7yYc,train
+307,tt0082432,1981,Gallipoli,110,Action,Adventure > Action,Drama,History,"anti war, murder, atmospheric",atmospheric,CT1JHKpSHXA,train
+308,tt0082449,1981,Ghost Story,110,Horror,Drama,Horror,Thriller,"horror, gothic, murder, flashback",horror,upGQpr5CwMA,train
+309,tt0082495,1981,Halloween II,92,Horror,Horror,,,"murder, cult, horror, violence, good versus evil, insanity, suspenseful","horror, violence, suspenseful",kEo5m2VEprI,train
+310,tt0082498,1981,Happy Birthday to Me,111,Horror,Horror,Mystery,Thriller,"revenge, cult, murder, violence, flashback",violence,F6p5TC3mnjc,train
+311,tt0082509,1981,Heavy Metal,86,Action,Adventure > Action,Animation,Fantasy,"pornographic, comedy, murder, cult, alternate reality, violence, good versus evil, psychedelic, satire","comedy, violence",Xf0queXoB7c,train
+312,tt0082517,1981,History of the World: Part I,92,Comedy,Comedy,History,Musical,"comedy, satire, alternate history",comedy,AILiI6f83L8,train
+314,tt0082727,1983,Meantime,102,Drama,Comedy,Drama,,realism,,Llcgzs1jNOM,train
+315,tt0082766,1981,Mommie Dearest,129,Drama,Biography,Drama,,"cult, melodrama",,HfFS0vrB8zY,train
+316,tt0082782,1981,My Bloody Valentine,90,Horror,Horror,Mystery,Thriller,"cult, murder, violence, flashback",violence,2IBlobS_pwA,train
+318,tt0082846,1981,On Golden Pond,109,Drama,Drama,,,romantic,romantic,XuBmgQkJhMU,train
+319,tt0082869,1981,Outland,109,Action,Action,Crime,Sci-Fi,"cult, atmospheric, violence","atmospheric, violence",YkYsBUaQzDY,train
+320,tt0082933,1981,Possession,124,Drama,Drama,Horror,,"avant garde, murder, allegory, cult, violence, insanity, psychedelic, philosophical, romantic","violence, romantic",CTB15PPtMyA,train
+321,tt0082970,1981,Ragtime,155,Drama,Drama,,,"tragedy, insanity, historical, murder",,dTt7RL0PLbA,train
+322,tt0082971,1981,Raiders of the Lost Ark,115,Action,Action,Adventure,,"comedy, mystery, murder, paranormal, cult, violence, atmospheric, good versus evil, humor, action, romantic, entertaining","comedy, mystery, violence, atmospheric, humor, action, romantic",#NAME?,train
+324,tt0083284,1981,Victory,116,Drama,Drama,Sport,War,intrigue,,xOxj26vcwMI,train
+325,tt0083511,1982,48 Hrs.,96,Comedy,Action,Comedy,Crime,"comedy, suspenseful, neo noir, murder, violence, cult, action, revenge","comedy, suspenseful, violence, action",3Kp_l_PLapo,train
+326,tt0083530,1982,Airplane II: The Sequel,85,Comedy,Comedy,Sci-Fi,,"entertaining, flashback",,#NAME?,train
+327,tt0083542,1982,Alone in the Dark,92,Horror,Horror,Thriller,,"comedy, suspenseful, grindhouse film, murder, cult, horror, violence, insanity, revenge, sadist","comedy, suspenseful, horror, violence, sadist",xrmgGP_37EU,train
+329,tt0083564,1982,Annie,126,Drama,Comedy,Drama,Family,"cult, cruelty, depressing",depressing,OiM8S9VLjvU,train
+330,tt0083624,1982,Basket Case,91,Horror,Comedy,Horror,,"grindhouse film, murder, cult, violence, horror, flashback, psychedelic","violence, horror",4Jgc-aolx5M,train
+331,tt0083658,1982,Blade Runner,117,Drama,Action,Drama,Sci-Fi,"dark, boring, neo noir, gothic, murder, fantasy, mystery, dramatic, cult, atmospheric, action, philosophical, romantic, blaxploitation, sci-fi","dark, boring, fantasy, mystery, dramatic, atmospheric, action, romantic",jIstljYkwjg,train
+332,tt0083722,1982,Cat People,118,Horror,Fantasy,Horror,Thriller,"fantasy, mystery, murder, dramatic, violence, insanity, romantic, queer","fantasy, mystery, dramatic, violence, romantic",oKKEumipuuY,train
+333,tt0083767,1982,Creepshow,120,Comedy,Comedy,Fantasy,Horror,"comedy, dark, cult, horror, violence, psychedelic, revenge","comedy, dark, horror, violence",1bO3gyT3Imc,train
+334,tt0083806,1982,Deathtrap,116,Comedy,Comedy,Crime,Mystery,"paranormal, psychedelic, horror, murder",horror,8AQ2GlTw7x4,train
+336,tt0083929,1982,Fast Times at Ridgemont High,90,Comedy,Comedy,Drama,,"cult, prank, romantic, melodrama",romantic,tif5ucv1eLU,train
+337,tt0083943,1982,Firefox,136,Action,Action,Adventure,Thriller,"suspenseful, murder, violence","suspenseful, violence",T5W4MiBuEnY,train
+338,tt0083944,1982,Rambo : First Blood,93,Action,Action,Adventure,Thriller,"suspenseful, cruelty, murder, anti war, cult, violence, dramatic, flashback, action, tragedy, revenge, sadist","suspenseful, violence, dramatic, action, sadist",uJG9-1yAqNc,train
+341,tt0084021,1982,Grease 2,115,Comedy,Comedy,Music,Musical,romantic,romantic,yfM4Gt4TIYw,train
+342,tt0084112,1982,"I, the Jury",111,Crime,Crime,Drama,Mystery,"suspenseful, neo noir, cruelty, murder, violence, revenge, sadist","suspenseful, violence, sadist",p5G-m6lLBLI,train
+343,tt0084370,1982,My Favorite Year,92,Comedy,Comedy,Drama,,action,action,JqQWY8T5nok,train
+346,tt0084503,1982,Pink Floyd: The Wall,95,Drama,Drama,Fantasy,Music,"dark, avant garde, depressing, psychological, dramatic, cult, violence, flashback, insanity, psychedelic, romantic, historical, prank","dark, depressing, dramatic, violence, romantic",gCeQVb3rdAI,train
+347,tt0084516,1982,Poltergeist,114,Horror,Horror,Thriller,,"mystery, paranormal, cult, horror, haunting, good versus evil, suspenseful","mystery, horror, suspenseful",RsrTg0TpZ2c,train
+348,tt0084522,1981,Porky's,94,Comedy,Comedy,,,"revenge, cult, prank",,7-RwhYCtwAk,train
+349,tt0084602,1982,Rocky III,99,Drama,Drama,Sport,,"comedy, bleak, violence, cult, flashback, romantic, revenge","comedy, violence, romantic",q4FhoXt8lFk,train
+350,tt0084707,1982,Sophie's Choice,150,Drama,Drama,Romance,,"tragedy, murder, sadist, flashback",sadist,STPJVf6wqCk,train
+351,tt0084777,1982,Tenebre,101,Horror,Horror,Mystery,Thriller,"gothic, murder, violence, horror, flashback, brainwashing, storytelling","violence, horror",k2oKGaAc3m4,train
+352,tt0084786,1982,They Call Me Bruce,87,Action,Action,Comedy,,"cult, flashback",,ymEnfvz2wbU,train
+353,tt0084805,1982,Tootsie,116,Comedy,Comedy,Drama,Romance,"cult, entertaining, romantic, queer",romantic,FlXE1Yq0AnQ,train
+354,tt0084854,1981,Venom,93,Horror,Horror,Thriller,,"cult, grindhouse film, murder",,SvFsvtz8j3c,train
+356,tt0085204,1983,BMX Bandits,88,Drama,Adventure,Crime,Drama,storytelling,,sz-kHa0TH1k,train
+357,tt0085255,1983,Blue Thunder,109,Action,Action,Crime,Drama,"cult, action, murder",action,gkPPWIPi29s,train
+358,tt0085271,1983,Brainstorm,106,Thriller,Sci-Fi,Thriller,,"cult, psychological, flashback",,NNiZP2G-nEM,train
+359,tt0085276,1983,Breathless,100,Action,Action,Drama,Romance,"cult, neo noir, murder",,e1N0WltYyhk,train
+361,tt0085382,1983,Cujo,93,Horror,Horror,Thriller,,"insanity, cult, murder",,45vzCiU01O4,train
+362,tt0085475,1983,Eddie and the Cruisers,95,Drama,Drama,Music,Mystery,cult,,1nXj8RkP7xQ,train
+365,tt0085636,1982,Halloween III: Season of the Witch,98,Horror,Horror,Mystery,Sci-Fi,"paranormal, cult, horror, gothic, murder",horror,oCNSJO24dvE,train
+366,tt0085672,1983,Hercules,98,Action,Adventure > Action,Fantasy,History,"cult, grindhouse film, violence",violence,KnBJ95zuuRE,train
+367,tt0085701,1983,The Hunger,97,Drama,Drama,Horror,,"neo noir, gothic, murder, paranormal, cult, atmospheric",atmospheric,l9IDoAPC6Ps,train
+368,tt0085724,1983,Independence Day,110,Drama,Drama,Romance,,"violence, romantic","violence, romantic",Wv7EoY9nrz8,train
+369,tt0085750,1983,Jaws 3-D,99,Horror,Adventure,Horror,Thriller,prank,,tdZ5bXgFJRY,train
+371,tt0085811,1983,Krull,116,Action,Action,Adventure,Fantasy,"cult, action, romantic, fantasy","action, romantic, fantasy",uXrRN01BFSY,train
+373,tt0085970,1983,Mr. Mom,91,Comedy,Comedy,Drama,,satire,,epZ2vFsk01Y,train
+374,tt0085980,1983,My Tutor,97,Comedy,Comedy,,,cult,,S1Q3GYSCe_k,train
+375,tt0085995,1983,National Lampoon's Vacation,98,Comedy,Adventure,Comedy,,comedy,comedy,SAXU--BJWYY,train
+376,tt0086034,1983,Octopussy,131,Action,Action,Adventure,Thriller,"revenge, cult, murder",,IwHbCvXMbS8,train
+378,tt0086143,1983,Private School,89,Comedy,Comedy,Romance,,"cult, stupid, prank",,bMCG-tdTXVU,train
+379,tt0086154,1983,Psycho II,113,Crime,Crime,Horror,Mystery,"insanity, revenge, cult, murder, flashback",,LS-L3cFOsno,train
+380,tt0086190,1983,Star Wars: Episode VI - Return of the Jedi,131,Action,Action,Adventure,Fantasy,"fantasy, dramatic, cult, violence, good versus evil, action, tragedy","fantasy, dramatic, violence, action",gNANB3sRIOI,train
+381,tt0086200,1983,Risky Business,99,Comedy,Comedy,Crime,Drama,"pornographic, cult, adult comedy, prank",,pzB4ni0VH1A,train
+382,tt0086250,1983,Scarface,170,Crime,Crime,Drama,,"cruelty, murder, dramatic, cult, violence, atmospheric, action, romantic, revenge, sadist","dramatic, violence, atmospheric, action, romantic, sadist",auvSmW5KcP0,train
+383,tt0086320,1983,Sleepaway Camp,84,Horror,Horror,,,"grindhouse film, murder, cult, horror, violence, flashback, insanity","horror, violence",yfZR1Lqjws4,train
+384,tt0086361,1983,Staying Alive,93,Drama,Drama,Music,Romance,cult,,EQ8ruUgGcs0,train
+385,tt0086383,1983,Sudden Impact,117,Crime,Action,Crime,Thriller,"neo noir, murder, cult, revenge, violence, flashback, humor, romantic","violence, humor, romantic",uD62afoe2_w,train
+386,tt0086425,1983,Terms of Endearment,132,Drama,Comedy,Drama,,"romantic, suspenseful, sentimental, melodrama","romantic, suspenseful, sentimental",FjLFMTIDkIM,train
+387,tt0086450,1983,To Be or Not to Be,107,Comedy,Comedy,Drama,War,satire,,aGwZGu_-MnU,train
+389,tt0086508,1983,Uncommon Valor,105,Horror,Action,Drama,Thriller>Horror,"comedy, murder, anti war, cult, violence, insanity, tragedy","comedy, violence",skZvk9TfqRE,train
+390,tt0086525,1983,Valley Girl,99,Comedy,Comedy,Romance,,"violence, cult",violence,DHtbrlPI07E,train
+391,tt0086541,1983,Videodrome,87,Horror,Horror,Sci-Fi,Thriller,"dark, suspenseful, gothic, murder, mystery, cult, alternate reality, violence, flashback, insanity, psychedelic, satire, philosophical, brainwashing, revenge, sci-fi","dark, suspenseful, mystery, violence",UFHey3utk0I,train
+392,tt0086567,1983,WarGames,114,Drama,Action,Drama,Sci-Fi,anti war,,LwsNPZ-p1kY,train
+393,tt0086859,1984,Against All Odds,128,Crime,Action,Adventure,Crime,"neo noir, murder",,7SvYYPHyuAI,train
+394,tt0086879,1984,Amadeus,160,Drama,Biography,Drama,Music,"murder, dramatic, flashback, humor, tragedy, historical, sentimental","dramatic, humor, sentimental",0F8_qdd8iho,train
+395,tt0086960,1984,Beverly Hills Cop,105,Crime,Action,Comedy,Crime,"comedy, murder, violence, cult, humor, action, revenge, entertaining","comedy, violence, humor, action",hSPvYlipvRU,train
+397,tt0086973,1984,Blame It on Rio,100,Comedy,Comedy,Romance,,"pornographic, romantic, adult comedy",romantic,q2yyRa6mbeI,train
+398,tt0087032,1984,Cannonball Run II,108,Action,Action,Comedy,,cult,,#NAME?,train
+399,tt0087050,1984,Children of the Corn,92,Horror,Horror,Thriller,,"murder, paranormal, cult, violence, good versus evil, romantic","violence, romantic",2bUQoX3R9-A,train
+400,tt0087065,1984,Cloak & Dagger,101,Action,Action,Adventure,Crime,"psychedelic, murder",,h0xMbWlVFRI,train
+403,tt0087277,1984,Footloose,107,Drama,Drama,Music,Romance,cult,,xxOuSqokKok,train
+404,tt0087332,1984,Ghostbusters,105,Comedy,Action,Comedy,Fantasy,"comedy, fantasy, mystery, paranormal, cult, haunting, humor, action","comedy, fantasy, mystery, humor, action",5wHr2ry0lTA,train
+405,tt0087363,1984,Gremlins,106,Horror,Comedy,Fantasy,Horror,"cult, horror, comedy","horror, comedy",XBEVwaJEgaA,train
+406,tt0087469,1984,Indiana Jones and the Temple of Doom,118,Action,Action,Adventure,,"mystery, gothic, cruelty, murder, cult, violence, action, brainwashing, romantic, sadist","mystery, violence, action, romantic, sadist",EdRx5HPYnlQ,train
+407,tt0087507,1984,Johnny Dangerously,90,Comedy,Comedy,Crime,,"revenge, flashback",,_WEPlSPwWu8,train
+408,tt0087747,1984,Moscow on the Hudson,115,Drama,Comedy,Drama,Romance,flashback,,6F2bZuUo2Z4,train
+410,tt0087843,1984,Once Upon a Time in America,229,Crime,Crime,Drama,,"cruelty, murder, cult, violence, atmospheric, flashback, good versus evil, sadist","violence, atmospheric, sadist",LcpCRyNo8T8,train
+411,tt0087884,1984,"Paris, Texas",145,Drama,Drama,,,"psychedelic, depressing, home movie",depressing,9e590FeeGCM,train
+412,tt0087909,1985,Phenomena,116,Crime,Crime,Horror,Mystery,"mystery, cruelty, suspenseful, murder, paranormal, cult, horror, violence, haunting, flashback, insanity, psychedelic, revenge, sadist","mystery, suspenseful, horror, violence, sadist",Tt93yZUgJNQ,train
+413,tt0087921,1984,Places in the Heart,111,Drama,Drama,,,"melodrama, flashback",,TIuyj1rkRsU,train
+415,tt0087985,1984,Red Dawn,114,Action,Action,Drama,Thriller,"cult, cruelty, murder, violence",violence,1_I4WgBfETc,train
+416,tt0087995,1984,Repo Man,92,Action,Action,Comedy,Crime,"dark, comedy, cult, violence, absurd, psychedelic, sci-fi","dark, comedy, violence",Y13LOuBgtOY,train
+417,tt0088000,1984,Revenge of the Nerds,90,Comedy,Comedy,,,"revenge, cult, prank",,Hw6zrInbtQE,train
+420,tt0088128,1984,Sixteen Candles,93,Comedy,Comedy,Romance,,"cult, humor, depressing, romantic","humor, depressing, romantic",HGLtBJupFFM,train
+421,tt0088161,1983,Splash,111,Romance,Comedy,Fantasy,Romance,"romantic, entertaining, flashback",romantic,uMIsXdoj2vU,train
+422,tt0088170,1984,Star Trek III: The Search for Spock,105,Action,Action,Adventure,Sci-Fi,"cult, revenge, murder",,6DAFHzWb1hQ,train
+423,tt0088172,1984,Starman,115,Romance,Romance,Sci-Fi,,"comedy, suspenseful, boring, cult, violence, clever, psychedelic, revenge, home movie","comedy, suspenseful, boring, violence",11Mk2iEVy_Y,train
+424,tt0088206,1984,Supergirl,124,Action,Action,Adventure,Fantasy,"good versus evil, cult, psychedelic, violence, romantic","violence, romantic",sxXbvzOdj-Q,train
+425,tt0088258,1984,This Is Spinal Tap,82,Comedy,Comedy,Music,,"comedy, boring, cult, absurd, humor, satire, psychedelic","comedy, boring, humor",YZbHagBNY98,train
+427,tt0088680,1985,After Hours,97,Comedy,Comedy,Crime,Drama,"comedy, dark, murder, cult, absurd, psychedelic, queer","comedy, dark",lLHM-wPecz0,train
+428,tt0088708,1985,American Ninja,95,Romance,Action,Adventure,Romance,"comedy, murder, cult, violence, flashback, action, revenge","comedy, violence, action",KaZKh1w-i6k,train
+429,tt0088763,1985,Back to the Future,116,Comedy,Adventure,Comedy,Sci-Fi,"entertaining, comedy, mystery, fantasy, whimsical, cult, alternate reality, clever, psychedelic, humor, romantic, alternate history, sci-fi","comedy, mystery, fantasy, humor, romantic",DzibuZ1lpC8,train
+431,tt0088846,1985,Brazil,132,Drama,Drama,Sci-Fi,,"comedy, dark, neo noir, murder, fantasy, thought-provoking, cult, alternate reality, atmospheric, insanity, psychedelic, absurd, satire, humor, sci-fi","comedy, dark, fantasy, atmospheric, humor",ZKPFC8DA9_8,train
+432,tt0088850,1985,Brewster's Millions,102,Comedy,Comedy,,,entertaining,,8wNqNO3jqkk,train
+433,tt0088889,1985,Cat's Eye,94,Horror,Comedy,Horror,Thriller,"cult, entertaining, sadist",sadist,zYTMcFOMSYk,train
+435,tt0088944,1985,Commando,90,Action,Action,Adventure,Thriller,"suspenseful, realism, murder, cult, violence, good versus evil, action, revenge","suspenseful, violence, action",0zJYikmC2VM,train
+438,tt0089015,1985,Desert Hearts,91,Romance,Drama,Romance,,queer,,Dn0vORrRIyI,train
+440,tt0089114,1985,Explorers,109,Action,Adventure > Action,Comedy,Family,cult,,VZp10uBMBDc,train
+441,tt0089118,1986,FX,109,Action,Action,Thriller,,"suspenseful, murder, violence","suspenseful, violence",rDQ1hzfb_B4,train
+442,tt0089122,1986,Fair Game,86,Action,Action,Thriller,,"revenge, violence",violence,SQuHBbUz6Cc,train
+443,tt0089155,1985,Fletch,98,Comedy,Comedy,Crime,Mystery,"cult, humor, comedy","humor, comedy",4sMMt2M3RiU,train
+444,tt0089175,1985,Fright Night,106,Horror,Fantasy,Horror,,"cult, violence",violence,yfuIcuezkUw,train
+445,tt0089360,1985,Jagged Edge,108,Drama,Drama,Mystery,Thriller,"neo noir, murder, intrigue, plot twist, romantic, suspenseful","romantic, suspenseful",ZnQa0AI10ic,train
+446,tt0089393,1985,Just One of the Guys,100,Comedy,Comedy,Romance,,"cult, comedy",comedy,zGibIaY7MSY,train
+447,tt0089421,1985,King Solomon's Mines,100,Action,Action,Adventure,Comedy,"good versus evil, action",action,LI4xsKHBx8c,train
+448,tt0089424,1985,Kiss of the Spider Woman,120,Drama,Drama,,,avant garde,,1FVd6uRrYhM,train
+449,tt0089457,1985,Ladyhawke,121,Drama,Adventure,Comedy,Drama,"fantasy, murder, dramatic, violence, tragedy, romantic","fantasy, dramatic, violence, romantic",b0BTs66JAgM,train
+450,tt0089469,1985,Legend,94,Romance,Adventure,Fantasy,Romance,"dark, fantasy, gothic, cult, good versus evil, action, brainwashing, romantic","dark, fantasy, action, romantic",kOxViR7eCuM,train
+451,tt0089489,1985,Lifeforce,101,Action,Action,Horror,Mystery,"cult, humor, psychedelic, violence, flashback","humor, violence",hTKO5taqoAE,train
+452,tt0089504,1985,Lost in America,91,Comedy,Comedy,,,"cult, satire",,vOqyTw7fsp8,train
+453,tt0089530,1985,Mad Max Beyond Thunderdome,107,Action,Action,Adventure,Sci-Fi,"violence, action","violence, action",FgkE8pTRzhk,train
+454,tt0089604,1985,Missing in Action 2: The Beginning,96,Action,Action,Drama,Thriller,"revenge, cult, murder, violence",violence,dtukSidHyV0,train
+455,tt0089643,1985,Murphy's Romance,107,Romance,Comedy,Drama,Romance,romantic,romantic,HoX-xki1yHQ,train
+456,tt0089755,1985,Out of Africa,161,Romance,Biography,Drama,Romance,"dramatic, romantic, storytelling","dramatic, romantic",CbVTzvvvtQ8,train
+457,tt0089767,1985,Pale Rider,115,Drama,Drama,Western,,"revenge, psychedelic, murder, violence",violence,ePlyWlhobDU,train
+458,tt0089791,1985,Pee-wee's Big Adventure,91,Action,Adventure > Action,Comedy,Family,"cult, mystery, psychedelic, entertaining, humor","mystery, humor",ZrzqBwuxHV8,train
+459,tt0089822,1985,Police Academy 2: Their First Assignment,87,Comedy,Comedy,,,"comedy, bleak, cult, violence, comic, revenge","comedy, violence, comic",0b3WZ2K473s,train
+461,tt0089841,1985,Prizzi's Honor,130,Comedy,Comedy,Crime,Drama,"romantic, comedy, murder","romantic, comedy",VEz13l-ULX0,train
+462,tt0089880,1985,Rambo: First Blood Part II,96,Action,Action,Adventure,Thriller,"murder, violence, cult, humor, action, revenge","violence, humor, action",H41uJq46ouE,train
+463,tt0089881,1985,Ran,162,Drama,Action,Drama,War,"murder, violence, atmospheric, insanity, tragedy, revenge, sentimental","violence, atmospheric, sentimental",AbbfDntoRRk,train
+464,tt0089886,1985,Real Genius,108,Comedy,Comedy,Romance,Sci-Fi,"revenge, cult, prank",,jczQlm5nBgg,train
+465,tt0089893,1985,Red Sonja,89,Action,Action,Adventure,Fantasy,"cult, action, alternate history, violence, fantasy","action, violence, fantasy",kUHsZEo4I24,train
+466,tt0089901,1985,Remo Williams: The Adventure Begins,121,Action,Action,Adventure,Comedy,"comedy, murder, cult, violence, humor, philosophical, revenge, sadist","comedy, violence, humor, sadist",DfzQTfmqT64,train
+468,tt0089913,1985,Revolution,126,Drama,Adventure,Drama,History,"cult, violence",violence,XOJpN9GnGw4,train
+469,tt0089927,1985,Rocky IV,91,Drama,Drama,Sport,,"comedy, cult, violence, flashback, action, tragedy, revenge","comedy, violence, action",i_rUNg_eNwE,train
+470,tt0089941,1985,Runaway Train,111,Action,Action,Adventure,Drama,"allegory, suspenseful, violence","suspenseful, violence",3IsWL-9kRis,train
+471,tt0090022,1985,Silverado,133,Action,Action,Crime,Drama,"cult, murder, violence",violence,2JptaIFco1I,train
+472,tt0090056,1985,Spies Like Us,102,Comedy,Adventure,Comedy,,humor,humor,vKM8T94GC2c,train
+473,tt0090060,1985,St. Elmo's Fire,110,Drama,Drama,Romance,,"cult, romantic",romantic,Y46Sw1BUHPs,train
+474,tt0090098,1985,Summer Rental,87,Comedy,Comedy,,,"comedy, adult comedy",comedy,KacBBqLb1DI,train
+475,tt0090142,1985,Teen Wolf,91,Comedy,Comedy,Fantasy,Romance,"cult, comedy, romantic","comedy, romantic",P6htehZchW0,train
+476,tt0090180,1985,To Live and Die in L.A.,116,Crime,Action,Crime,Drama,"revenge, neo noir, murder, violence",violence,zGBe8mltpkA,train
+477,tt0090184,1985,Tomboy,91,Comedy,Comedy,,,"cult, romantic",romantic,Ofi8IlQJz1w,train
+478,tt0090305,1985,Weird Science,94,Comedy,Comedy,Romance,Sci-Fi,"pornographic, cult, comedy",comedy,st7ZBnk5wy0,train
+479,tt0090329,1985,Witness,112,Drama,Drama,Romance,Thriller,"mystery, neo noir, murder, realism, dramatic, violence, romantic, suspenseful","mystery, dramatic, violence, romantic, suspenseful",LsnNJQBjeqo,train
+481,tt0090555,1986,Crocodile Dundee,97,Action,Action,Adventure,Comedy,"humor, entertaining",humor,JrRfx71_4CQ,train
+482,tt0090567,1986,52 Pick-Up,110,Crime,Crime,Drama,Thriller,"neo noir, murder",,ZX9Z-HM458U,train
+483,tt0090605,1986,Aliens,137,Horror,Action,Adventure,Sci-Fi -> Horror,"dark, cult, violence, horror, atmospheric, action, tragedy, suspenseful","dark, violence, horror, atmospheric, action, suspenseful",XKSQmYUaIyE,train
+484,tt0090660,1986,Armed and Dangerous,88,Crime,Action,Comedy,Crime,murder,,jfTI5jgm__s,train
+485,tt0090670,1986,At Close Range,111,Crime,Crime,Drama,,"violence, neo noir, murder",violence,W84Jji0FyDk,train
+486,tt0090683,1986,Babes in Toyland,140,Action,Adventure > Action,Family,Fantasy,"good versus evil, violence",violence,q6QxuPf1G1c,train
+489,tt0090756,1986,Blue Velvet,120,Crime,Crime,Drama,Mystery,"dark, avant garde, neo noir, murder, mystery, cult, violence, atmospheric, good versus evil, psychedelic, satire","dark, mystery, violence, atmospheric",bWr4JvAWF20,train
+490,tt0090837,1986,Chopping Mall,77,Horror,Comedy,Horror,Sci-Fi,"violence, murder",violence,RLMyInUPQ2g,train
+493,tt0090856,1986,Club Paradise,96,Comedy,Comedy,,,"comedy, humor","comedy, humor",ASKBjWox5Zk,train
+494,tt0090859,1986,Cobra,87,Action,Action,Crime,Thriller,"comedy, mystery, neo noir, murder, violence, cult, humor, action","comedy, mystery, violence, humor, action",8xaVjUN4EgQ,train
+496,tt0090888,1986,Crossroads,99,Drama,Drama,Music,Mystery,paranormal,,ntrCbhQw8yg,train
+497,tt0091042,1986,Ferris Bueller's Day Off,103,Comedy,Comedy,,,"cult, comedy, entertaining",comedy,tx9micq-Ge0,train
+498,tt0091053,1986,Fire with Fire,103,Drama,Drama,Romance,,violence,violence,7Jo97SQRh-I,train
+499,tt0091083,1986,From Beyond,85,Horror,Horror,Sci-Fi,,"insanity, cult, alternate reality, sadist",sadist,5kENuvJ2MIA,train
+501,tt0091187,1986,Heartbreak Ridge,130,Drama,Drama,War,,"cult, humor, comedy, violence, revenge","humor, comedy, violence",ZOo4ir1MtoI,train
+502,tt0091203,1986,Highlander,116,Action,Action,Adventure,Fantasy,"comedy, fantasy, gothic, murder, cult, violence, historical fiction, good versus evil, flashback, romantic, historical","comedy, fantasy, violence, romantic",omOZyLmNMJs,train
+503,tt0091217,1986,Hoosiers,114,Drama,Drama,Sport,,inspiring,inspiring,xB1M9iv3LOE,train
+504,tt0091225,1986,Howard the Duck,110,Action,Action,Adventure,Comedy,"cult, alternate reality, action, entertaining",action,ll6HwvEiVK4,train
+505,tt0091278,1986,Iron Eagle,117,Action,Action,Thriller,War,cult,,vSR6sxi1RTo,train
+506,tt0091288,1986,Jean de Florette,120,Drama,Comedy,Drama,,"tragedy, sentimental",sentimental,V44E_YanQsg,train
+508,tt0091369,1986,Labyrinth,101,Action,Adventure > Action,Family,Fantasy,"fantasy, cult, good versus evil, psychedelic, humor, sci-fi","fantasy, humor",O2yd4em1I6M,train
+509,tt0091374,1986,Lady Jane,136,Drama,Biography,Drama,History,intrigue,,D7X0Wm_Cc5k,train
+510,tt0091396,1986,Legal Eagles,116,Romance,Comedy,Crime,Romance,"comedy, murder, romantic","comedy, romantic",RVNFP3IS1lo,train
+511,tt0091419,1986,Little Shop of Horrors,94,Comedy,Comedy,Horror,Musical,"comedy, dark, murder, cult, romantic, sadist","comedy, dark, romantic, sadist",rUC1nnZy3E8,train
+512,tt0091474,1986,Manhunter,120,Crime,Crime,Mystery,Thriller,"dark, gothic, murder, neo noir, cult, violence, atmospheric, good versus evil, insanity, suspenseful, sadist, home movie","dark, violence, atmospheric, suspenseful, sadist",czVMfUd5dFI,train
+513,tt0091499,1986,Maximum Overdrive,98,Action,Action,Comedy,Horror,"cult, violence",violence,r1laGjZR4ek,train
+514,tt0091538,1986,Mona Lisa,104,Crime,Crime,Drama,Romance,"romantic, neo noir",romantic,F8CAdm_1gZA,train
+515,tt0091613,1986,Native Son,111,Drama,Drama,Romance,,"tragedy, depressing, murder",depressing,2g-JibcrZL4,train
+516,tt0091630,1986,Night of the Creeps,88,Horror,Comedy,Horror,Sci-Fi,"comedy, dark, murder, suicidal, horror, cult, violence, flashback, tragedy, revenge, prank","comedy, dark, horror, violence",vFcF99Yskqw,train
+517,tt0091653,1986,Nothing in Common,118,Drama,Comedy,Drama,Romance,melodrama,,vhvvJTVhoR8,train
+518,tt0091680,1986,One Crazy Summer,93,Comedy,Comedy,Romance,,psychedelic,,8p_iuHXppzs,train
+521,tt0091767,1986,Playing for Keeps,102,Comedy,Comedy,,,prank,,rPk5SmWDccU,train
+522,tt0091777,1986,Police Academy 3: Back in Training,83,Comedy,Comedy,,,"comedy, prank",comedy,0XwS8Iyd1Ac,train
+523,tt0091778,1986,Poltergeist II: The Other Side,91,Horror,Horror,,,"paranormal, cult, haunting, flashback",,EwsHWPCS0m4,train
+524,tt0091790,1986,Pretty in Pink,97,Romance,Comedy,Drama,Romance,"cult, comedy, romantic","comedy, romantic",fDFmRETqKTs,train
+525,tt0091799,1986,Psycho III,93,Horror,Horror,Mystery,Thriller,"insanity, violence, murder, flashback",violence,tjs89heVYEU,train
+526,tt0091828,1986,Raw Deal,106,Action,Action,Crime,Thriller,"violence, revenge, humor, murder, cult","violence, humor",Sr1PSyCxb7g,train
+527,tt0091829,1986,Rawhead Rex,89,Horror,Fantasy,Horror,Mystery,violence,violence,AI0nhiSKOCY,train
+528,tt0091860,1986,River's Edge,99,Crime,Crime,Drama,,"murder, cult, violence, flashback, melodrama, romantic","violence, romantic",wiKuO-dABjY,train
+529,tt0091877,1986,Ruthless People,93,Comedy,Comedy,Crime,,"revenge, comedy, satire, murder",comedy,WXQesfEZ1wo,train
+532,tt0091983,1986,Something Wild,114,Comedy,Comedy,Crime,Romance,"cult, comedy, murder, violence","comedy, violence",FaFAupcn4IQ,train
+533,tt0091991,1986,Soul Man,104,Comedy,Comedy,Romance,,satire,,z2zMrjBLwn8,train
+534,tt0092005,1986,Stand by Me,89,Drama,Adventure,Drama,,"dramatic, cult, flashback, insanity, suspenseful, storytelling","dramatic, suspenseful",FUVnfaA-kpI,train
+535,tt0092007,1986,Star Trek IV: The Voyage Home,119,Action,Action,Adventure,Comedy,"cult, comedy, boring","comedy, boring",YRjOBl8eNgg,train
+537,tt0092086,1986,Three Amigos!,104,Comedy,Comedy,Western,,"comedy, cult, psychedelic, humor, satire, comic","comedy, humor, comic",_d4QbEknbbM,train
+538,tt0092099,1986,Top Gun,110,Drama,Action,Drama,,"fantasy, cult, action, humor, inspiring, romantic","fantasy, action, humor, inspiring, romantic",iCrUqt9Uf3E,train
+539,tt0092494,1987,*batteries not included,106,Comedy,Comedy,Family,Fantasy,cute,cute,3HCCFKcEq4c,train
+541,tt0092546,1987,Amazon Women on the Moon,85,Comedy,Comedy,Sci-Fi,,"cult, comedy",comedy,TSuhi1o_9Cs,train
+542,tt0092563,1987,Angel Heart,113,Horror,Horror,Mystery,Thriller,"dark, mystery, neo noir, murder, paranormal, cult, violence, flashback","dark, mystery, violence",Vp0LXxkx7yA,train
+543,tt0092585,1987,Assassination,88,Drama,Action,Drama,Thriller,"violence, cult, humor, comedy, suspenseful","violence, humor, comedy, suspenseful",L9PuJl8GS0k,train
+545,tt0092608,1987,Back to the Beach,92,Comedy,Comedy,Musical,,"storytelling, flashback",,QXMmD1uEYGY,train
+547,tt0092618,1987,Barfly,100,Drama,Comedy,Drama,Romance,violence,violence,SrpTDaSjfaM,train
+549,tt0092675,1988,Bloodsport,92,Action,Action,Biography,Drama,"comedy, murder, cult, violence, flashback, humor, revenge","comedy, violence, humor",PI-3t8cBZ64,train
+550,tt0092699,1987,Broadcast News,133,Romance,Comedy,Drama,Romance,"romantic, satire",romantic,ajQuU1eXlPg,train
+551,tt0092718,1987,Can't Buy Me Love,94,Romance,Comedy,Drama,Romance,"romantic, cult",romantic,mxlKgoHo4yU,train
+553,tt0092796,1987,Creepshow 2,92,Horror,Fantasy,Horror,,"comedy, revenge, cult, murder, violence","comedy, violence",AFn68-bpAHo,train
+554,tt0092857,1987,Death Wish 4: The Crackdown,99,Action,Action,Crime,Drama,"cult, revenge, murder, violence",violence,EpBLG3pkpk4,train
+555,tt0092890,1987,Dirty Dancing,100,Romance,Drama,Music,Romance,"cult, cute, romantic","cute, romantic",eIcmQNy9FsM,train
+556,tt0092906,1986,Dolls,77,Horror,Horror,,,"good versus evil, cult, comedy, psychedelic, violence","comedy, violence",U7oKDtytJnE,train
+557,tt0092965,1987,Empire of the Sun,153,Drama,Drama,History,War,"psychedelic, depressing, murder",depressing,#NAME?,train
+558,tt0092991,1987,Evil Dead II,84,Horror,Comedy,Horror,,"comedy, avant garde, dark, murder, cult, horror, violence, haunting, atmospheric, good versus evil, psychedelic, humor, tragedy, suspenseful, sadist","comedy, dark, horror, violence, atmospheric, humor, suspenseful, sadist",6lM3NPeEG24,train
+560,tt0093011,1987,Fatal Beauty,104,Crime,Action,Comedy,Crime,"violence, murder",violence,HoSCE2kdTak,train
+561,tt0093036,1987,Flowers in the Attic,93,Horror,Drama,Mystery,Horror,"claustrophobic, sadist",sadist,kKt8HHbgfiY,train
+562,tt0093058,1987,Full Metal Jacket,116,Drama,Drama,War,,"dark, murder, dramatic, violence, anti war, action, brainwashing","dark, dramatic, violence, action",7115nOKRFD8,train
+564,tt0093105,1987,"Good Morning, Vietnam",121,Comedy,Biography,Comedy,Drama,"anti war, violence, comedy","violence, comedy",3mJoHqmtFcQ,train
+565,tt0093137,1987,Hamburger Hill,110,Action,Action,Drama,Thriller,"insanity, violence, anti war",violence,YOXWLSRs1Pc,train
+566,tt0093148,1987,Harry and the Hendersons,110,Comedy,Comedy,Family,Fantasy,comedy,comedy,5DOX1Poxro4,train
+567,tt0093164,1986,Heat,101,Action,Action,Crime,Drama,revenge,,aGKRrlaKk0s,train
+568,tt0093171,1988,Hell Comes to Frogtown,86,Comedy,Action,Comedy,Sci-Fi,"cult, humor",humor,XKwteCwCSMw,train
+569,tt0093177,1987,Hellraiser,94,Horror,Horror,Thriller,,"boring, gothic, murder, stupid, cult, violence, horror, flashback, good versus evil, sadist","boring, violence, horror, sadist",P7TWm3Akw-s,train
+570,tt0093200,1987,Hollywood Shuffle,78,Comedy,Comedy,,,satire,,FSiQ0PeMHJM,train
+571,tt0093220,1987,House II: The Second Story,88,Horror,Comedy,Fantasy,Horror,"absurd, alternate reality",,5ouvkZzJ-Nc,train
+572,tt0093223,1987,House of Games,102,Crime,Crime,Thriller,,"cult, neo noir, plot twist",,A0eFfE8oa98,train
+573,tt0093260,1987,Innerspace,120,Action,Action,Adventure,Comedy,murder,,tsI0W23h4tU,train
+575,tt0093407,1987,Less Than Zero,98,Crime,Crime,Drama,,"romantic, flashback",romantic,y3_iP1-shW8,train
+576,tt0093409,1987,Lethal Weapon,109,Crime,Action,Crime,Thriller,"comedy, neo noir, dramatic, cult, suicidal, violence, humor, action, entertaining","comedy, dramatic, violence, humor, action",yR_3ZVBmX_g,train
+577,tt0093476,1987,Maid to Order,93,Comedy,Comedy,Fantasy,,"alternate reality, satire",,OuPWK_antUI,train
+578,tt0093489,1987,Man on Fire,92,Action,Action,Drama,Thriller,murder,,p6sl07pG3es,train
+580,tt0093507,1987,Masters of the Universe,106,Action,Action,Adventure,Fantasy,"good versus evil, cult, psychedelic, murder, violence",violence,vHPj6bvsXwI,train
+581,tt0093509,1987,Matewan,135,Drama,Drama,History,,"historical, murder, atmospheric",atmospheric,VCIoiHf_Lt4,train
+582,tt0093565,1987,Moonstruck,102,Romance,Comedy,Drama,Romance,"romantic, humor, entertaining, boring","romantic, humor, boring",cMUjGb9Aw1U,train
+583,tt0093605,1987,Near Dark,94,Horror,Horror,,,"comedy, dark, gothic, murder, neo noir, cult, revenge, violence, atmospheric, good versus evil, insanity, romantic, claustrophobic, suspenseful, sadist","comedy, dark, violence, atmospheric, romantic, suspenseful, sadist",FiYSirEHS5E,train
+584,tt0093638,1987,No Man's Land,107,Crime,Crime,Drama,Thriller,"revenge, murder",,_c0dj11dn98,train
+585,tt0093640,1987,No Way Out,114,Action,Action,Crime,Drama,"mystery, neo noir, murder, violence, intrigue, plot twist, suspenseful","mystery, violence, suspenseful",#NAME?,train
+586,tt0093692,1987,Over the Top,93,Action,Action,Drama,Sport,cult,,y4STEEm-84Y,train
+588,tt0093748,1987,"Planes, Trains & Automobiles",93,Comedy,Comedy,Drama,,"comedy, adult comedy, flashback",comedy,VWGqGHMO294,train
+589,tt0093756,1987,Police Academy 4: Citizens on Patrol,88,Comedy,Comedy,Crime,,"entertaining, violence, prank, comedy, comic","violence, comedy, comic",adlo9hJpemE,train
+591,tt0093777,1987,Prince of Darkness,102,Horror,Horror,,,"comedy, murder, paranormal, cult, good versus evil, psychedelic, philosophical, claustrophobic, romantic, suspenseful","comedy, romantic, suspenseful",D5I3Lt8PwyQ,train
+592,tt0093818,1987,Radio Days,88,Comedy,Comedy,,,"boring, depressing, murder","boring, depressing",VCb6-Nz0Nkg,train
+593,tt0093822,1987,Raising Arizona,94,Comedy,Comedy,Crime,,"comedy, allegory, cult, good versus evil, psychedelic, humor, satire, plot twist","comedy, humor",2AIfVoGUs6c,train
+594,tt0093857,1987,Revenge of the Nerds II: Nerds in Paradise,88,Comedy,Comedy,,,cult,,h1XXfRwh66w,train
+595,tt0093870,1987,RoboCop,102,Action,Action,Crime,Sci-Fi,"comedy, murder, cult, violence, action, satire, romantic, revenge, sci-fi","comedy, violence, action, romantic",Qo_I3MpnJXI,train
+596,tt0093886,1987,Roxanne,107,Comedy,Comedy,Romance,,"romantic, psychedelic, entertaining",romantic,Y3bwHtPZfps,train
+599,tt0094008,1987,Someone to Watch Over Me,106,Crime,Crime,Drama,Romance,"neo noir, murder",,ErFGGccIfkc,train
+600,tt0094012,1987,Spaceballs,96,Comedy,Adventure,Comedy,Sci-Fi,"comedy, cult, good versus evil, humor, satire, entertaining","comedy, humor",uWVSVgU-I0s,train
+601,tt0094027,1988,Stand and Deliver,103,Drama,Biography,Drama,,inspiring,inspiring,PxkN_X4VUV4,train
+603,tt0094138,1987,Three O'Clock High,97,Comedy,Comedy,,,"cult, violence",violence,pjLqimENb1A,train
+604,tt0094142,1987,Throw Momma from the Train,88,Comedy,Comedy,Crime,Thriller,"comedy, murder",comedy,XHyRyDx75Ck,train
+605,tt0094155,1987,Tin Men,112,Comedy,Comedy,Drama,,revenge,,ajetxCpdwbY,train
+606,tt0094291,1987,Wall Street,126,Crime,Crime,Drama,,"revenge, cult, comedy, violence","comedy, violence",2KqKHuPa2J8,train
+607,tt0094336,1987,Withnail & I,107,Comedy,Comedy,Drama,,"comedy, boring, bleak, cult, psychedelic, autobiographical, romantic","comedy, boring, romantic",HilGbyjzpJc,train
+608,tt0094602,1988,Above the Law,99,Crime,Action,Crime,Drama,"comedy, neo noir, murder, cult, revenge, violence, good versus evil, suspenseful, sadist","comedy, violence, suspenseful, sadist",BsbYE-Q474I,train
+609,tt0094612,1988,Action Jackson,96,Crime,Action,Comedy,Crime,"murder, cult, violence, humor, action, blaxploitation","violence, humor, action",vTtdtESSpPM,train
+610,tt0094625,1988,Akira,124,Action,Action,Animation,Drama,"murder, stupid, paranormal, anti war, cult, violence, atmospheric, flashback, psychedelic, action, romantic, comic, revenge, alternate history, sci-fi","violence, atmospheric, action, romantic, comic",NCmVrn2gnRs,train
+611,tt0094673,1988,April Morning,100,Drama,Drama,History,War,violence,violence,n28bh8lHb_E,train
+613,tt0094737,1988,Big,104,Comedy,Comedy,Drama,Fantasy,"comedy, romantic","comedy, romantic",pO1SROeo_JM,train
+614,tt0094792,1988,Braddock: Missing in Action III,103,Action,Action,War,,"cult, murder",,up0RYauFILk,train
+615,tt0094799,1988,"Bright Lights, Big City",107,Drama,Drama,,,flashback,,zmeTsRQ6STE,train
+617,tt0094862,1988,Child's Play,87,Horror,Horror,Thriller,,"dark, mystery, gothic, murder, stupid, cult, horror, revenge","dark, mystery, horror",sjiyV8mtXiU,train
+618,tt0094894,1988,Colors,120,Crime,Action,Crime,Drama,"violence, murder",violence,TEauBVUJKhA,train
+619,tt0094898,1988,Coming to America,117,Comedy,Comedy,Romance,,"cult, fantasy, satire, comedy","fantasy, comedy",vPE4OCeKt2k,train
+621,tt0094947,1988,Dangerous Liaisons,119,Drama,Drama,Romance,,"tragedy, revenge, cruelty, romantic",romantic,dO3U2dBwuWA,train
+622,tt0094964,1988,Dead Ringers,116,Horror,Drama,Horror,Thriller,"neo noir, murder, cult, psychedelic, tragedy, sadist",sadist,#NAME?,train
+623,tt0095016,1988,Die Hard,132,Action,Action,Thriller,,"comedy, mystery, murder, cult, revenge, violence, humor, action, claustrophobic, suspenseful","comedy, mystery, violence, humor, action, suspenseful",7JrE099n90k,train
+624,tt0095174,1988,Frantic,120,Crime,Crime,Drama,Mystery,"suspenseful, neo noir, murder, violence","suspenseful, violence",lZ397XS9r1c,train
+625,tt0095179,1988,Friday the 13th Part VII: The New Blood,88,Horror,Horror,Thriller,,"comedy, murder, paranormal, violence, cult, flashback, sadist","comedy, violence, sadist",tFueYFS9rB4,train
+628,tt0095271,1988,Halloween 4: The Return of Michael Myers,88,Horror,Horror,Thriller,,"good versus evil, cult, horror, murder, violence","horror, violence",1SpDZ1eErzM,train
+629,tt0095294,1988,Hellbound: Hellraiser II,97,Horror,Horror,Thriller,,"gothic, murder, cult, violence, horror, good versus evil, insanity","violence, horror",fDTMZXO3oGU,train
+631,tt0095484,1988,Lady in White,113,Horror,Fantasy,Horror,Mystery,"murder, cult, horror, violence, psychedelic, revenge, sadist","horror, violence, sadist",YOfjoo151-M,train
+632,tt0095583,1988,Maniac Cop,85,Action,Action,Crime,Horror,"neo noir, grindhouse film, murder, cult, violence, revenge",violence,hAkb0cNsf0I,train
+633,tt0095631,1988,Midnight Run,126,Action,Action,Comedy,Crime,"comedy, neo noir, entertaining",comedy,IlTrGwowJdc,train
+635,tt0095652,1988,Monkey Shines,113,Drama,Drama,Horror,Sci-Fi,"revenge, murder",,rpG4R3Sjf4Y,train
+636,tt0095655,1988,Moonwalker,93,Action,Action,Crime,Fantasy,"neo noir, cult, psychedelic",,OUsZj9bEjtU,train
+637,tt0095687,1988,My Stepmother Is an Alien,105,Comedy,Comedy,Sci-Fi,,"comedy, adult comedy",comedy,qfX8yIgpgaI,train
+638,tt0095863,1988,Phantasm II,97,Horror,Action,Fantasy,Horror,"good versus evil, cult",,3LHizNyn8Tc,train
+639,tt0095882,1988,Police Academy 5: Assignment: Miami Beach,90,Comedy,Comedy,Crime,,"comedy, prank",comedy,FKEspwO4vHA,train
+640,tt0095889,1988,Poltergeist III,98,Horror,Horror,Thriller,,"paranormal, haunting, good versus evil, insanity, psychedelic, revenge",,dM9aTMgYvY8,train
+641,tt0095925,1988,Pumpkinhead,86,Horror,Fantasy,Horror,,"revenge, cult, murder, flashback",,BWwRR0dC0cc,train
+642,tt0095953,1988,Rain Man,133,Drama,Drama,,,"entertaining, dramatic, cute, psychological, comedy","dramatic, cute, comedy",KLO4Jna3py4,train
+643,tt0095956,1988,Rambo III,102,Action,Action,Adventure,Thriller,"revenge, cult, action, murder, violence","action, violence",IQt9bDOGTgg,train
+644,tt0095963,1988,Red Heat,104,Action,Action,Comedy,Crime,"revenge, cult, action, comedy, violence","action, comedy, violence",WmH3IMrnhjE,train
+645,tt0096061,1988,Scrooged,101,Drama,Comedy,Drama,Fantasy,"cult, comedy, satire, entertaining, romantic","comedy, romantic",6Z0LHBH7Gnc,train
+646,tt0096142,1988,Sorority Babes in the Slimeball Bowl-O-Rama,80,Horror,Comedy,Horror,,"cult, murder",,#NAME?,train
+647,tt0096244,1988,Tequila Sunrise,115,Crime,Crime,Drama,Romance,"romantic, neo noir",romantic,lHIC22yqrZE,train
+648,tt0096256,1988,They Live,94,Horror,Action,Horror,Sci-Fi,"murder, allegory, cult, violence, clever, good versus evil, psychedelic, humor, satire, action, brainwashing, suspenseful, sci-fi","violence, humor, action, suspenseful",iJC4R1uXDaE,train
+649,tt0096320,1988,Twins,107,Comedy,Comedy,Crime,,"comedy, entertaining",comedy,eRdcL2qKt6k,train
+650,tt0096378,1988,Vibes,99,Romance,Adventure,Comedy,Romance,"paranormal, cult, murder",,rKSpTTL1Bvc,train
+651,tt0096446,1988,Willow,126,Action,Action,Adventure,Drama,"fantasy, cult, good versus evil, psychedelic, romantic, revenge, sadist","fantasy, romantic, sadist",D-P03NGSP6Y,train
+652,tt0096463,1988,Working Girl,113,Drama,Comedy,Drama,Romance,"romantic, comedy","romantic, comedy",JPC-o-uOAjc,train
+654,tt0096487,1988,Young Guns,107,Action,Action,Western,,"comedy, murder, violence, cult, humor, revenge, historical, entertaining","comedy, violence, humor",k5E4DB0s-Bg,train
+656,tt0096787,1989,All Dogs Go to Heaven,84,Action,Adventure > Action,Animation,Comedy,"good versus evil, revenge, cult, murder",,UUQ-jmJcWN8,train
+657,tt0096866,1989,The BFG,91,Drama,Adventure,Animation,Drama,"good versus evil, psychedelic",,Xk9dF5-EalM,train
+658,tt0096874,1989,Back to the Future Part II,108,Comedy,Adventure,Comedy,Sci-Fi,"entertaining, comedy, mystery, fantasy, cult, alternate reality, humor, alternate history","comedy, mystery, fantasy, humor",rRrSp6Pqlz4,train
+659,tt0096895,1989,Batman,126,Action,Action,Adventure,,"comedy, dark, gothic, murder, suspenseful, realism, bleak, mystery, cult, violence, atmospheric, flashback, good versus evil, insanity, action, satire, tragedy, revenge","comedy, dark, suspenseful, mystery, violence, atmospheric, action",VRqa47-jv0M,train
+660,tt0096928,1989,Bill & Ted's Excellent Adventure,90,Comedy,Adventure,Comedy,Music,"comedy, cult, historical fiction, alternate history, historical, entertaining",comedy,sFy17auuK08,train
+661,tt0096933,1989,Black Rain,125,Crime,Action,Crime,Thriller,"boring, neo noir, murder, violence, cult, romantic, suspenseful","boring, violence, romantic, suspenseful",EAXIYtUspEc,train
+662,tt0096969,1989,Born on the Fourth of July,145,Drama,Biography,Drama,War,"dramatic, boring","dramatic, boring",VHv7Topd1aM,train
+664,tt0097044,1989,Chances Are,108,Romance,Comedy,Fantasy,Romance,"romantic, fantasy, flashback","romantic, fantasy",0N-8LPlQQsc,train
+665,tt0097116,1989,Cousins,113,Comedy,Comedy,Romance,,"revenge, romantic",romantic,XV2__mru5g0,train
+666,tt0097123,1989,Crimes and Misdemeanors,104,Drama,Comedy,Drama,,"realism, murder, flashback, satire, philosophical, romantic",romantic,JBzlQ7bUtKk,train
+667,tt0097138,1989,Cyborg,86,Action,Action,Sci-Fi,Thriller,"cult, action, murder, violence, flashback","action, violence",NsyjFihG5k8,train
+668,tt0097162,1989,Dead Calm,96,Horror,Horror,Thriller,,"mystery, murder, cult, violence, atmospheric, flashback, insanity, suspenseful, home movie","mystery, violence, atmospheric, suspenseful",SkqZd3h3f2U,train
+669,tt0097165,1989,Dead Poets Society,128,Drama,Comedy,Drama,,"dramatic, sentimental, inspiring, philosophical, melodrama","dramatic, sentimental, inspiring",wojC0a8RRV0,train
+670,tt0097216,1989,Do the Right Thing,120,Drama,Comedy,Drama,,"atmospheric, comedy, murder, violence","atmospheric, comedy, violence",muc7xqdHudI,train
+671,tt0097236,1989,Dream a Little Dream,114,Drama,Comedy,Drama,Romance,psychedelic,,CBzIXPVt1bY,train
+672,tt0097239,1989,Driving Miss Daisy,99,Drama,Comedy,Drama,Romance,"dramatic, boring","dramatic, boring",D77sWa_kTg4,train
+673,tt0097240,1989,Drugstore Cowboy,101,Crime,Crime,Drama,,"romantic, cult, philosophical, violence, flashback","romantic, violence",5_Rs8c08hM8,train
+675,tt0097351,1989,Field of Dreams,107,Drama,Drama,Family,Fantasy,"dramatic, fantasy, inspiring","dramatic, fantasy, inspiring",sHTsQ9qePrQ,train
+676,tt0097366,1989,Fletch Lives,95,Comedy,Comedy,Crime,Mystery,"humor, satire, murder",humor,UVd-OMNqGHA,train
+677,tt0097388,1989,Friday the 13th Part VIII: Jason Takes Manhattan,100,Horror,Adventure,Horror,Thriller,"murder, violence, horror, cult, revenge, entertaining","violence, horror",w5fc43O3ynE,train
+678,tt0097428,1989,Ghostbusters II,108,Comedy,Action,Comedy,Fantasy,"comedy, fantasy, paranormal, allegory, cult, humor, action","comedy, fantasy, humor, action",UnzH75FlwvU,train
+679,tt0097438,1989,Gleaming the Cube,105,Action,Action,Drama,Mystery,"tragedy, cult, revenge, murder",,yviIgIDxlwc,train
+680,tt0097441,1989,Glory,122,Drama,Biography,Drama,History,"inspiring, violence, historical","inspiring, violence",MOZLYxfYCTU,train
+681,tt0097481,1989,Harlem Nights,116,Comedy,Comedy,Crime,Drama,"violence, cult, humor, comedy, murder","violence, humor, comedy",En27DgNW0nY,train
+682,tt0097493,1988,Heathers,103,Comedy,Comedy,Crime,,"comedy, dark, murder, bleak, cult, psychedelic, satire","comedy, dark",7EsMeYlzwCU,train
+684,tt0097523,1989,"Honey, I Shrunk the Kids",93,Comedy,Adventure,Comedy,Family,"cult, comedy, psychedelic, entertaining, fantasy","comedy, fantasy",L9nCNJ3cZSk,train
+685,tt0097550,1990,I Bought a Vampire Motorcycle,101,Comedy,Comedy,Crime,Fantasy,violence,violence,fbvqz-nv7Zw,train
+688,tt0097637,1989,K-9,101,Action,Action,Comedy,Crime,"violence, comedy","violence, comedy",hCRZBon82Qw,train
+690,tt0097728,1989,Leningrad Cowboys Go America,79,Comedy,Comedy,Music,,"cult, humor, psychedelic, satire",humor,tcovyF8j50g,train
+691,tt0097731,1989,Let It Ride,90,Action,Action,Comedy,,boring,boring,NSV9X415QBw,train
+692,tt0097733,1989,Lethal Weapon 2,114,Crime,Action,Crime,Thriller,"comedy, neo noir, murder, cult, violence, humor, action, revenge, home movie","comedy, violence, humor, action",Z6X5tj2dPf0,train
+693,tt0097737,1989,Leviathan,98,Horror,Adventure,Horror,Mystery,"cult, suspenseful, violence, prank","suspenseful, violence",1b224w7psrQ,train
+694,tt0097742,1989,Licence to Kill,133,Action,Action,Adventure,Thriller,"mystery, murder, cult, revenge, violence, tragedy, suspenseful, sadist","mystery, violence, suspenseful, sadist",quHQAuO0lkg,train
+696,tt0097815,1989,Major League,107,Comedy,Comedy,Sport,,"comedy, humor, psychedelic, entertaining","comedy, humor",K_ILz9bC-VU,train
+697,tt0097858,1989,Meet the Feebles,97,Comedy,Comedy,Music,Musical,"comedy, dark, boring, cult, violence, flashback, insanity, psychedelic, satire, revenge","comedy, dark, boring, violence",afzrKqO8kDA,train
+698,tt0097889,1988,Miracle Mile,87,Action,Action,Drama,Romance,"cult, comedy, violence","comedy, violence",idDq38kAvq4,train
+699,tt0097940,1989,Mystery Train,110,Drama,Comedy,Crime,Drama,"murder, cult, atmospheric, psychedelic, humor, storytelling","atmospheric, humor",nb0yBDSqTfs,train
+700,tt0097967,1989,Next of Kin,108,Action,Action,Crime,Thriller,"revenge, murder, violence",violence,hHWC5Kvl3-c,train
+701,tt0098042,1989,Out Cold,92,Comedy,Comedy,Drama,Thriller,"comedy, murder",comedy,WVlpZP7Q2f0,train
+702,tt0098067,1989,Parenthood,124,Comedy,Comedy,Drama,,comedy,comedy,RgrbuRNc-AQ,train
+703,tt0098084,1989,Pet Sematary,103,Horror,Fantasy,Horror,Thriller,"psychological, gothic, murder, cult, violence, horror, flashback, suspenseful","violence, horror, suspenseful",l0sR6JjjQVk,train
+704,tt0098105,1989,Police Academy 6: City Under Siege,84,Comedy,Comedy,Crime,,"comedy, prank",comedy,f52e7LNT474,train
+705,tt0098206,1989,Road House,114,Action,Action,Thriller,,"suspenseful, murder, violence, cult, good versus evil, humor, romantic, revenge","suspenseful, violence, humor, romantic",9TEgO4wjINE,train
+706,tt0098258,1989,Say Anything...,100,Romance,Comedy,Drama,Romance,"cult, entertaining, romantic",romantic,QeUnT3f7eAA,train
+707,tt0098273,1989,Sea of Love,113,Crime,Crime,Drama,Mystery,"mystery, neo noir, murder, haunting",mystery,iePm8aBrRbY,train
+709,tt0098309,1989,She-Devil,99,Comedy,Comedy,,,"revenge, comedy",comedy,Nm4c5L9sWD8,train
+710,tt0098382,1989,Star Trek V: The Final Frontier,107,Action,Action,Adventure,Fantasy,"cult, flashback",,XE7_pOy_jZk,train
+711,tt0098384,1989,Steel Magnolias,117,Drama,Comedy,Drama,Romance,"cult, humor, cute, sentimental","humor, cute, sentimental",v2IGgZgWj0k,train
+712,tt0098439,1989,Tango & Cash,104,Action,Action,Comedy,Crime,"cult, comedy, action, violence","comedy, action, violence",qwzkxI6b9Go,train
+713,tt0098536,1989,Turner & Hooch,97,Comedy,Comedy,Crime,Drama,"comedy, murder",comedy,gHc_eaKhKlo,train
+714,tt0098546,1989,UHF,97,Comedy,Comedy,Sci-Fi,,"absurd, cult, psychedelic, satire",,Iih5a2Zq_JU,train
+715,tt0098554,1989,Uncle Buck,100,Comedy,Comedy,,,humor,humor,1_lOyGcMIEU,train
+716,tt0098575,1989,Valmont,137,Drama,Drama,Romance,,"tragedy, revenge, murder, romantic",romantic,JTFoI2azZ7Q,train
+717,tt0098625,1989,We're No Angels,106,Comedy,Comedy,Crime,,comedy,comedy,QsuzVplGuJk,train
+718,tt0098627,1989,Weekend at Bernie's,97,Comedy,Adventure,Comedy,Crime,"entertaining, cult, comedy, murder, stupid",comedy,YCTgcZ6ImsQ,train
+719,tt0098635,1989,When Harry Met Sally...,95,Romance,Comedy,Drama,Romance,"cute, entertaining, romantic","cute, romantic",VzZo08gmW18,train
+720,tt0098645,1989,Who's Harry Crumb?,94,Comedy,Comedy,Mystery,,comedy,comedy,UM6-VeQ_KPk,train
+721,tt0099005,1990,Air America,113,Comedy,Action,Comedy,War,comedy,comedy,Goj3RGld4mI,train
+722,tt0099012,1990,Alice,106,Romance,Comedy,Romance,,"romantic, flashback",romantic,oFOsWXU06c8,train
+724,tt0099052,1990,Arachnophobia,109,Horror,Comedy,Horror,Thriller,"horror, cult, suspenseful, action, comedy","horror, suspenseful, action, comedy",4aQ6vg3JB2U,train
+725,tt0099077,1990,Awakenings,121,Drama,Biography,Drama,,"inspiring, violence, dramatic, sentimental","inspiring, violence, dramatic, sentimental",JAz-prw_W2A,train
+726,tt0099088,1990,Back to the Future Part III,118,Comedy,Adventure,Comedy,Sci-Fi,"comedy, fantasy, alternate reality, humor, alternate history, entertaining, sci-fi","comedy, fantasy, humor",CPfaI_Nl_0s,train
+727,tt0099141,1990,Bird on a Wire,110,Action,Action,Comedy,,"violence, comedy, action","violence, comedy, action",MhaVziFh1ws,train
+728,tt0099160,1990,Blue Steel,102,Crime,Action,Crime,Drama,"violence, neo noir, murder",violence,aJTOmShc9E0,train
+729,tt0099180,1990,Bride of Re-Animator,96,Horror,Comedy,Horror,Sci-Fi,"comedy, cruelty, murder, cult, violence, good versus evil, insanity","comedy, violence",7BzXFXw4Ers,train
+730,tt0099253,1990,Child's Play 2,84,Horror,Horror,Thriller,,"comedy, gothic, violence","comedy, violence",5OXtapP8U7M,train
+731,tt0099329,1990,Cry-Baby,85,Comedy,Comedy,Musical,,"cult, satire",,yB1bLlguZVY,train
+732,tt0099348,1990,Dances with Wolves,181,Drama,Adventure,Drama,Western,"boring, murder, dramatic, violence, flashback, romantic, historical, storytelling, prank","boring, dramatic, violence, romantic",g2P5QuLP7GE,train
+733,tt0099365,1990,Darkman,96,Action,Action,Sci-Fi,Thriller,"comedy, avant garde, gothic, neo noir, bleak, cult, violence, horror, romantic, revenge, entertaining","comedy, violence, horror, romantic",L58rdhCfDIU,train
+735,tt0099422,1990,Dick Tracy,105,Crime,Action,Comedy,Crime,"neo noir, murder, violence, alternate reality, good versus evil, romantic","violence, romantic",dAHj3IsSuT0,train
+737,tt0099487,1990,Edward Scissorhands,105,Romance,Drama,Fantasy,Romance,"comedy, fantasy, gothic, dark, cult, magical realism, flashback, psychedelic, satire, romantic, revenge, entertaining, storytelling","comedy, fantasy, dark, romantic",M94yyfWy-KI,train
+738,tt0099512,1990,Ernest Goes to Jail,81,Crime,Comedy,Crime,Family,cult,,z4zNSx42aEo,train
+739,tt0099582,1990,Flatliners,115,Horror,Drama,Horror,Sci-Fi,"cruelty, alternate reality, haunting, flashback, psychedelic, revenge",,U8rTNnk8ROM,train
+741,tt0099685,1990,Goodfellas,145,Crime,Biography,Crime,Drama,"dark, comedy, neo noir, murder, realism, dramatic, violence, cult, claustrophobic, revenge","dark, comedy, dramatic, violence",qo5jJpHtI1Y,train
+743,tt0099726,1990,Hamlet,135,Drama,Drama,,,"gothic, murder, action, romantic, tragedy, revenge","action, romantic",tMvqWk7q8Ss,train
+745,tt0099776,1990,Europa Europa,112,Drama,Drama,History,War,"romantic, avant garde, murder",romantic,JqMBNCo7LPE,train
+746,tt0099785,1990,Home Alone,103,Comedy,Comedy,Family,,"cult, comedy, violence, humor","comedy, violence, humor",q80E8TfJVkg,train
+747,tt0099800,1990,House Party,100,Comedy,Comedy,Music,Romance,"cult, romantic",romantic,KTe4vOlbYlk,train
+748,tt0099864,1990,It,192,Drama,Drama,Horror,Mystery,"dark, comedy, gothic, murder, paranormal, horror, flashback, good versus evil, revenge, sadist","dark, comedy, horror, sadist",iMspVKv56vQ,train
+749,tt0099871,1990,Jacob's Ladder,113,Drama,Drama,Horror,Mystery,"psychological, gothic, violence, cult, horror, alternate reality, haunting, flashback, insanity, psychedelic, tragedy","violence, horror",rJztRnDxdM8,train
+750,tt0099878,1990,Jetsons: The Movie,82,Comedy,Animation,Comedy,Family,romantic,romantic,DxQE-7_CIJ4,train
+752,tt0099902,1990,Ju Dou,95,Drama,Drama,Romance,,"tragedy, murder, sadist",sadist,UntezgPh26o,train
+753,tt0099938,1990,Kindergarten Cop,111,Comedy,Action,Comedy,Crime,"comedy, fantasy, murder, cult, revenge, violence, cute, humor, romantic","comedy, fantasy, violence, cute, humor, romantic",PeH_fzD5W8w,train
+754,tt0100029,1990,Lionheart,108,Action,Action,Crime,Drama,"comedy, neo noir, murder, violence, cult, humor, melodrama, tragedy, revenge","comedy, violence, humor",QKqjwvWNnzg,train
+755,tt0100050,1990,Look Who's Talking Too,81,Romance,Comedy,Family,Romance,dramatic,dramatic,_S_ux6f1Z_U,train
+757,tt0100114,1990,Marked for Death,93,Action,Action,Crime,Drama,"comedy, neo noir, murder, cult, violence, humor, revenge","comedy, violence, humor",FmYqVNu1YZ0,train
+758,tt0100129,1990,Meet the Applegates,90,Horror,Comedy,Fantasy,Horror,cult,,FxnEX3PfYow,train
+759,tt0100133,1990,Memphis Belle,107,Action,Action,Drama,War,"comedy, historical, realism, flashback",comedy,I0yvvL7MIAA,train
+760,tt0100140,1990,Mermaids,110,Romance,Comedy,Drama,Romance,"dramatic, comedy, romantic","dramatic, comedy, romantic",oC2Om-kO4Pk,train
+761,tt0100143,1990,Miami Blues,97,Crime,Comedy,Crime,Drama,"tragedy, cult, neo noir, murder, violence",violence,yFHYdfEq43U,train
+762,tt0100150,1990,Miller's Crossing,115,Crime,Crime,Drama,Thriller,"comedy, boring, neo noir, murder, dramatic, cult, violence, atmospheric, psychedelic, romantic, suspenseful, entertaining","comedy, boring, dramatic, violence, atmospheric, romantic, suspenseful",hkJIcFMN_pc,train
+763,tt0100157,1990,Misery,107,Drama,Drama,Thriller,,"psychological, neo noir, murder, mystery, dramatic, violence, revenge, horror, insanity, claustrophobic, suspenseful, sadist","mystery, dramatic, violence, horror, suspenseful, sadist",DNRXS-lDgYg,train
+764,tt0100168,1990,Mo' Better Blues,129,Drama,Drama,Music,Romance,"violence, melodrama",violence,io8Jw9BRRFY,train
+765,tt0100201,1990,Mr. Destiny,116,Comedy,Comedy,Fantasy,Romance,"psychedelic, alternate history",,U8E2QhBqpr0,train
+766,tt0100211,1989,Music Box,124,Crime,Crime,Drama,Thriller,horror,horror,qcfMaMnr81E,train
+767,tt0100258,1990,Night of the Living Dead,92,Horror,Horror,,,"suspenseful, cult, horror, violence","suspenseful, horror, violence",r0r7L8tS2L0,train
+769,tt0100280,1990,Nuns on the Run,89,Comedy,Comedy,Crime,,murder,,rcJ0KL_F5r0,train
+770,tt0100318,1990,Pacific Heights,102,Horror,Thriller > Horror,,,"revenge, suspenseful, neo noir",suspenseful,PrVtU25MSqQ,train
+771,tt0100403,1990,Predator 2,108,Horror,Action,Horror,Sci-Fi,"comedy, neo noir, gothic, murder, cult, violence, good versus evil, action, suspenseful","comedy, violence, action, suspenseful",6yPdBVUP5Zw,train
+773,tt0100436,1990,Pump Up the Volume,102,Drama,Comedy,Drama,Music,"cult, philosophical",,MuhHPQxS2nQ,train
+774,tt0100475,1990,Repossessed,80,Comedy,Comedy,Fantasy,Horror,"whimsical, absurd, cult, satire",,XIejyo2gOOY,train
+775,tt0100502,1990,RoboCop 2,117,Action,Action,Crime,Sci-Fi,"gothic, murder, violence, good versus evil, satire, revenge, sci-fi",violence,Yxumzn82V9s,train
+776,tt0100507,1990,Rocky V,104,Drama,Drama,Sport,,"dramatic, revenge, cult, action, flashback","dramatic, action",mJ8RSU4n5lo,train
+779,tt0100680,1990,Stanley & Iris,104,Drama,Drama,Romance,,romantic,romantic,bPL0nvEuDWY,train
+781,tt0100813,1990,Treasure Island,132,Action,Action,Adventure,Crime,"violence, action","violence, action",WLZC2JQswu8,train
+782,tt0101393,1991,Backdraft,137,Drama,Action,Drama,Mystery,"cult, melodrama",,rTwgbwYTWdQ,train
+784,tt0101452,1991,Bill & Ted's Bogus Journey,93,Action,Adventure > Action,Comedy,Fantasy,"cult, alternate history, historical fiction",,aIeFo9zzdVg,train
+785,tt0101540,1991,Cape Fear,128,Crime,Crime,Thriller,,"suspenseful, gothic, murder, neo noir, mystery, violence, cult, horror, flashback, good versus evil, revenge","suspenseful, mystery, violence, horror",OBvKTJWcZdA,train
+786,tt0101635,1991,Curly Sue,101,Drama,Comedy,Drama,Family,"romantic, melodrama",romantic,FdZJcee3DZI,train
+787,tt0101669,1991,Dead Again,107,Crime,Crime,Drama,Mystery,"comedy, mystery, neo noir, murder, violence, flashback, humor, romantic, suspenseful","comedy, mystery, violence, humor, romantic, suspenseful",vVt2h_UMnr0,train
+789,tt0101700,1991,Delicatessen,99,Comedy,Comedy,Crime,,"comedy, dark, murder, cult, alternate reality, atmospheric, psychedelic, absurd, satire, claustrophobic, entertaining","comedy, dark, atmospheric",iYo_SkERMNI,train
+790,tt0101745,1991,Doc Hollywood,104,Romance,Comedy,Drama,Romance,"comedy, boring","comedy, boring",STvC6FXu1-M,train
+791,tt0101757,1991,Don't Tell Mom the Babysitter's Dead,102,Comedy,Comedy,,,cult,,ofKeN70uCrY,train
+793,tt0101775,1991,Drop Dead Fred,103,Comedy,Comedy,Drama,Fantasy,"cult, humor",humor,kgh27gCgiQw,train
+796,tt0101898,1991,Flirting,99,Romance,Drama,Romance,,"romantic, sadist","romantic, sadist",NDwVFQkOeLc,train
+797,tt0101917,1991,Freddy's Dead: The Final Nightmare,89,Horror,Fantasy,Horror,,"comedy, gothic, murder, cult, horror, violence, flashback, good versus evil, insanity, psychedelic, sadist","comedy, horror, violence, sadist",nGQP6PIXzyc,train
+798,tt0102005,1991,Harley Davidson and the Marlboro Man,98,Action,Action,Crime,Drama,"cult, comedy",comedy,g8K34N604Iw,train
+799,tt0102034,1991,Highlander II: The Quickening,91,Action,Action,Adventure,Fantasy,"comedy, murder, cult, violence, flashback, good versus evil, action, revenge, sci-fi","comedy, violence, action",SPohnbxnTV0,train
+800,tt0102057,1991,Hook,142,Action,Adventure > Action,Comedy,Family,"fantasy, whimsical, cult, violence, good versus evil, action, revenge, entertaining, storytelling","fantasy, violence, action",y98AuG2-yU4,train
+801,tt0102059,1991,Hot Shots!,84,Action,Action,Comedy,,"absurd, cult, comedy, humor","comedy, humor",ih78dz2XyLc,train
+803,tt0102103,1991,Impromptu,107,Comedy,Biography,Comedy,Music,violence,violence,b4rUHTrewuY,train
+804,tt0102138,1991,JFK,189,Drama,Drama,History,Thriller,"boring, historical, murder, flashback",boring,w16bYZ-4nmE,train
+806,tt0102175,1991,Jungle Fever,132,Drama,Drama,Romance,,murder,,kZ64smS4Lyk,train
+807,tt0102202,1991,Kickboxer 2: The Road Back,90,Action,Action,Sport,,"revenge, murder, violence",violence,_JC_pJJOnsA,train
+809,tt0102316,1991,Little Man Tate,99,Drama,Drama,,,depressing,depressing,hVb_7Eihd28,train
+810,tt0102469,1991,Mortal Thoughts,103,Horror,Horror,Thriller,,"neo noir, murder, flashback",,#NAME?,train
+811,tt0102492,1991,My Girl,102,Drama,Comedy,Drama,Family,"dramatic, sentimental","dramatic, sentimental",GreDP22A-0k,train
+812,tt0102511,1991,Naked Lunch,115,Drama,Drama,,,"comedy, murder, insanity, psychedelic, humor, sci-fi","comedy, humor",7tC5ryr-qRs,train
+813,tt0102536,1991,Night on Earth,129,Comedy,Comedy,Drama,,"comedy, humor, psychedelic, storytelling","comedy, humor",F1m6GlPyOSU,train
+814,tt0102558,1991,Nothing But Trouble,94,Comedy,Comedy,,,"comedy, cult",comedy,5uOBF6r040U,train
+815,tt0102592,1992,One False Move,105,Drama,Crime,Drama,Thriller,"neo noir, realism, murder, violence, atmospheric, suspenseful","violence, atmospheric, suspenseful",bsRioSC-fgg,train
+816,tt0102598,1991,Only the Lonely,104,Romance,Comedy,Romance,,romantic,romantic,o-ti18c-FE8,train
+817,tt0102685,1991,Point Break,122,Action,Action,Crime,Thriller,"entertaining, cult, neo noir, murder, violence",violence,HKHii5yfwj8,train
+818,tt0102728,1991,Puppet Master III: Toulon's Revenge,82,Horror,Fantasy,Horror,Sci-Fi,"revenge, gothic, violence",violence,Sq4MjUNvguI,train
+819,tt0102744,1990,Quigley Down Under,119,Action,Action,Adventure,Drama,"good versus evil, revenge, murder, violence",violence,xebFl_liB1E,train
+820,tt0102782,1991,Return to the Blue Lagoon,102,Romance,Adventure,Drama,Romance,boring,boring,uu4SregmAqA,train
+822,tt0102798,1991,Robin Hood: Prince of Thieves,143,Action,Action,Adventure,Drama,"comedy, murder, cult, atmospheric, historical fiction, good versus evil, action, romantic, historical, entertaining","comedy, atmospheric, action, romantic",fERE7bGPwmo,train
+823,tt0102802,1991,Rock-A-Doodle,74,Action,Adventure > Action,Animation,Comedy,"good versus evil, boring",boring,w7axM3VHFqs,train
+824,tt0102945,1991,Sleeping with the Enemy,99,Drama,Drama,Thriller,,"revenge, neo noir",,FcQqsrf2gik,train
+825,tt0102951,1991,Soapdish,97,Comedy,Comedy,Romance,,"revenge, comedy, satire, melodrama",comedy,0PLnF8EZu7s,train
+826,tt0102975,1991,Star Trek VI: The Undiscovered Country,110,Action,Action,Adventure,Sci-Fi,"cult, mystery, murder",mystery,1wmQeXuDGGU,train
+827,tt0103003,1991,Suburban Commando,90,Action,Action,Comedy,Sci-Fi,"good versus evil, cult, psychedelic, comic",comic,CwwXrgvzIc4,train
+828,tt0103060,1991,Teenage Mutant Ninja Turtles II: The Secret of the Ooze,88,Action,Action,Adventure,Comedy,"good versus evil, cult, humor, psychedelic, violence","humor, violence",al9jfY7zOBY,train
+829,tt0103064,1991,Terminator 2: Judgment Day,137,Action,Action,Sci-Fi,,"mystery, gothic, murder, cult, alternate reality, violence, flashback, good versus evil, humor, action, romantic, suspenseful, alternate history, sci-fi","mystery, violence, humor, action, romantic, suspenseful",ZKEO4073bhE,train
+830,tt0103074,1991,Thelma & Louise,130,Action,Adventure > Action,Crime,Drama,"murder, dramatic, cult, violence, action, tragedy","dramatic, violence, action",PRr0HY9MPZ0,train
+831,tt0103112,1991,Toy Soldiers,111,Action,Action,Drama,Thriller,violence,violence,x1b7Q0gmR-Y,train
+832,tt0103241,1991,What About Bob?,99,Comedy,Comedy,,,"psychedelic, psychological, humor",humor,ptmP1lziJw4,train
+833,tt0103594,1992,1492: Conquest of Paradise,154,Drama,Adventure,Biography,Drama,"dramatic, boring, historical, murder","dramatic, boring",bmnLrzG2zKw,train
+834,tt0103596,1992,3 Ninjas,84,Action,Action,Comedy,Family,dark,dark,jF_9prQFtik,train
+835,tt0103639,1992,Aladdin,90,Action,Adventure > Action,Animation,Comedy,"good versus evil, comedy, action, entertaining, fantasy","comedy, action, fantasy",w3jZYizLNNo,train
+836,tt0103644,1992,Alien??114,Horror,Action,Horror,Sci-Fi,"dark, boring, neo noir, gothic, murder, allegory, cult, violence, suspenseful",0wJsw6KmRyU,,,train
+837,tt0103671,1992,American Me,125,Crime,Biography,Crime,Drama,"revenge, murder, violence, flashback",violence,uS-kGp0Fjho,train
+838,tt0103772,1992,Basic Instinct,127,Drama,Drama,Mystery,Thriller,"suspenseful, neo noir, murder, mystery, violence, romantic, sadist","suspenseful, mystery, violence, romantic, sadist",b_20N7t-umo,train
+839,tt0103776,1992,Batman Returns,126,Action,Action,Crime,Fantasy,"dark, fantasy, gothic, mystery, cult, violence, good versus evil, insanity, action, satire, comic, tragedy, revenge","dark, fantasy, mystery, violence, action, comic",Too3qgNaYBE,train
+840,tt0103786,1992,Beethoven,87,Comedy,Comedy,Drama,Family,comedy,comedy,ki8wHMR-yOI,train
+841,tt0103843,1993,Blown Away,92,Action,Action,Drama,Romance,"violence, murder, romantic","violence, romantic",eaxAgtvngD4,train
+842,tt0103850,1992,Bob Roberts,102,Drama,Comedy,Drama,,"cult, satire",,yRpWaJRyVQo,train
+843,tt0103874,1992,Dracula,128,Horror,Drama,Fantasy,Horror,"avant garde, gothic, cult, violence, horror, good versus evil, insanity, romantic, revenge","violence, horror, romantic",fgFPIh5mvNc,train
+844,tt0103893,1992,Buffy the Vampire Slayer,86,Comedy,Action,Comedy,Fantasy,"comedy, revenge, cult, satire, murder",comedy,pnZkV_aR_9w,train
+845,tt0103924,1992,Captain Ron,100,Comedy,Adventure,Comedy,,"cult, comedy",comedy,cOPl21EVhaU,train
+846,tt0103939,1992,Chaplin,143,Drama,Biography,Comedy,Drama,"dramatic, cult, flashback",dramatic,xBh_5F3aXTI,train
+847,tt0103956,1991,Child's Play 3,90,Horror,Horror,Thriller,,"violence, comedy, gothic, dark, storytelling","violence, comedy, dark",9X4Uq9lf1c0,train
+848,tt0104009,1992,Cool World,102,Drama,Animation,Drama,Fantasy,"cult, alternate reality, psychedelic",,lb8Gt4NRLM0,train
+849,tt0104070,1992,Death Becomes Her,104,Horror,Comedy,Fantasy,Horror,"comedy, dark, murder, cult, satire, revenge","comedy, dark",UoO331S6C2Y,train
+851,tt0104231,1992,Far and Away,140,Romance,Adventure,Drama,Romance,romantic,romantic,RbMYkzVsWAE,train
+852,tt0104265,1992,Final Analysis,124,Drama,Drama,Thriller,,murder,,xWiUQhvxjG4,train
+854,tt0104346,1992,Gladiator,101,Action,Action,Drama,Sport,"good versus evil, inspiring",inspiring,lrGRthjoMSs,val
+855,tt0104348,1992,Glengarry Glen Ross,100,Crime,Crime,Drama,Mystery,"cult, boring, realism",boring,_VrekKSuFto,val
+856,tt0104409,1992,Hellraiser III: Hell on Earth,97,Horror,Horror,,,"good versus evil, cult, horror, violence, flashback","horror, violence",gmPRdknRfUU,val
+857,tt0104427,1992,Hoffa,140,Drama,Biography,Crime,Drama,"neo noir, depressing, murder, flashback",depressing,tTlAAEaxckQ,val
+859,tt0104438,1992,Honeymoon in Vegas,96,Comedy,Comedy,Romance,Thriller,comedy,comedy,MbrZBvSUMkM,val
+860,tt0104454,1992,Howards End,142,Drama,Drama,Romance,,"romantic, boring, historical, melodrama","romantic, boring",BbKBrY7uBhE,val
+861,tt0104466,1992,Husbands and Wives,108,Drama,Comedy,Drama,Romance,"satire, flashback",,gVAhxOj5oUo,val
+862,tt0104507,1992,Indochine,160,Drama,Drama,Romance,War,"romantic, historical, murder, atmospheric, sentimental","romantic, atmospheric, sentimental",8xJQPuY3G7k,val
+863,tt0104550,1992,Jersey Girl,95,Romance,Comedy,Drama,Romance,romantic,romantic,tKhyDMhb48o,val
+864,tt0104573,1992,Juice,95,Action,Action,Crime,Drama,"comedy, neo noir, murder, cult, violence, flashback, revenge, blaxploitation","comedy, violence",ECi021J_j18,val
+865,tt0104647,1992,Kuffs,102,Action,Action,Comedy,Crime,"revenge, murder, romantic",romantic,sr4TF6zT9xM,val
+866,tt0104695,1992,Leap of Faith,108,Drama,Comedy,Drama,Romance,"romantic, satire",romantic,rP6VDQ2J3QM,val
+867,tt0104714,1992,Lethal Weapon 3,118,Crime,Action,Crime,Thriller,"comedy, neo noir, murder, cult, violence, action, revenge, entertaining","comedy, violence, action",vqQ166sE5OU,val
+868,tt0104740,1989,Little Nemo,85,Action,Adventure > Action,Animation,Comedy,cult,,BGcaRgh1Dt0,val
+869,tt0104756,1992,Lorenzo's Oil,129,Drama,Biography,Drama,,"inspiring, romantic, storytelling","inspiring, romantic",CxkylRxJxh8,val
+870,tt0104779,1992,Bitter Moon,139,Romance,Drama,Romance,Thriller,"comedy, cruelty, murder, sadist, flashback, revenge, storytelling","comedy, sadist",R3EMSHqkbfI,val
+871,tt0104797,1992,Malcolm X,202,Drama,Biography,Drama,History,"murder, cult, violence, flashback, historical, blaxploitation",violence,LbKs766Tr88,val
+873,tt0104897,1992,Mo' Money,89,Action,Action,Comedy,Crime,murder,,Y2_aNbKtWJg,val
+874,tt0104952,1992,My Cousin Vinny,120,Comedy,Comedy,Crime,,"entertaining, cult, comedy, murder, mystery","comedy, mystery",SL4HdaZXuOw,val
+875,tt0104990,1992,Newsies,121,Drama,Drama,Family,History,"cult, melodrama",,lqPuGMgT6yw,val
+876,tt0105046,1992,Of Mice and Men,115,Drama,Drama,Western,,"tragedy, dramatic, depressing","dramatic, depressing",3_8pU7mGd9g,val
+877,tt0105104,1992,Passenger 57,84,Action,Action,Crime,Thriller,"murder, cult, violence, flashback, good versus evil, humor, action, suspenseful","violence, humor, action, suspenseful",kOphble2gZg,val
+878,tt0105112,1992,Patriot Games,117,Action,Action,Thriller,,"suspenseful, mystery, murder, violence, cult, good versus evil, revenge","suspenseful, mystery, violence",NQ_d4CTqxmk,val
+879,tt0105130,1992,Peter's Friends,101,Comedy,Comedy,Drama,Romance,romantic,romantic,GhfHLuhYPok,val
+880,tt0105156,1992,Poison Ivy,93,Drama,Drama,Thriller,,"murder, melodrama",,fYoQXPHGlWI,val
+881,tt0105211,1992,Radio Flyer,114,Drama,Drama,,,flashback,,6CBkyMJjHgw,val
+882,tt0105217,1992,Raising Cain,92,Crime,Crime,Drama,Horror,"mystery, psychological, murder, dramatic, cult, flashback","mystery, dramatic",_T8F1ryX8-Y,val
+883,tt0105226,1993,Red Rock West,98,Crime,Crime,Drama,Thriller,"comedy, neo noir, murder",comedy,rqlGO7rYhwY,val
+884,tt0105236,1992,Reservoir Dogs,99,Crime,Crime,Drama,Thriller,"comedy, dark, neo noir, murder, boring, suspenseful, mystery, dramatic, violence, cult, sadist, flashback, psychedelic, humor, claustrophobic, tragedy, plot twist, storytelling","comedy, dark, boring, suspenseful, mystery, dramatic, violence, sadist, humor",vayksn4Y93A,val
+886,tt0105323,1992,Scent of a Woman,156,Drama,Drama,,,"dramatic, atmospheric, prank","dramatic, atmospheric",3GUvsJc3vvE,val
+887,tt0105391,1992,Shining Through,132,Drama,Drama,Romance,Thriller,flashback,,WfE2VYheN54,val
+888,tt0105402,1992,Sidekicks,101,Action,Action,Adventure,Comedy,"revenge, violence",violence,iYfPCnV8U3A,val
+889,tt0105414,1992,Single White Female,107,Drama,Drama,Thriller,,"mystery, insanity, violence, suspenseful, murder","mystery, violence, suspenseful",LclFf6HrDkI,val
+891,tt0105428,1992,Sleepwalkers,91,Horror,Fantasy,Horror,,"horror, cult, dark, murder, violence","horror, dark, violence",7MDUbjbTZos,val
+892,tt0105435,1992,Sneakers,126,Crime,Comedy,Crime,Drama,"comedy, suspenseful, murder, stupid, cult, intrigue, flashback, psychedelic, revenge, entertaining","comedy, suspenseful",rbJpx_6fYgE,val
+893,tt0105488,1992,Strictly Ballroom,94,Comedy,Comedy,Drama,Music,"psychedelic, satire, romantic",romantic,7dtfxf3FFx4,val
+894,tt0105629,1992,Toys,118,Drama,Adventure,Comedy,Drama,"good versus evil, anti war, cult, psychedelic, satire",,cP-TU0P2Lw4,val
+897,tt0105690,1992,Under Siege,103,Action,Action,Thriller > Horror,,"comedy, violence, cult, humor, action, suspenseful","comedy, violence, humor, action, suspenseful",fRMrhJX8f6Y,val
+898,tt0105695,1992,Unforgiven,130,Drama,Drama,Western,,"suspenseful, realism, murder, bleak, revenge, sadist","suspenseful, sadist",ftTX4FoBWlE,val
+899,tt0105698,1992,Universal Soldier,102,Action,Action,Sci-Fi,,"murder, cult, violence, flashback, good versus evil, insanity, action","violence, action",r7TFssY9ZF0,val
+900,tt0105699,1992,Unlawful Entry,111,Crime,Crime,Drama,Thriller,"insanity, suspenseful, neo noir, murder",suspenseful,jNcy0GZr_Zw,val
+901,tt0105793,1992,Wayne's World,94,Comedy,Comedy,Music,,"cult, comedy, humor","comedy, humor",JTz_RfgX4JA,val
+902,tt0105812,1992,White Men Can't Jump,115,Comedy,Comedy,Sport,,"cult, comedy, entertaining, humor","comedy, humor",g4aNy-3n1GU,val
+903,tt0105813,1992,White Sands,101,Action,Action,Crime,Drama,"comedy, neo noir, murder, violence, intrigue, romantic, suspenseful","comedy, violence, romantic, suspenseful",uDANCwhxAYw,val
+904,tt0106220,1993,Addams Family Values,94,Comedy,Comedy,Fantasy,,"comedy, gothic, stupid, cult, horror, psychedelic, romantic","comedy, horror, romantic",IHgfQ-0lYbg,val
+905,tt0106266,1993,Amos & Andrew,96,Comedy,Comedy,Crime,,satire,,vemvP58rEWs,val
+906,tt0106273,1993,And the Band Played On,141,Drama,Drama,History,,"tragedy, historical, queer",,d6PGB6Nj2-s,val
+907,tt0106308,1992,Army of Darkness,81,Horror,Comedy,Horror,,"comedy, avant garde, dark, boring, fantasy, cult, violence, horror, good versus evil, absurd, psychedelic, humor, action, sci-fi","comedy, dark, boring, fantasy, violence, horror, humor, action",Ls6_fdzRpKw,val
+908,tt0106364,1993,Batman: Mask of the Phantasm,76,Action,Action,Adventure,Animation,"comedy, gothic, murder, neo noir, cult, violence, flashback, good versus evil, insanity, psychedelic, romantic, tragedy, revenge, sadist","comedy, violence, romantic, sadist",86RkglA5nMI,val
+909,tt0106375,1993,Beethoven's 2nd,89,Comedy,Comedy,Family,Romance,"romantic, comedy","romantic, comedy",gU85o4t0xwM,val
+912,tt0106519,1993,Carlito's Way,144,Crime,Crime,Drama,Thriller,"neo noir, murder, violence, revenge, flashback, romantic","violence, romantic",8k4kV3QQwz4,val
+913,tt0106521,1993,Carnosaur,83,Horror,Horror,Sci-Fi,,"cult, violence",violence,M0wP4rP6R70,val
+914,tt0106582,1993,Cliffhanger,113,Action,Action,Adventure,Thriller,"mystery, suspenseful, cult, violence, good versus evil, action, tragedy, revenge","mystery, suspenseful, violence, action",URdSD8UWxLk,val
+915,tt0106598,1993,Coneheads,88,Comedy,Comedy,Sci-Fi,,"cult, stupid",,3f1PZT8GooA,val
+916,tt0106611,1993,Cool Runnings,98,Comedy,Adventure,Comedy,Family,"inspiring, cult, comedy, entertaining, feel-good","inspiring, comedy, feel-good",wLlmymHRNZg,val
+917,tt0106673,1993,Dave,110,Comedy,Comedy,Romance,,"romantic, fantasy, satire","romantic, fantasy",PTTe-rxTyh0,val
+918,tt0106677,1993,Dazed and Confused,103,Comedy,Comedy,,,"pornographic, cult, revenge, psychedelic",,CqLRPGfYlBI,val
+919,tt0106697,1993,Demolition Man,115,Action,Action,Sci-Fi,Thriller,"entertaining, comedy, murder, violence, good versus evil, humor, satire, action, revenge, alternate history, sadist, sci-fi","comedy, violence, humor, action, sadist",tVAxlqHaMNo,val
+920,tt0106701,1993,Dennis the Menace,94,Comedy,Comedy,Family,,prank,,s68Zr0JHNMg,val
+921,tt0106770,1993,Dragon: The Bruce Lee Story,120,Drama,Action,Biography,Drama,"dramatic, cult, violence, romantic","dramatic, violence, romantic",FVbjpA7nL-o,val
+922,tt0106856,1993,Falling Down,113,Crime,Action,Crime,Drama,"comedy, murder, cult, violence, tragedy, home movie","comedy, violence",OEXLGcanDxQ,val
+923,tt0106873,1993,Fatal Instinct,91,Comedy,Comedy,Crime,Thriller,"revenge, neo noir, murder, romantic",romantic,gLYus-Z2I9s,val
+924,tt0106881,1993,Fearless,122,Horror,Drama,Horror,,"psychological, boring, flashback",boring,Tm5jBa4LzxQ,val
+925,tt0106926,1993,Flesh and Bone,126,Romance,Drama,Mystery,Romance,murder,,1SbacB2W1l8,val
+926,tt0106950,1992,Fortress,95,Action,Action,Crime,Sci-Fi,"insanity, cult, violence",violence,3U6oLx3xy8s,val
+927,tt0107004,1993,Geronimo: An American Legend,115,Drama,Drama,History,Western,"violence, historical",violence,3exHtIOscGo,val
+928,tt0107048,1993,Groundhog Day,101,Comedy,Comedy,Drama,Fantasy,"entertaining, comedy, boring, fantasy, cult, alternate reality, magical realism, cute, clever, feel-good, psychedelic, humor, satire, romantic, alternate history","comedy, boring, fantasy, cute, feel-good, humor, romantic",78DQZy4l-5A,val
+929,tt0107050,1993,Grumpy Old Men,103,Comedy,Comedy,Drama,Romance,"comedy, entertaining",comedy,2A-SOVQvPyg,val
+930,tt0107076,1993,Hard Target,97,Crime,Action,Crime,Thriller,"comedy, murder, violence, cult, action, revenge, sadist","comedy, violence, action, sadist",8CS7SJMoaCU,val
+931,tt0107120,1993,Hocus Pocus,96,Comedy,Comedy,Family,Fantasy,"cult, horror, revenge, good versus evil, romantic, entertaining","horror, romantic",Oryofd_T-ng,val
+933,tt0107144,1993,Hot Shots! Part Deux,86,Action,Action,Comedy,,"comedy, cult, flashback, absurd, humor, comic, revenge","comedy, humor, comic",E7HtPMW2tzc,val
+934,tt0107148,1993,House of Cards,109,Drama,Drama,,,"fantasy, psychological",fantasy,P0IhlF0yTGQ,val
+935,tt0107206,1993,In the Line of Fire,128,Action,Action,Crime,Drama,"suspenseful, neo noir, murder, mystery, violence, revenge, flashback, good versus evil, humor, action, romantic","suspenseful, mystery, violence, humor, action, romantic",YZ_AptkMZIA,val
+936,tt0107207,1993,In the Name of the Father,133,Drama,Biography,Crime,Drama,"tragedy, dramatic, violence, historical, realism","dramatic, violence",b1VcwIncgYs,val
+938,tt0107247,1993,Jack the Bear,99,Comedy,Comedy,Drama,,flashback,,vH6p2cgDbck,val
+939,tt0107286,1993,Judgment Night,110,Crime,Action,Crime,Drama,"violence, neo noir, murder",violence,G5p7wq2PcJM,val
+940,tt0107290,1993,Jurassic Park,127,Action,Action,Adventure,Sci-Fi,"mystery, dramatic, cult, violence, horror, action, humor, suspenseful, entertaining","mystery, dramatic, violence, horror, action, humor, suspenseful",nFMqT3f-3XU,val
+941,tt0107315,1993,Kika,114,Comedy,Comedy,,,"entertaining, comedy, intrigue, murder, flashback",comedy,dK9qQ9w_Gww,val
+942,tt0107387,1993,Leprechaun,92,Horror,Comedy,Fantasy,Horror,"horror, cult, suspenseful, comedy, violence","horror, suspenseful, comedy, violence",B1fjPf5mrBQ,val
+943,tt0107473,1993,Mad Dog and Glory,97,Comedy,Comedy,Crime,Drama,"romantic, neo noir",romantic,J99GjHJTazY,val
+944,tt0107497,1993,Malice,107,Crime,Crime,Mystery,Thriller,"revenge, intrigue, neo noir, murder",,OzpqLRb2lfs,val
+945,tt0107507,1993,Manhattan Murder Mystery,104,Comedy,Comedy,Mystery,,"comedy, mystery, murder, flashback","comedy, mystery",MZAXZ24bAS8,val
+946,tt0107554,1993,Menace II Society,97,Crime,Crime,Drama,Thriller,"comedy, suspenseful, neo noir, murder, bleak, cult, revenge, violence, flashback, romantic, blaxploitation","comedy, suspenseful, violence, romantic",CD2pjnGy8Fk,val
+947,tt0107614,1993,Mrs. Doubtfire,125,Comedy,Comedy,Drama,,"comedy, bleak, dramatic, cult, suspenseful, entertaining","comedy, dramatic, suspenseful",N3bgipCebuI,val
+950,tt0107665,1993,Needful Things,120,Crime,Crime,Drama,Fantasy,"murder, paranormal, cult, violence, flashback, good versus evil, prank",violence,zJLzkvtlWbg,val
+951,tt0107750,1993,Only the Strong,99,Action,Action,Drama,,"cult, violence",violence,W-C03hEmqO8,val
+952,tt0107756,1992,Orlando,94,Drama,Biography,Drama,Fantasy,"psychedelic, historical",,gUmTvO9KHHU,val
+953,tt0107818,1993,Philadelphia,125,Drama,Drama,,,"dramatic, cult, queer, romantic, home movie","dramatic, romantic",cl4B9AU45P4,val
+954,tt0107843,1993,Point of No Return,109,Action,Action,Crime,Drama,"cult, suspenseful, neo noir, murder",suspenseful,GUXSN2ZOKw8,val
+956,tt0107977,1993,Robin Hood: Men in Tights,104,Action,Adventure > Action,Comedy,Musical,"comedy, cult, absurd, action, humor, comic, entertaining","comedy, action, humor, comic",dX4Ik-cyp-I,val
+958,tt0107983,1993,Romeo Is Bleeding,110,Crime,Crime,Drama,Romance,"comedy, avant garde, cruelty, suspenseful, murder, neo noir, cult, violence, good versus evil, satire, tragedy, revenge, sadist","comedy, suspenseful, violence, sadist",XuPs8dWiXZw,val
+959,tt0108002,1993,Rudy,114,Drama,Biography,Drama,Sport,inspiring,inspiring,rB0k21sGT_A,val
+961,tt0108122,1993,Short Cuts,188,Drama,Comedy,Drama,,"comedy, humor, murder","comedy, humor",RVTQKhZ-qPk,val
+963,tt0108149,1993,Six Degrees of Separation,112,Drama,Comedy,Drama,Mystery,"cult, humor, satire",humor,HLIyuYwbVnA,val
+964,tt0108160,1993,Sleepless in Seattle,105,Romance,Comedy,Drama,Romance,"dramatic, romantic, boring, comedy","dramatic, romantic, boring, comedy",4J7gg1V0oak,val
+965,tt0108162,1993,Sliver,107,Drama,Drama,Thriller,,"suspenseful, mystery, murder","suspenseful, mystery",5UNwxC-uPX0,val
+966,tt0108171,1993,Sniper,98,Action,Action,Thriller,War,"suspenseful, violence","suspenseful, violence",zL1f78T3DI8,val
+967,tt0108174,1993,So I Married an Axe Murderer,93,Comedy,Comedy,Romance,,"comedy, murder, cult, insanity, psychedelic, romantic, entertaining","comedy, romantic",O3TgDBN7wk4,val
+969,tt0108238,1993,Striking Distance,102,Crime,Action,Crime,Mystery,murder,,doagfMS5fdA,val
+970,tt0108308,1993,Teenage Mutant Ninja Turtles III,96,Action,Action,Adventure,Comedy,"cult, psychedelic, violence",violence,w2dNvVdz3js,val
+971,tt0108330,1993,This Boy's Life,115,Drama,Biography,Drama,,violence,violence,P28qmkCrNSM,val
+972,tt0108358,1993,Tombstone,130,Drama,Biography,Drama,History,"realism, cult, suspenseful, murder, violence","suspenseful, violence",XTWYKf5hXIg,val
+973,tt0108399,1993,True Romance,119,Crime,Crime,Drama,Romance,"comedy, murder, cult, violence, action, romantic","comedy, violence, action, romantic",GV1M6qf0Fts,val
+974,tt0108526,1993,We're Back! A Dinosaur's Story,72,Comedy,Adventure,Animation,Comedy,psychedelic,,SNJLtyV3IGM,val
+975,tt0108550,1993,What's Eating Gilbert Grape,118,Drama,Drama,,,"tragedy, whimsical, psychedelic, boring, depressing","boring, depressing",X6sLIP3908w,val
+976,tt0109021,1994,8 Seconds,105,Drama,Biography,Drama,Sport,"tragedy, romantic",romantic,I2Sgit4QPlM,val
+977,tt0109035,1994,Above the Rim,96,Crime,Crime,Drama,Sport,"violence, murder",violence,OPzjEsD0p5Y,val
+978,tt0109040,1994,Ace Ventura: Pet Detective,86,Comedy,Comedy,,,"comedy, murder, bleak, cult, humor, action, revenge","comedy, humor, action",_MQSTiPbKLA,val
+979,tt0109068,1994,Airheads,92,Comedy,Comedy,Crime,Music,"cult, comedy",comedy,FD9a_EVDk-s,val
+981,tt0109190,1994,Baby's Day Out,99,Crime,Adventure,Comedy,Crime,"good versus evil, flashback",,pzow5wUp7hY,val
+982,tt0109254,1994,Beverly Hills Cop III,104,Comedy,Action,Comedy,Crime,"comedy, murder, cult, violence, comic, revenge, entertaining","comedy, violence, comic",kUjD5uKWxcg,val
+983,tt0109297,1993,Blink,106,Crime,Crime,Drama,Mystery,"mystery, neo noir, murder",mystery,azibdrz8l3c,val
+984,tt0109303,1994,Blown Away,121,Action,Action,Crime,Drama,"suspenseful, violence, cult, flashback, good versus evil, action, revenge","suspenseful, violence, action",lBV2BBawWlQ,val
+985,tt0109370,1995,Canadian Bacon,91,Comedy,Comedy,,,satire,,ayOlQ9If_cA,val
+986,tt0109439,1994,City Slickers II: The Legend of Curly's Gold,116,Comedy,Comedy,Western,,violence,violence,LSfvuACPzHg,val
+988,tt0109484,1994,"Corrina, Corrina",115,Drama,Comedy,Drama,Romance,home movie,,SvbCmpo-luk,val
+989,tt0109579,1994,Death and the Maiden,103,Horror,Drama,Mystery,Horror,"revenge, suspenseful, psychological",suspenseful,Cnnz214wwkI,val
+991,tt0109758,1994,Exit to Eden,113,Comedy,Comedy,Crime,Romance,"pornographic, romantic, comedy, sadist","romantic, comedy, sadist",Yxa7yLhYDg8,val
+992,tt0109781,1994,Faust,97,Comedy,Animation,Comedy,Drama,"absurd, psychedelic, dark, magical realism, philosophical",dark,5T6MeOnGSBM,val
+993,tt0109830,1994,Forrest Gump,142,Romance,Drama,Romance,,"comedy, psychological, stupid, whimsical, dramatic, cult, cute, clever, flashback, historical fiction, psychedelic, humor, action, feel-good, melodrama, inspiring, romantic, historical, entertaining, sentimental","comedy, dramatic, cute, humor, action, feel-good, inspiring, romantic, sentimental",eYSnxZKTZzU,val
+994,tt0109831,1994,Four Weddings and a Funeral,117,Romance,Comedy,Drama,Romance,"cult, comedy, romantic","comedy, romantic",KFiF8-1cnAc,val
+995,tt0109836,1994,Frankenstein,123,Drama,Drama,Horror,Romance,"revenge, gothic, murder, violence, sci-fi",violence,Lg17y6iz7Xs,val
+996,tt0109842,1994,Fresh,114,Crime,Crime,Drama,Thriller,"tragedy, revenge, neo noir, murder, violence",violence,9n7me832ObU,val
+998,tt0110005,1994,Heavenly Creatures,99,Crime,Biography,Crime,Drama,"fantasy, psychological, murder, boring, cult, violence, revenge, flashback, insanity, psychedelic, melodrama, romantic, queer","fantasy, boring, violence, romantic",TfFDm9q8cS0,val
+999,tt0110027,1994,Highlander III: The Sorcerer,99,Action,Action,Fantasy,Romance,"good versus evil, cult, action, violence","action, violence",eW_HzYMNOng,val
+1000,tt0110097,1994,I'll Do Anything,115,Drama,Comedy,Drama,,satire,,j4UUAeof5Go,val
+1003,tt0110148,1994,Interview with the Vampire: The Vampire Chronicles,123,Drama,Drama,Fantasy,Horror,"comedy, fantasy, gothic, murder, dramatic, cult, violence, horror, atmospheric, good versus evil, revenge, historical","comedy, fantasy, dramatic, violence, horror, atmospheric",HBTObecD93s,val
+1004,tt0110167,1994,It Could Happen to You,101,Romance,Comedy,Drama,Romance,"romantic, comedy, feel-good","romantic, comedy, feel-good",cEvsrvQ2RD8,val
+1005,tt0110186,1994,Jason's Lyric,119,Crime,Crime,Drama,Romance,"violence, flashback",violence,xzeTvIWxhek,val
+1006,tt0110216,1994,Junior,109,Comedy,Comedy,Romance,Sci-Fi,entertaining,,vvFBLJ7C1eo,val
+1007,tt0110265,1993,Killing Zoe,96,Crime,Crime,Thriller,,"cult, murder, violence",violence,fqGj6bWX_6o,val
+1008,tt0110322,1994,Legends of the Fall,133,Drama,Drama,Romance,War,"murder, dramatic, romantic, melodrama, tragedy, revenge, sentimental","dramatic, romantic, sentimental",TR5E7Kuty3o,val
+1009,tt0110329,1994,Leprechaun 2,85,Horror,Comedy,Fantasy,Horror,"good versus evil, cult, violence",violence,fPTC15gu_gk,val
+1010,tt0110367,1994,Little Women,115,Drama,Drama,Family,Romance,"dramatic, romantic","dramatic, romantic",F4-u_7hlAQc,val
+1011,tt0110395,1994,Love and a .45,101,Crime,Crime,Romance,Thriller,"violence, murder",violence,B3AqG25J_Vo,val
+1012,tt0110443,1995,Major Payne,95,Comedy,Adventure,Comedy,Family,"cult, comedy, humor, prank","comedy, humor",6Vvlw7uPdn8,val
+1013,tt0110478,1994,Maverick,127,Action,Action,Adventure,Comedy,"cult, mystery, satire, comedy, flashback","mystery, comedy",mQ69CVbCiow,val
+1014,tt0110598,1994,Muriel's Wedding,106,Comedy,Comedy,Drama,,"cult, comedy, psychedelic, humor","comedy, humor",eTFCFThbwbo,val
+1015,tt0110604,1995,Mute Witness,95,Crime,Crime,Horror,Thriller,"cult, comedy, murder, violence, flashback","comedy, violence",Ss5Hw3uiArs,val
+1016,tt0110613,1994,My Girl 2,99,Drama,Comedy,Drama,Family,home movie,,w3gVq6WXMpg,val
+1017,tt0110622,1994,Naked Gun 33 1/3: The Final Insult,83,Comedy,Comedy,Crime,,"comedy, boring, cult, flashback, absurd, humor, revenge, entertaining","comedy, boring, humor",bHUv8MvvxFk,val
+1018,tt0110632,1994,Natural Born Killers,119,Action,Action,Crime,Drama,"comedy, cruelty, murder, neo noir, cult, violence, flashback, insanity, psychedelic, satire, romantic, revenge, sadist","comedy, violence, romantic, sadist",XpLKNclOtLg,val
+1020,tt0110706,1994,Oblivion,94,Action,Adventure > Action,Comedy,Crime,cult,,5buqVnYiswA,val
+1022,tt0110759,1994,PCU,79,Comedy,Comedy,,,satire,,aIpuS8vTBts,val
+1023,tt0110882,1994,Pred dozhdot,113,Romance,Drama,Romance,War,"revenge, murder, violence",violence,wHBQ4VsQaic,val
+1024,tt0110912,1994,Pulp Fiction,154,Crime,Crime,Drama,,"comedy, murder, stupid, cult, action, revenge, suspenseful, neo noir, western, flashback, clever, psychedelic, satire, thought-provoking, atmospheric, philosophical, entertaining, storytelling, dark, mystery, realism, dramatic, violence, humor, plot twist","comedy, action, suspenseful, atmospheric, dark, mystery, dramatic, violence, humor",YBZp3tkua2Y,val
+1025,tt0110939,1994,Radioland Murders,108,Comedy,Comedy,Crime,Drama,"cult, mystery, murder",mystery,lgJUIRe6hYE,val
+1026,tt0110950,1994,Reality Bites,99,Romance,Comedy,Drama,Romance,"cult, romantic",romantic,NYqk1zgAwZA,val
+1028,tt0111048,1994,S.F.W.,96,Drama,Comedy,Drama,,"comedy, cult, violence, psychedelic, absurd, satire, tragedy, romantic","comedy, violence, romantic",CLQ_dlkA6sU,val
+1029,tt0111127,1994,Serial Mom,95,Comedy,Comedy,Crime,Thriller,"comedy, psychological, murder, violence, cult, satire, revenge","comedy, violence",DtR1czXKJqo,test
+1030,tt0111149,1994,Shallow Grave,89,Crime,Crime,Thriller,,"comedy, dark, cruelty, murder, violence, atmospheric, flashback, insanity, psychedelic, romantic, home movie","comedy, dark, violence, atmospheric, romantic",GOP7HPgysB8,test
+1031,tt0111257,1994,Speed,116,Action,Action,Adventure,Thriller,"comedy, boring, mystery, murder, cult, revenge, violence, good versus evil, humor, action, claustrophobic, romantic, suspenseful","comedy, boring, mystery, violence, humor, action, romantic, suspenseful",aRmhneo5A48,test
+1032,tt0111280,1994,Star Trek VII: Generations,118,Action,Action,Adventure,Mystery,cult,,MUieGh1fHSI,test
+1033,tt0111282,1994,Stargate,116,Action,Action,Adventure,Sci-Fi,"violence, cult, suspenseful, action, atmospheric","violence, suspenseful, action, atmospheric",_mucMCddPy0,test
+1034,tt0111323,1994,Surviving the Game,96,Action,Action,Adventure,Crime,"comedy, suspenseful, murder, suicidal, violence, humor, revenge","comedy, suspenseful, violence, humor",6SdUm-xFu38,test
+1036,tt0111419,1994,Thumbelina,86,Action,Adventure > Action,Animation,Family,fantasy,fantasy,EzVA8BmskjA,test
+1037,tt0111438,1994,Timecop,99,Crime,Action,Crime,Sci-Fi,"alternate reality, cult, humor, violence","humor, violence",WuujAfDRSfc,test
+1038,tt0111477,1994,Trapped in Paradise,111,Action,Adventure > Action,Comedy,Crime,bleak,,PGHRkervPL4,test
+1039,tt0111503,1994,True Lies,141,Action,Action,Comedy,Thriller,"comedy, mystery, neo noir, violence, psychedelic, action, entertaining","comedy, mystery, violence, action",3B7HG8_xbDw,test
+1040,tt0111732,1994,With Honors,101,Drama,Comedy,Drama,,feel-good,feel-good,tWMwABOTRjQ,test
+1041,tt0111742,1994,Wolf,125,Drama,Drama,Horror,Romance,"comedy, gothic, murder, cult, satire, revenge",comedy,JBwwLfog4Yo,test
+1042,tt0111756,1994,Wyatt Earp,191,Action,Action,Adventure,Biography,"cult, historical, murder, violence, flashback",violence,BS5n_Ql1v2k,test
+1043,tt0112281,1995,Ace Ventura: When Nature Calls,90,Comedy,Adventure,Comedy,Crime,"cult, humor, comedy","humor, comedy",jhoFzCYPTl4,test
+1044,tt0112302,1995,Tom and Huck,97,Action,Adventure > Action,Comedy,Drama,"good versus evil, cult, suspenseful, murder, violence","suspenseful, violence",-C-xXZyX2zU,test
+1045,tt0112362,1995,Angel Baby,105,Romance,Drama,Romance,,romantic,romantic,rx9wZfaxIfQ,test
+1046,tt0112365,1995,Angels and Insects,116,Romance,Drama,Romance,,romantic,romantic,bdqnz-FtIog,test
+1047,tt0112384,1995,Apollo 13,140,Drama,Adventure,Drama,History,"mystery, boring, dramatic, claustrophobic, suspenseful, historical","mystery, boring, dramatic, suspenseful",e3ZtOS4MCkk,test
+1048,tt0112401,1995,Assassins,133,Crime,Action,Crime,Thriller,"suspenseful, neo noir, murder, violence, romantic, revenge, sadist","suspenseful, violence, romantic, sadist",pDvmM72h4HQ,test
+1050,tt0112443,1995,Bad Company,108,Crime,Crime,Drama,Thriller,"mystery, revenge, action, murder","mystery, action",2WBdyJAihWI,test
+1052,tt0112462,1995,Batman Forever,121,Action,Action,Adventure,,"comedy, murder, violence, atmospheric, flashback, good versus evil, insanity, action, revenge","comedy, violence, atmospheric, action",RaG5863fizw,test
+1053,tt0112471,1995,Before Sunrise,101,Romance,Drama,Romance,,"thought-provoking, romantic, boring, psychedelic, philosophical","romantic, boring",jGvcbSabADM,test
+1055,tt0112508,1995,Billy Madison,89,Comedy,Comedy,,,"cult, comedy, stupid, entertaining, prank",comedy,k3PUNBE9J0A,test
+1056,tt0112536,1996,Bloodsport 2,90,Action,Action,Sport,,violence,violence,0taW8Kejy2c,test
+1057,tt0112537,1995,Blue Juice,90,Romance,Comedy,Drama,Romance,romantic,romantic,iFjRxN3pw9s,test
+1058,tt0112573,1995,Braveheart,178,Drama,Biography,Drama,History,"murder, dramatic, violence, action, romantic, inspiring, revenge, historical","dramatic, violence, action, romantic, inspiring",rXYCBBJBj6Y,test
+1059,tt0112641,1995,Casino,178,Crime,Crime,Drama,,"comedy, neo noir, murder, cult, violence, revenge, sadist","comedy, violence, sadist",ATgdAVYlczQ,test
+1060,tt0112642,1995,Casper,100,Comedy,Comedy,Family,Fantasy,"paranormal, haunting, absurd, psychedelic, entertaining, sentimental",sentimental,kppS6cJE02M,test
+1061,tt0112681,1995,Citizen X,105,Crime,Biography,Crime,Drama,"mystery, murder",mystery,20KiHIT6wu0,test
+1062,tt0112688,1995,Clockers,128,Crime,Crime,Drama,Mystery,"violence, murder",violence,YsFUoioGePc,test
+1063,tt0112697,1995,Clueless,97,Comedy,Comedy,Romance,,"cult, comedy, satire, entertaining, romantic","comedy, romantic",yHDcD_xhwAo,test
+1064,tt0112722,1995,Copycat,123,Drama,Drama,Mystery,Thriller,"mystery, neo noir, murder, violence, horror, claustrophobic, suspenseful","mystery, violence, horror, suspenseful",lsmXhM4yfU0,test
+1065,tt0112740,1995,Crimson Tide,116,Action,Action,Drama,Thriller,"cult, suspenseful, comedy","suspenseful, comedy",cc0Az3IJFOU,test
+1066,tt0112792,1995,Dangerous Minds,99,Drama,Biography,Drama,,inspiring,inspiring,gA-5nLQCmW8,test
+1067,tt0112851,1995,Desperado,104,Action,Action,Crime,Thriller,"comedy, mystery, neo noir, cult, revenge, violence, flashback, good versus evil, humor, action, romantic","comedy, mystery, violence, humor, action, romantic",aBr3D2Ehecg,test
+1068,tt0112857,1995,Devil in a Blue Dress,102,Crime,Crime,Drama,Mystery,"neo noir, murder, violence, atmospheric, plot twist, suspenseful","violence, atmospheric, suspenseful",50EVm04iPLk,test
+1069,tt0112896,1995,Dracula: Dead and Loving It,88,Horror,Comedy,Fantasy,Horror,"cult, gothic, romantic",romantic,c7Dogj5c9pg,test
+1070,tt0112950,1995,Empire Records,90,Drama,Comedy,Drama,Music,cult,,uvIsvZlk4GE,test
+1072,tt0113071,1995,First Knight,134,Action,Action,Adventure,Drama,"romantic, murder, flashback",romantic,zO1_r6slUlk,test
+1073,tt0113089,1995,Fluke,96,Drama,Drama,Family,Fantasy,"cruelty, flashback",,4iQp5RXzvwk,test
+1074,tt0113097,1995,Forget Paris,101,Romance,Comedy,Romance,,"boring, flashback",boring,G8ZHyJoKYnM,test
+1076,tt0113114,1995,Free Willy 2: The Adventure Home,95,Drama,Adventure,Drama,Family,romantic,romantic,qqOPd5jKYG4,test
+1079,tt0113161,1995,Get Shorty,105,Comedy,Comedy,Crime,Thriller,"comedy, neo noir, murder, cult, violence, satire, revenge, entertaining","comedy, violence",yNLaTtpovys,test
+1080,tt0113189,1995,GoldenEye,130,Action,Action,Adventure,Thriller,"dark, murder, violence, cult, good versus evil, action, revenge, entertaining, sadist","dark, violence, action, sadist",SflGuDXrVSQ,test
+1081,tt0113228,1995,Grumpier Old Men,101,Comedy,Comedy,Romance,,"revenge, comedy, prank",comedy,rEnOoWs3FuA,test
+1082,tt0113243,1995,Hackers,105,Crime,Crime,Drama,Romance,"pornographic, boring, cult, action, sci-fi, prank","boring, action",Ah7Mx38Sguo,test
+1083,tt0113253,1995,Halloween: The Curse of Michael Myers,87,Horror,Horror,Thriller,,"insanity, cult, horror, murder, violence","horror, violence",rAaPBxBxaV8,test
+1084,tt0113277,1995,Heat,170,Action,Action,Crime,Drama,"suspenseful, neo noir, murder, realism, bleak, violence, cult, atmospheric, action, philosophical, revenge","suspenseful, violence, atmospheric, action",0xbBLJ1WGwQ,test
+1085,tt0113303,1995,Hideaway,106,Horror,Fantasy,Horror,Thriller,"murder, paranormal, cult, horror, violence, insanity, sadist","horror, violence, sadist",1jmKLl95NZ8,test
+1086,tt0113305,1995,Higher Learning,128,Crime,Crime,Drama,Thriller,violence,violence,_4KVCVX1MrQ,test
+1087,tt0113321,1995,Home for the Holidays,103,Comedy,Comedy,Drama,Romance,"boring, home movie",boring,ThH8WocPRM0,test
+1088,tt0113347,1995,How to Make an American Quilt,117,Drama,Comedy,Drama,Romance,"romantic, flashback",romantic,K5_2VgJUSBA,test
+1089,tt0113409,1994,In the Mouth of Madness,95,Drama,Drama,Fantasy,Horror,"comedy, fantasy, gothic, murder, paranormal, cult, violence, flashback, good versus evil, insanity, psychedelic, suspenseful","comedy, fantasy, violence, suspenseful",fitU66jq6GQ,test
+1091,tt0113443,1996,It's My Party,110,Drama,Drama,Romance,,queer,,fc57UJcDxDM,test
+1092,tt0113481,1995,Johnny Mnemonic,103,Action,Action,Drama,Sci-Fi,"psychedelic, violence, sci-fi",violence,iVrExCGXrCM,test
+1093,tt0113492,1995,Judge Dredd,96,Crime,Action,Crime,Sci-Fi,"comedy, murder, cult, revenge, good versus evil, humor, romantic, sci-fi","comedy, humor, romantic",43-BefmjMFg,test
+1095,tt0113501,1995,Just Cause,102,Action,Action,Crime,Drama,"revenge, neo noir, murder",,tZlr2PbTiow,test
+1096,tt0113540,1995,Kids,91,Drama,Drama,,,"tragedy, cult, violence",violence,U9a5tZSKDOU,test
+1097,tt0113552,1995,Kiss of Death,101,Crime,Crime,Drama,Thriller,"revenge, neo noir, murder, violence",violence,OzDKmB6bfQQ,test
+1098,tt0113617,1995,Last of the Dogmen,118,Action,Adventure > Action,Western,,"comedy, flashback",comedy,yepPKH2jIfo,test
+1099,tt0113627,1995,Leaving Las Vegas,111,Drama,Drama,Romance,,"dark, depressing, dramatic, atmospheric, flashback, haunting, tragedy, romantic","dark, depressing, dramatic, atmospheric, romantic",UMlYWZgCIgo,test
+1100,tt0113636,1995,Leprechaun 3,90,Horror,Comedy,Fantasy,Horror,"good versus evil, cult, murder",,TBWkCYS1I0A,test
+1101,tt0113677,1995,Living in Oblivion,90,Comedy,Comedy,Drama,,"cult, satire, romantic, flashback",romantic,JV-KKzoPEco,test
+1102,tt0113690,1995,Lord of Illusions,109,Horror,Horror,Mystery,Thriller,"insanity, violence, cult, murder",violence,YyJvOuxZDHY,test
+1103,tt0113729,1995,Mad Love,93,Romance,Comedy,Drama,Romance,"insanity, romantic",romantic,BzJaAn20O_g,test
+1104,tt0113749,1995,Mallrats,94,Comedy,Comedy,Romance,,"comedy, cult, absurd, humor, satire, romantic, comic, revenge, prank","comedy, humor, romantic, comic",_eVo7aBze1w,test
+1105,tt0113820,1995,Mighty Morphin Power Rangers: The Movie,95,Action,Action,Adventure,Family,"good versus evil, psychedelic, action, violence","action, violence",yVJYRsCIzWE,test
+1108,tt0113862,1995,Mr. Holland's Opus,143,Drama,Drama,Music,,"inspiring, romantic, stupid, feel-good","inspiring, romantic, feel-good",JYoWGIrXiz0,test
+1109,tt0113870,1995,Murder in the First,122,Drama,Drama,Thriller,,"insanity, murder, flashback",,oMbMwdPwnYE,test
+1110,tt0113896,1995,My Family,128,Drama,Drama,,,murder,,Cl7ff7hqAA0,test
+1111,tt0113967,1995,New Jersey Drive,98,Crime,Crime,Drama,,"cult, dark, murder, violence","dark, violence",6wEM9KYgMx4,test
+1112,tt0113986,1995,Nine Months,103,Comedy,Comedy,Romance,,"comedy, romantic, humor, entertaining","comedy, romantic, humor",dVmOU8HPf_E,test
+1113,tt0113987,1995,Nixon,192,Drama,Biography,Drama,History,"dramatic, flashback",dramatic,dO2LWKpeyI8,test
+1114,tt0114011,1995,Now and Then,100,Drama,Comedy,Drama,Romance,"paranormal, flashback",,RQLVzTtt2Ws,test
+1116,tt0114069,1995,Outbreak,127,Action,Action,Drama,Thriller,"suspenseful, romantic","suspenseful, romantic",Ors7S06Odd8,test
+1117,tt0114148,1995,Pocahontas,81,Action,Adventure > Action,Animation,Drama,"tragedy, romantic",romantic,DSf_pVG8QZM,test
+1118,tt0114168,1995,Powder,111,Drama,Drama,Fantasy,Mystery,"revenge, cult, romantic, flashback",romantic,gHl-UHu2-lM,test
+1119,tt0114272,1995,Restoration,117,Drama,Biography,Drama,History,historical,,CvsAuHYBgEQ,test
+1120,tt0114279,1995,Richard III,110,Drama,Drama,Sci-Fi,War,"tragedy, murder",,OXc0-EME0C8,test
+1121,tt0114287,1995,Rob Roy,139,Drama,Adventure,Biography,Drama,"murder, cult, violence, atmospheric, action, romantic, suspenseful","violence, atmospheric, action, romantic, suspenseful",JuGT5duwCH4,test
+1122,tt0114319,1995,Sabrina,127,Comedy,Comedy,Drama,Romance,"dramatic, romantic, fantasy","dramatic, romantic, fantasy",twTksx_lWB4,test
+1123,tt0114323,1995,Safe,119,Drama,Drama,,,"allegory, psychedelic",,63NPIiCl3zo,test
+1124,tt0114367,1995,Screamers,108,Horror,Horror,Sci-Fi,Thriller,"horror, cult, suspenseful, murder","horror, suspenseful",1AeAvE3FxQ8,test
+1126,tt0114436,1995,Showgirls,128,Drama,Drama,,,"cult, revenge, satire, boring",boring,orJvzyIc0K0,test
+1127,tt0114550,1995,Stonewall,99,Drama,Comedy,Drama,Romance,"anti war, violence",violence,wN6BI7mEtKg,test
+1128,tt0114558,1995,Strange Days,145,Crime,Crime,Drama,Sci-Fi,"pornographic, dark, neo noir, murder, stupid, cult, violence, flashback, psychedelic, revenge, sci-fi","dark, violence",WKpEsKapKtY,test
+1129,tt0114576,1995,Sudden Death,111,Action,Action,Crime,Thriller,"suspenseful, action, violence","suspenseful, action, violence",wxur3zQJ3jU,test
+1130,tt0114594,1994,Swimming with Sharks,93,Comedy,Comedy,Crime,,"comedy, cruelty, murder, bleak, satire, revenge, sadist","comedy, sadist",UH9OLQh46FY,test
+1131,tt0114609,1995,Tales from the Hood,98,Crime,Crime,Drama,Horror,"violence, murder, blaxploitation",violence,hrn2PzAk6iw,test
+1132,tt0114614,1995,Tank Girl,104,Comedy,Action,Comedy,Sci-Fi,"cult, humor, violence, stupid","humor, violence",Y3iEgKjh3Nk,test
+1133,tt0114660,1995,Things to Do in Denver When You're Dead,115,Drama,Crime,Drama,Thriller,"revenge, comedy, neo noir, violence","comedy, violence",i1o_PO3ridY,test
+1134,tt0114671,1995,Land and Freedom,109,Drama,Drama,War,,flashback,,VKCOkm5wA48,test
+1135,tt0114694,1995,Tommy Boy,97,Comedy,Adventure,Comedy,,"cult, comedy, entertaining, humor","comedy, humor",U-xFypjUqTM,test
+1136,tt0114702,1995,Total Eclipse,111,Drama,Biography,Drama,Romance,"violence, romantic, cruelty, sadist, flashback","violence, romantic, sadist",tO70ErMaCjQ,test
+1137,tt0114709,1995,Toy Story,81,Comedy,Adventure,Animation,Comedy,"comedy, fantasy, cult, cute, violence, clever, humor, entertaining","comedy, fantasy, cute, violence, humor",4KPTXpQehio,test
+1138,tt0114720,1996,Tremors II: Aftershocks,100,Action,Action,Comedy,Horror,cult,,naO4wVS_8Jk,test
+1139,tt0114746,1995,Twelve Monkeys,129,Thriller,Mystery,Sci-Fi,Thriller,"comedy, psychological, dark, murder, depressing, stupid, mystery, dramatic, cult, alternate reality, violence, atmospheric, flashback, insanity, psychedelic, alternate history, prank","comedy, dark, depressing, mystery, dramatic, violence, atmospheric",tSQonjDo9Jk,test
+1140,tt0114781,1995,Under Siege 2: Dark Territory,100,Horror,Action,Adventure,Thriller > Horror,"revenge, comedy, action, murder, violence","comedy, action, violence",OhPOPHR67-U,test
+1141,tt0114787,1995,Underground,170,Drama,Comedy,Drama,Fantasy,"comedy, murder, psychedelic, satire, romantic, revenge","comedy, romantic",iKdl5r7_ZPc,test
+1143,tt0114852,1995,Village of the Damned,98,Horror,Horror,Sci-Fi,Thriller,"paranormal, violence, murder",violence,Y7tNVTmlkzg,test
+1144,tt0114857,1995,Virtuosity,106,Crime,Action,Crime,Sci-Fi,"murder, violence, flashback, good versus evil, insanity, sadist, sci-fi","violence, sadist",KEDdaStz4kw,test
+1145,tt0114885,1995,Waiting to Exhale,124,Drama,Comedy,Drama,Romance,revenge,,j9xml1CxgXI,test
+1146,tt0114898,1995,Waterworld,135,Action,Action,Adventure,Sci-Fi,"cult, stupid, sci-fi",,xkulYwRDAmY,test
+1147,tt0114906,1995,Welcome to the Dollhouse,88,Comedy,Comedy,Drama,,"comedy, cruelty, depressing, cult, psychedelic, satire","comedy, depressing",PTCoF7ZQG0E,test
+1148,tt0114924,1995,While You Were Sleeping,103,Romance,Comedy,Drama,Romance,"cute, boring, entertaining, romantic, feel-good","cute, boring, romantic, feel-good",d3RSYSsgz3w,test
+1149,tt0114938,1995,Wild Bill,98,Action,Action,Biography,Western,"cult, revenge, storytelling, flashback",,chceChQAVjI,test
+1151,tt0115438,1996,2 Days in the Valley,104,Crime,Comedy,Crime,Thriller,"comedy, suspenseful, neo noir, murder, suicidal, violence, revenge","comedy, suspenseful, violence",umjwm08s104,test
+1152,tt0115624,1996,Barb Wire,98,Action,Action,Sci-Fi,,"avant garde, murder, cult, flashback, revenge, sci-fi",,F2mk5MZwksg,test
+1153,tt0115639,1996,Beautiful Girls,112,Comedy,Comedy,Drama,Romance,"violence, cult, humor, atmospheric, romantic","violence, humor, atmospheric, romantic",0AvkCamSj5o,test
+1154,tt0115640,1996,Beautiful Thing,90,Comedy,Comedy,Drama,Romance,"queer, feel-good",feel-good,YnqhBZpKTl4,test
+1155,tt0115641,1996,Beavis and Butt-Head Do America,81,Comedy,Adventure,Animation,Comedy,"cult, comedy, entertaining, stupid",comedy,jRnVQ4NBXko,test
+1156,tt0115644,1996,Bed of Roses,87,Romance,Drama,Romance,,"romantic, fantasy","romantic, fantasy",GJ6-ymSjShg,test
+1157,tt0115710,1996,Blood and Wine,101,Crime,Crime,Drama,Thriller,"romantic, neo noir, murder",romantic,bVfNwv-vBlk,test
+1158,tt0115714,1996,Bloodsport III,91,Action,Action,Sport,,violence,violence,sBTDK2avjnw,test
+1159,tt0115734,1996,Bottle Rocket,91,Comedy,Comedy,Crime,Drama,"cult, humor, psychedelic, romantic","humor, romantic",hspUSez-rYY,test
+1160,tt0115744,1996,Brassed Off,108,Drama,Comedy,Drama,Music,romantic,romantic,_b4zPoleN28,test
+1165,tt0115886,1996,Children of the Revolution,101,Comedy,Comedy,Drama,Romance,"comedy, avant garde, murder, violence, flashback, insanity, satire","comedy, violence",VYtklkIQOqQ,test
+1166,tt0115906,1996,Citizen Ruth,106,Comedy,Comedy,Drama,,"dark, satire",dark,oIb4KbnMQ38,test
+1168,tt0115956,1996,Courage Under Fire,116,Action,Action,Drama,Mystery,"violence, murder",violence,F3n76pChEcs,test
+1169,tt0115964,1996,Crash,100,Drama,Drama,,,"mystery, violence, cult, insanity, psychedelic, sadist","mystery, violence, sadist",XY7mcGOh0ws,test
+1170,tt0116126,1996,Don't Be a Menace to South Central While Drinking Your Juice in the Hood,89,Comedy,Comedy,Crime,,"comedy, cult, flashback, humor, satire, revenge","comedy, humor",JAAhQwcJ20U,test
+1171,tt0116130,1996,Down Periscope,92,Comedy,Comedy,,,prank,,pjyjP5h6PjI,test
+1172,tt0116147,1997,Drive,100,Action,Action,Adventure,Comedy,"cult, suspenseful, violence","suspenseful, violence",ipxCifEHS2M,test
+1173,tt0116213,1996,Eraser,115,Action,Action,Crime,Thriller,"violence, action, neo noir, murder","violence, action",P3nrgwO3R-w,test
+1174,tt0116225,1996,Escape from L.A.,101,Action,Action,Adventure,Sci-Fi,"mystery, murder, cult, violence, flashback, humor","mystery, violence, humor",kN-GSO4PfQ8,test
+1175,tt0116253,1996,Executive Decision,133,Action,Action,Adventure,Thriller,"mystery, suspenseful, murder, violence, flashback, revenge","mystery, suspenseful, violence",3pdPOqN06ec,test
+1176,tt0116259,1996,Extreme Measures,118,Drama,Crime,Drama,Mystery,neo noir,,U4wtM2UIWkg,test
+1178,tt0116282,1996,Fargo,98,Crime,Crime,Thriller,,"comedy, dark, neo noir, murder, boring, bleak, cult, violence, absurd, psychedelic, satire, entertaining","comedy, dark, boring, violence",h2tY82z3xXU,test
+1179,tt0116287,1996,Fear,97,Horror,Drama,Horror,,"violence, neo noir, murder",violence,p2AlffKozbg,test
+1180,tt0116289,1996,Feeling Minnesota,99,Comedy,Comedy,Crime,Drama,comedy,comedy,LoVRGgufV2w,test
+1181,tt0116311,1996,First Kid,101,Comedy,Comedy,Family,,violence,violence,_t7ubr0jBII,test
+1182,tt0116329,1996,Fly Away Home,107,Drama,Adventure,Drama,Family,"tragedy, inspiring",inspiring,KxEK8xHyAnc,test
+1183,tt0116361,1996,Freeway,102,Crime,Crime,Drama,Thriller,"comedy, fantasy, neo noir, murder, cult, violence, flashback, psychedelic, satire, romantic, revenge","comedy, fantasy, violence, romantic",TujjYkFcmho,test
+1184,tt0116367,1996,From Dusk Till Dawn,108,Action,Action,Crime,Horror,"comedy, murder, cult, violence, horror, psychedelic, humor, action, plot twist, entertaining","comedy, violence, horror, humor, action",#NAME?,test
+1186,tt0116483,1996,Happy Gilmore,92,Comedy,Comedy,Sport,,"cult, comedy, humor","comedy, humor",y1emDAYCfVQ,test
+1187,tt0116488,1996,Hard Core Logo,92,Comedy,Comedy,Drama,Music,"comedy, violence, satire, romantic, storytelling, home movie","comedy, violence, romantic",CAw_HZ4GsFc,test
+1188,tt0116493,1996,Harriet the Spy,100,Comedy,Comedy,Drama,Family,flashback,,pV1YuMsPO88,test
+1189,tt0116508,1996,Heaven's Prisoners,132,Drama,Drama,Mystery,Thriller,"revenge, murder, plot twist",,hwuRDxzitek,test
+1190,tt0116514,1996,Hellraiser: Bloodline,85,Horror,Horror,Sci-Fi,,"gothic, violence, horror, flashback, good versus evil, sadist","violence, horror, sadist",NoU_IizY9GM,test
+1191,tt0116531,1996,High School High,86,Comedy,Comedy,Crime,Romance,"absurd, comedy",comedy,jBGru6cBEdU,test
+1192,tt0116571,1996,House Arrest,108,Comedy,Comedy,Family,,"romantic, home movie",romantic,RQYNVWQe9no,test
+1193,tt0116594,1996,I Shot Andy Warhol,103,Drama,Biography,Drama,,queer,,qAQRCcQlXXE,test
+1194,tt0116607,1996,If These Walls Could Talk,97,Drama,Drama,Thriller,,"violence, murder, flashback",violence,21-ptEqzy0g,test
+1195,tt0116629,1996,Independence Day,145,Action,Action,Adventure,Sci-Fi,"mystery, stupid, cult, humor, action, tragedy, suspenseful","mystery, humor, action, suspenseful",YcMnXc0taUI,test
+1196,tt0116683,1996,James and the Giant Peach,79,Action,Adventure > Action,Animation,Family,"cult, fantasy, psychedelic, sadist","fantasy, sadist",iqrGesf2xbg,test
+1197,tt0116695,1996,Jerry Maguire,139,Romance,Comedy,Drama,Romance,"comedy, humor, romantic","comedy, humor, romantic",D4pb2JuU6Y4,test
+1198,tt0116705,1996,Jingle All the Way,89,Comedy,Adventure,Comedy,Family,comic,comic,Tcj_k50GJxc,test
+1199,tt0116722,1996,Jude,123,Drama,Drama,Romance,,tragedy,,sigcSoe45oE,test
