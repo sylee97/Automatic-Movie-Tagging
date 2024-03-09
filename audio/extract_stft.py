@@ -2,9 +2,13 @@ import os
 import librosa
 import numpy as np
 import matplotlib.pyplot as plt
+import yaml
+
+with open('./config/cfg.yaml') as f:
+    cfg = yaml.safe_load(f)
 
 # load file
-acc_audio_dir = r'E:\NRF_2022\MDPI\Extracted_Data\new_stft\acc_audio' # bgm audio folder path
+acc_audio_dir = cfg['audio']['acc_dir'] # bgm audio(987) folder path
 file_list = os.listdir(acc_audio_dir)
 print(f"audio num: {len(file_list)}")
 
@@ -27,7 +31,7 @@ for file in file_list:
     # plt.colorbar(format='%2.0f dB') # showing right colorbar
     plt.axis('off') # axis remove
     # plt.show()
-    img_save_path=r'E:\NRF_2022\MDPI\Extracted_Data\new_stft_2024' # folder dir to save img 
+    img_save_path=r'E:\NRF_2022\MDPI\Extracted_Data\new_stft_2024' # folder dir to save img (987)
     
     fname=img_save_path+ '\\' + name + '.png'
     plt.savefig(fname=fname, bbox_inches='tight', pad_inches=0) # remove padding and save
