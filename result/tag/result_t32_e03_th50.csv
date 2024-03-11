@@ -1,0 +1,118 @@
+,imdb_id,gt_labels,predicted_labels
+0,tt0111438,"['violence', 'humor']",['violence']
+1,tt0111503,"['violence', 'comedy', 'action', 'mystery']",['violence']
+2,tt0111732,['feel-good'],['violence']
+3,tt0111742,['comedy'],"['violence', 'suspenseful']"
+4,tt0111756,['violence'],"['violence', 'romantic']"
+5,tt0112281,"['comedy', 'humor']",['romantic']
+6,tt0112302,"['violence', 'suspenseful']","['violence', 'romantic']"
+7,tt0112362,['romantic'],"['violence', 'romantic']"
+8,tt0112365,['romantic'],['romantic']
+9,tt0112384,"['suspenseful', 'boring', 'mystery', 'dramatic']",['romantic']
+10,tt0112401,"['violence', 'romantic', 'suspenseful', 'sadist']","['violence', 'romantic']"
+11,tt0112443,"['action', 'mystery']","['violence', 'romantic']"
+12,tt0112462,"['violence', 'comedy', 'action', 'atmospheric']",['violence']
+13,tt0112471,"['romantic', 'boring']","['violence', 'romantic']"
+14,tt0112508,['comedy'],['romantic']
+15,tt0112536,['violence'],['violence']
+16,tt0112537,['romantic'],"['violence', 'romantic']"
+17,tt0112573,"['violence', 'romantic', 'action', 'dramatic', 'inspiring']",['violence']
+18,tt0112641,"['violence', 'comedy', 'sadist']","['violence', 'romantic']"
+19,tt0112642,['sentimental'],['violence']
+20,tt0112681,['mystery'],['violence']
+21,tt0112688,['violence'],"['violence', 'romantic']"
+22,tt0112697,"['romantic', 'comedy']","['violence', 'romantic']"
+23,tt0112722,"['violence', 'suspenseful', 'mystery', 'horror']",['romantic']
+24,tt0112740,"['comedy', 'suspenseful']",['romantic']
+25,tt0112792,['inspiring'],"['violence', 'romantic']"
+26,tt0112851,"['violence', 'romantic', 'comedy', 'humor', 'action', 'mystery']",['violence']
+27,tt0112857,"['violence', 'suspenseful', 'atmospheric']",['violence']
+28,tt0112896,['romantic'],['romantic']
+29,tt0113071,['romantic'],"['violence', 'romantic']"
+30,tt0113097,['boring'],"['violence', 'romantic']"
+31,tt0113114,['romantic'],"['violence', 'romantic']"
+32,tt0113161,"['violence', 'comedy']",['romantic']
+33,tt0113189,"['violence', 'action', 'sadist', 'dark']",['violence']
+34,tt0113228,['comedy'],['romantic']
+35,tt0113243,"['action', 'boring']",['romantic']
+36,tt0113253,"['violence', 'horror']",['romantic']
+37,tt0113277,"['violence', 'suspenseful', 'action', 'atmospheric']","['violence', 'romantic']"
+38,tt0113303,"['violence', 'sadist', 'horror']","['violence', 'romantic']"
+39,tt0113305,['violence'],"['violence', 'romantic']"
+40,tt0113321,['boring'],['romantic']
+41,tt0113347,['romantic'],['romantic']
+42,tt0113409,"['violence', 'comedy', 'suspenseful', 'fantasy']",['violence']
+43,tt0113481,['violence'],['violence']
+44,tt0113492,"['romantic', 'comedy', 'humor']",['violence']
+45,tt0113540,['violence'],['violence']
+46,tt0113552,['violence'],"['violence', 'comedy']"
+47,tt0113617,['comedy'],['violence']
+48,tt0113627,"['romantic', 'dramatic', 'dark', 'atmospheric', 'depressing']","['violence', 'romantic']"
+49,tt0113677,['romantic'],['romantic']
+50,tt0113690,['violence'],['violence']
+51,tt0113729,['romantic'],['violence']
+52,tt0113749,"['romantic', 'comedy', 'humor', 'comic']","['violence', 'comedy']"
+53,tt0113820,"['violence', 'action']","['violence', 'romantic']"
+54,tt0113862,"['romantic', 'inspiring', 'feel-good']",['violence']
+55,tt0113967,"['violence', 'dark']","['violence', 'romantic']"
+56,tt0113986,"['romantic', 'comedy', 'humor']","['violence', 'romantic']"
+57,tt0113987,['dramatic'],['romantic']
+58,tt0114069,"['romantic', 'suspenseful']","['violence', 'romantic']"
+59,tt0114148,['romantic'],['romantic']
+60,tt0114168,['romantic'],"['violence', 'romantic']"
+61,tt0114287,"['violence', 'romantic', 'suspenseful', 'action', 'atmospheric']","['violence', 'romantic']"
+62,tt0114319,"['romantic', 'fantasy', 'dramatic']",['romantic']
+63,tt0114367,"['suspenseful', 'horror']",['violence']
+64,tt0114436,['boring'],['violence']
+65,tt0114550,['violence'],['violence']
+66,tt0114558,"['violence', 'dark']",['violence']
+67,tt0114576,"['violence', 'suspenseful', 'action']",['violence']
+68,tt0114594,"['comedy', 'sadist']",['no pred']
+69,tt0114609,['violence'],"['violence', 'comedy']"
+70,tt0114614,"['violence', 'humor']",['violence']
+71,tt0114660,"['violence', 'comedy']",['violence']
+72,tt0114694,"['comedy', 'humor']","['violence', 'romantic']"
+73,tt0114702,"['violence', 'romantic', 'sadist']",['romantic']
+74,tt0114709,"['violence', 'comedy', 'humor', 'fantasy', 'cute']","['violence', 'romantic']"
+75,tt0114746,"['violence', 'comedy', 'mystery', 'dramatic', 'dark', 'atmospheric', 'depressing']","['violence', 'romantic']"
+76,tt0114781,"['violence', 'comedy', 'action']","['violence', 'romantic']"
+77,tt0114787,"['romantic', 'comedy']","['violence', 'romantic']"
+78,tt0114852,['violence'],"['violence', 'romantic']"
+79,tt0114857,"['violence', 'sadist']",['violence']
+80,tt0114906,"['comedy', 'depressing']","['violence', 'romantic']"
+81,tt0114924,"['romantic', 'boring', 'cute', 'feel-good']",['violence']
+82,tt0115438,"['violence', 'comedy', 'suspenseful']",['romantic']
+83,tt0115639,"['violence', 'romantic', 'humor', 'atmospheric']",['romantic']
+84,tt0115640,['feel-good'],['romantic']
+85,tt0115641,['comedy'],['romantic']
+86,tt0115644,"['romantic', 'fantasy']",['violence']
+87,tt0115710,['romantic'],['violence']
+88,tt0115714,['violence'],['violence']
+89,tt0115734,"['romantic', 'humor']",['romantic']
+90,tt0115744,['romantic'],['romantic']
+91,tt0115886,"['violence', 'comedy']","['violence', 'romantic']"
+92,tt0115906,['dark'],['no pred']
+93,tt0115956,['violence'],['romantic']
+94,tt0115964,"['violence', 'sadist', 'mystery']",['violence']
+95,tt0116126,"['comedy', 'humor']",['violence']
+96,tt0116147,"['violence', 'suspenseful']",['violence']
+97,tt0116213,"['violence', 'action']","['violence', 'romantic']"
+98,tt0116225,"['violence', 'humor', 'mystery']","['violence', 'romantic']"
+99,tt0116253,"['violence', 'suspenseful', 'mystery']","['violence', 'romantic']"
+100,tt0116282,"['violence', 'comedy', 'boring', 'dark']",['romantic']
+101,tt0116287,['violence'],"['violence', 'romantic']"
+102,tt0116289,['comedy'],"['violence', 'romantic']"
+103,tt0116311,['violence'],['romantic']
+104,tt0116329,['inspiring'],['romantic']
+105,tt0116361,"['violence', 'romantic', 'comedy', 'fantasy']",['romantic']
+106,tt0116367,"['violence', 'comedy', 'humor', 'action', 'horror']",['romantic']
+107,tt0116483,"['comedy', 'humor']",['romantic']
+108,tt0116488,"['violence', 'romantic', 'comedy']",['romantic']
+109,tt0116514,"['violence', 'sadist', 'horror']",['violence']
+110,tt0116531,['comedy'],['romantic']
+111,tt0116571,['romantic'],['romantic']
+112,tt0116607,['violence'],['romantic']
+113,tt0116629,"['suspenseful', 'humor', 'action', 'mystery']",['romantic']
+114,tt0116683,"['sadist', 'fantasy']",['romantic']
+115,tt0116695,"['romantic', 'comedy', 'humor']",['romantic']
+116,tt0116705,['comic'],['romantic']
