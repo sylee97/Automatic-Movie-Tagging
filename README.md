@@ -25,6 +25,8 @@ python -m ipykernel install --user --name auto_tagging --display-name auto_taggi
 
 ### module 3) audio analysis
 
+* dataset extracted accompany audio 987 files
+      - [Link] https://drive.google.com/drive/folders/1Sc4YUPtTIEK25cWh-pQwQe-61yhJhykJ?usp=sharing
 * test.csv file include 100 audios with 7 major feature values(chroma_stft, rms, spectral_centroid, spectral_bandwidth, spectral_rolloff, zcr, mfcc) 
 and 10 extracted tags(idx) from musicnn models
 * train with random forest model then evaluate
