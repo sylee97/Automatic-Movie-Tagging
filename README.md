@@ -19,7 +19,7 @@ python -m ipykernel install --user --name auto_tagging --display-name auto_taggi
     - [Dropbox Link : spectrogram image files for extracted audio from trailer](https://www.dropbox.com/home/automatic_movie_tagging/dataset/tag)
 - 20 tags : listed in tag_list_mood.csv
 
-### module 3) genre classification
+### module 3) audio analysis
 
 * test.csv file include 100 audios with 7 major feature values(chroma_stft, rms, spectral_centroid, spectral_bandwidth, spectral_rolloff, zcr, mfcc) 
 and 10 extracted tags(idx) from musicnn models
