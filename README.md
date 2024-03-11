@@ -12,14 +12,16 @@ python -m ipykernel install --user --name auto_tagging --display-name auto_taggi
 * dataset consists of 972 movie trailer video files  
     - [Dropbox Link : spectrogram image files for extracted audio from trailer](https://www.dropbox.com/home/automatic_movie_tagging/dataset/genre/new2)
 - 6 genres : Action, Comedy, Crime, Drama, Horror, Romance
-* model files : [Link](https://www.dropbox.com/scl/fo/nf1eu8ujms4p784k8r848/h?rlkey=82t2w34hw0ko0rh6eemeqq68a&dl=0)
+* model files : (3 versions) ResNet34, MobileNetv2, VGG16
+    - [Link](https://www.dropbox.com/scl/fo/nf1eu8ujms4p784k8r848/h?rlkey=82t2w34hw0ko0rh6eemeqq68a&dl=0)
 
 ### module 2) mood tag classification
 
 * dataset consists of 972 movie trailer video files  
     - [Dropbox Link : spectrogram image files for extracted audio from trailer](https://www.dropbox.com/home/automatic_movie_tagging/dataset/tag)
 - 20 tags : listed in tag_list_mood.csv
-* model files : [Link](https://www.dropbox.com/scl/fo/xbxa1tp52eub0x1us8ee8/h?rlkey=c3dmety4wcnwqif0tcurmqnun&dl=0)
+* model files : (2 versions) BCE Loss, ASL Loss
+    - [Link](https://www.dropbox.com/scl/fo/xbxa1tp52eub0x1us8ee8/h?rlkey=c3dmety4wcnwqif0tcurmqnun&dl=0)
 
 ### module 3) audio analysis
 
