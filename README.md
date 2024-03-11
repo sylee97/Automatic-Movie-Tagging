@@ -17,7 +17,7 @@ python -m ipykernel install --user --name auto_tagging --display-name auto_taggi
 
 ### module 2) mood tag classification
 
-* dataset consists of 972 movie trailer video files  
+* dataset consists of 780 movie trailer video files  
     - [Dropbox Link : spectrogram image files for extracted audio from trailer](https://www.dropbox.com/home/automatic_movie_tagging/dataset/tag)
 - 20 tags : listed in tag_list_mood.csv
 * model files : (2 versions) BCE Loss, ASL Loss
